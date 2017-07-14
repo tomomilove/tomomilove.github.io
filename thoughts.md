@@ -151,8 +151,8 @@ One day there was an empty man. But someone planted a seed of humor in his heart
 
 # Random musings -- What is sarcasm?
 
-TUESDAY: Set up website, movie reviews, buy things for LOVE MAN.
-WEDNESDAY: Recipes, Whose Turn download, inspirational quotes
+TUESDAY: Set up website, movie reviews
+WEDNESDAY: Recipes, Whose Turn download
 THURSDAY: Arts and Crafts
 FRIDAY: Assorted memories
 
