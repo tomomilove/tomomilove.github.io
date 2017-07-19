@@ -97,4 +97,8 @@ Now we're done! But the searching man looks a little perplexed. He searched the 
 
 Exhausted from his long search, the searching man was forced to conclude that he would never find a heart. That's when he thought of a new idea: he would grow one! 
 
+So he ripped a shred of cloth from his coat, planted it in the ground, and watered it every day. Soon enough, a sprout emerged from the ground and started to grow. He continued to take care of it dilligently. He watered it without fail, shielded it from the sun when it was too hot, and made sure to adjust it if it started growing crooked. It was a lot of work, but he kept going, knowing that one day it would grow into a beautiful heart that he could call his own.
+
 ![The cultivating man](images/complete.png)
+
+To be continued...?

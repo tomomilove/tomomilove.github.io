@@ -1,14 +1,8 @@
-<!DOCTYPE html>
-<html>
-  {% include head.html %}
-  <body>
-    <div class="wrapper">
-      {% include header.html %}
-      <div class="page-content">
-        <div class="post-content">
-          {{ site.description }}
-        </div>
-      </div>
-    </div>
-  </body>
-</html>
+---
+layout: default
+---
+<article class="post">
+  <div class="post-content">
+    {{ content }}
+  </div>
+</article>
