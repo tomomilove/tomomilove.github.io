@@ -6,14 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Strange World Problem
-email: negative.nancy.ng@gmail.com
+title: Tomomi Love
+email: joseph.moghadam@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is a website for my personal thoughts, trying to make sense of the
-  strange world we live in.
+  A website about loving Tomomi.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://strangeproblem.github.io" # the base hostname & protocol for your site
-github_username: strangeproblem
+url: "http://tomomilove.github.io" # the base hostname & protocol for your site
+github_username: jmoghadam
 
 # Build settings
 markdown: kramdown
