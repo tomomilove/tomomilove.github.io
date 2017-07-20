@@ -43,7 +43,7 @@ Wrap multiple pipelcleaners around the nose and neck to create the head. This do
 
 Glue on the eyes. They're just little pieces of paper with pen markings.
 
-![Eyes](/images/empty_man.jpg)
+![Eyes](/images/searching_man/empty_man.jpg)
 
 #### Part 2: The searching man
 
