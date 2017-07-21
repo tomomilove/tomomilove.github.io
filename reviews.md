@@ -47,7 +47,7 @@ This freedom is what makes the game so fun to play. You can go completely at you
 
 Complementing the freedom of the game's structure is the freedom of the gameplay itself. You can climb almost any surface, so there is no place in the world you can't get to. And there are so many ways to travel, whether by horseback, or gliding, or surfing. There are always multiple ways to solve puzzles and multiple ways to approach enemy fights. Do you charge in with your sword? Stay back and use bomb arrows? Freeze enemies with stasis? Or maybe you just sneak in, steal the treasure, and then run.
 
-Ultimately, what makes the game work is that the world is fun to play in. It's fun to explore mountain ranges, to capture and raise horses. to go fishing with bombs, to hunt dragons, to gather ingredients and cook weird meals, to light everything on fire and the glide on the updrafts.
+Ultimately, what makes the game work is that the world is fun to play in. It's fun to explore mountain ranges, to capture and raise horses. to go fishing with bombs, to hunt dragons, to gather ingredients and cook weird meals, to light everything on fire and then glide on the updrafts.
 
 The story, though simple, gives you just enough to care about the characters. Zelda isn't so perfect: she's moody and immature. But this provides a hook that makes you enjoy watching her relationship with Link improve over time.
 
