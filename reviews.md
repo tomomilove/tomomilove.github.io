@@ -17,7 +17,7 @@ One aspect of the film that initially struck me as odd is the fact that the real
 
 Plot also takes a bit of a backseat here. The plot that's there is fairly straightforward, but it works well enough to add some emotional punch to the music. You understand what the various songs mean to the characters, and this is what makes the emotional moments of the film hit. Again, the music takes priority.
 
-The main conflict in the plot involves the characters making a choice between following their dreams or chasing love. Curiously, the film seems to avoid passing judgment on its characters. The end of the film gives you a brief glimpse into the world they chose and also a brief glimpse into the hypothetical world they didn't choose, but it doesn't seem to suggest that either is better. How do the characters feel about their choices? Do they want to say anything else to each other, or are they fine leaving things? It leaves you wanting to know more, but but it also gives you something to think about and debate over after the film is over, and that's always a good thing.
+The main conflict in the plot involves the characters making a choice between following their dreams or chasing love. Curiously, the film seems to avoid passing judgment on its characters. The end of the film gives you a brief glimpse into the world they chose and also a brief glimpse into the hypothetical world they didn't choose, but it doesn't seem to suggest that either is better. How do the characters feel about their choices? Do they want to say anything else to each other, or are they fine leaving things? It leaves you wanting to know more, but it also gives you something to think about and debate over after the film is over, and that's always a good thing.
 
 Conclusion: Fun, stylish, and musical. I rate it 5/5.
 
@@ -39,7 +39,7 @@ Conclusion: A thought-provoking take on childhood. I rate it 5/5.
 
 ## The Legend of Zelda: Breath of the Wild (2017)
 
-In _Breath of the Wild_, you take the role of Link, tasked with saving the land of Hyrule from the threat of the evil Ganon. And that's it: that's all the instruction your given. From there, you can go wherever you want and do whatever you want.
+In _Breath of the Wild_, you take the role of Link, tasked with saving the land of Hyrule from the threat of the evil Ganon. And that's it: that's all the instruction you're given. From there, you can go wherever you want and do whatever you want.
 
 This game eschews the format of previous Zelda games (and most video games) that require you to complete set tasks in a given order in order to proceed. What makes _Breath of the Wild_ unique is how you can do anything in any order, or even just skip major events and go directly to the ending.
 
