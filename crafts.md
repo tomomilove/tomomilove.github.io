@@ -15,7 +15,7 @@ Let's make the searching man!
 - Some blue pipecleaners (aka chenille stems) and one green one.
 - Red felt.
 - A bit of white paper. Preferably something thicker than printer paper, such as cardstock.
-- Something to stick felt together. Hot glue works is one option, sewing is another. Regular paper glue probably won't work.
+- Something to stick felt together. Hot glue is one option, sewing is another. Regular paper glue probably won't work.
 
 ### Instructions
 
