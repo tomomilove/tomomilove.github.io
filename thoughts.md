@@ -23,6 +23,10 @@ It's a chore that I don't like to do, and you're always doing it for me. I'm try
 
 Even when you're at my place, you will cook for me. Often we cook together, but if I ever hesitate or take a break, you will keep going on your own! I have to keep taking initiative just to keep up with you.
 
+#### You make calls for me
+
+I never liked talking on the phone, and it's so nice that you are the one who calls restaurants to ask for reservations, and things like that. I would do it if you asked, but you just jump right into it!
+
 #### You make my bed
 
 #### You prepare my toothbrush
