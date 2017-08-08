@@ -31,6 +31,8 @@ I never liked talking on the phone, and it's so nice that you are the one who ca
 
 #### You prepare my toothbrush
 
+#### You fixed my blind for me
+
 #### You cover my ears when the train comes
 
 #### You buy food for me
