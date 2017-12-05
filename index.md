@@ -5,4 +5,6 @@ title: Tomomi Love
 
 ## What's new
 
-Happy birthday Tomomi! Welcome to the grand opening of this website!
+- 2017 December 5: New article added to [Thoughts](/thoughts) page!
+
+- Happy birthday Tomomi! Welcome to the grand opening of this website!
