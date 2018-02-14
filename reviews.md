@@ -7,6 +7,28 @@ permalink: /reviews/
 
 Here I write reviews on movies, etc. that we've seen together!
 
+## Undertale (2015)
+
+__Heads up: This review contains full spoilers for the game.__
+
+In this RPG, you take the role of a striped shirt kid from the modern world, who engages in turn-based, rhythm-based battles with silly monsters. The monsters are often twisted versions of things from the real world, and each has a distinct personality, which the game narrates to you as you do battle with them. The game's story ranges from funny, touching, depressing, creepy, to downright strange. It also features pixel graphics with a simplistic and blocky colors.
+
+If this sounds familiar, it's because I've just described the [EarthBound](https://en.wikipedia.org/wiki/EarthBound) series of games by Nintendo. The fact that that paragraph could just as easily have been about _Undertale_ underscores just how heavily _Earthbound_ influenced _Undertale_. And it's not just _EarthBound_, _Undertale_ also draws inspiration from a plethora of classic games, such as the indie darling _Cave Story_, the bullet hell shooter genre, dating sims, and even _Dance Dance Revolution_. But while _Undertale_ takes many cues from old games, it is not content to merely copy. _Undertale_'s brilliance lies in how it takes this legacy, expands upon it, and then goes in a wholly original direction.
+
+_EarthBound_ was always famous for its silly take on the RPG genre (compared to the high drama swords and sorcery of _Final Fantasy_, etc), and its most iconic aspect was probably the way in which the monsters you fight have personalities, and the game describes the silly things they do and how they react to you. But whiles these descriptions were never much more than flavor text in _EarthBound_, _Undertale_ takes the idea much further, making it into a central mechanic in the game. Battles essentially revolve around reading into the monsters' personalities and figuring out how to react to them in order to bring them inner peace. There's a puzzle element to this which is a lot of fun, though I wish they could have taken this a bit further with the boss fights, which often boil down to just sparing repeatedly as you stall for time while dodging.
+
+Unfortunately, I don't find the dodging mechanic very fun. Mostly it's just kind of stressful. Though to the game's credit, it does a lot of creative things with mechanic, often adding interesting twists in each boss fight, so at least it doesn't get boring.
+
+Putting the gameplay aside, let's discuss story. I __love__ what I'll call the game's base plot. A human falls into the monster world, and is faced with the choice to remain there forever, or to kill in order to escape. The difficult moral choice is compelling, and it culminates in an incredible, iconic final battle against the king Asgore. You really feel the heavy weight carried by the two combatants who desperately don't want to kill each other, but still feel like they must.
+
+After that battle, however, the story goes a little off the rails. You learn about things like the first human who fell to the underground, multiple timelines, Asriel, etc. Personally I didn't find this part of the game very compelling, as I feel it gets too complicated for its own good, and it's hard to care about characters you don't get to personally interact with during the main game (Asriel and the first human).
+
+Convoluted ending aside, I love the rest of the story. The side character scenes where you befriend the likes of Papyrus, Undyne, and Alphys are a highlight, as they are both hilarious and touching.
+
+By the way, I can't end this review without mentioning the music, which is incredible. You've got a range from the [super groovy theme of hot land](https://www.youtube.com/watch?v=dNN0HyO3rM4) to the moody, resigned determination of [Asgore's theme](https://www.youtube.com/watch?v=pcamjcoRmrQ).
+
+Rich with inspiration yet boldly creative, _Undertale_ is a game that celebrates the past while not being tied down to it. Instead it goes off on its own and creates an experience unlike any other. I rate it 5/5.
+
 ## Moana (2016)
 
 Walt Disney Animation Studio's latest film _Moana_ is an adventure film based heavily in the culture of various islands in the Pacific Ocean. Many modern American audiences may find Moana's world to be novel, as it stands out from the European inspired worlds of recent Disney princesses. But to me, Moana's world actually feels a bit familiar, and stirs some specific childhood memories of mine. Let me explain.
