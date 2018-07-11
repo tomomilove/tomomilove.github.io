@@ -1,11 +1,11 @@
 ---
 layout: front
-title: Tomomi Love
+title: 智美Love
 ---
 
 ## What's new
 
-- 私はジョーイーです。分かりません？ジョンとアンはたが互いにこうい好意をも持っている。
+- 2018 July: New URL! New look!
 
 - 2018 February 14: Added _Undertale_ review to [Reviews](/reviews) page! Added a new [Travel Diary](/travel) page!
 
