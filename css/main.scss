@@ -4,11 +4,11 @@
 @charset "utf-8";
 
 // Our variables
-$base-font-family: "Roboto Slab", serif;
-$base-font-size:   16px;
-$base-font-weight: 200;
+$base-font-family: "Mplus 1p", sans-serif;
+$base-font-size:   18px;
+$base-font-weight: 300;
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+$base-line-height: 2.0; 
 
 $spacing-unit:     30px;
 
@@ -17,7 +17,7 @@ $background-color: #475178;
 $brand-color: #e89ab3;
 $secondary-brand-color:      #bccbeb;
 
-$grey-color:       #d7e6fe;
+$grey-color:       #bccbeb;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
