@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Arts and crafts
+title: Arts and Crafts
 permalink: /crafts/
 ---
 # Arts and crafts
