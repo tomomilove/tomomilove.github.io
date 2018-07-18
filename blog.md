@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ブログ 
+title: Blog
 permalink: /blog/
 ---
-# 工事中！
+# Coming soon!
