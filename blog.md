@@ -20,13 +20,14 @@ To start off with, I’ve already added 10 blog posts (including this one). Plea
 ## Normal tea vs milk tea
 I bought Asha’s house black tea in order to recreate their milk tea, but recently I’ve found myself using it just to make regular tea.
 
-TODO: picture
-
 Do you remember my many attempts to create Asha's milk tea? I've gotten pretty close, but I haven't truly matched it, and I can't figure out what's off. I think the key must be in the sweetened condensed milk. I need it to provide thickness and richness, but if I add too much of it, then it creates an odd flavor. I'm not sure what Asha does to make theirs so perfect. Maybe they just add more sugar? 
 
 Anyway, since I can’t quite get the milk tea right, I’ve given up on it for the time being. But that's only because I've found something better: the regular tea. I've just been making the house black tea following the normal instructions: 2 teaspoons of tea, 212 degree water, 2 minutes. Then I add a bit of sugar, and it’s perfect. It might actually be my favorite tea I’ve ever had!
 
-Next time you come over in the afternoon, you should try it! It's better than coffee!
+![Black tea](/images/blog_july/black_tea.jpg)
+Ah... Perfect!
+
+Next time you come over in the afternoon, you should try it!
 
 # 18 July
 ## Interesting things at work #2: A forest!
