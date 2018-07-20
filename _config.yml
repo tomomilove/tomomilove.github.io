@@ -9,9 +9,9 @@
 title: 智美Love
 email: joseph.moghadam@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A website about loving Tomomi.
+    Let the world know: You are the best of the best!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://tomomilove.github.io" # the base hostname & protocol for your site
+url: "http://tomomilove.com" # the base hostname & protocol for your site
 github_username: jmoghadam
 
 # Build settings

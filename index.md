@@ -5,6 +5,8 @@ title: 智美Love
 
 ## What's new
 
+- 2018 July 20: Hello dearest Tomomi! There's a new [Blog](/blog) page open! Expect an update mostly every day for the next year!
+
 - 2018 July: New URL! New look!
 
 - 2018 February 14: Added _Undertale_ review to [Reviews](/reviews) page! Added a new [Travel Diary](/travel) page!
