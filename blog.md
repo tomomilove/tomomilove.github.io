@@ -17,21 +17,18 @@ I’ll try to update the blog with things I did, saw, or thought about that day.
 To start off with, I’ve already added 10 blog posts (including this one). Please enjoy them!
 
 # 19 July
-## Normal tea vs milk tea
-I bought Asha’s house black tea in order to recreate their milk tea, but recently I’ve found myself using it just to make regular tea.
+## Mise en place
+There's a food truck that comes to my work called _Mise en place_. I always wondered what it meant, and today I happened to learn it's a phrase meaning "everything in place". Apparently, it's a phrase that chefs use to refer to setting up all the ingredients before starting cooking.
 
-Do you remember my many attempts to create Asha's milk tea? I've gotten pretty close, but I haven't truly matched it, and I can't figure out what's off. I think the key must be in the sweetened condensed milk. I need it to provide thickness and richness, but if I add too much of it, then it creates an odd flavor. I'm not sure what Asha does to make theirs so perfect. Maybe they just add more sugar? 
+I decided to make my own "Mise en place" today:
 
-Anyway, since I can’t quite get the milk tea right, I’ve given up on it for the time being. But that's only because I've found something better: the regular tea. I've just been making the house black tea following the normal instructions: 2 teaspoons of tea, 212 degree water, 2 minutes. Then I add a bit of sugar, and it’s perfect. It might actually be my favorite tea I’ve ever had!
+![Mise en place](/images/blog_july/mise_en_place.jpg)
 
-![Black tea](/images/blog_july/black_tea.jpg)
-Ah... Perfect!
-
-Next time you come over in the afternoon, you should try it!
+What do you think it will become...?
 
 # 18 July
 ## Interesting things at work #2: A forest!
-There’s this wall at work that’s supposed to look like a forest:
+I found this wall at work that’s supposed to look like a forest:
 
 ![Office forest](/images/blog_july/office_forest.jpg)
 
@@ -42,30 +39,23 @@ It’s cool, I guess? There’s a little pathway here:
 I really want to walk on this pathway! But I don't think you're supposed to. Maybe they should have just made the whole room a forest?
 
 # 17 July
-## Sneak peek at my Japanese notes!
-I’ve spent a lot of my free time recently studying Japanese! Here’s a scratch sheet where I’m translating sentences:
+## Normal tea vs milk tea
+I bought Asha’s house black tea in order to recreate their milk tea, but recently I’ve found myself using it just to make regular tea.
 
-![Japanese notes](/images/blog_july/japanese_notes.jpg)
+Do you remember my many attempts to create Asha's milk tea? I've gotten pretty close, but I haven't truly matched it, and I can't figure out what's off. I think the key must be in the sweetened condensed milk. I need it to provide thickness and richness, but if I add too much of it, then it creates an odd flavor. I'm not sure what Asha does to make theirs so perfect. Maybe they just add more sugar? 
 
-Just for fun, I’ll walk you through my translation process:
+Anyway, since I can’t quite get the milk tea right, I’ve given up on it for the time being. But that's only because I've found something better: the regular tea! I've just been making the house black tea following the normal instructions: 2 teaspoons of tea, 212 degree water, 2 minutes. Then I add a bit of sugar, and it’s perfect. It might actually be my favorite tea I’ve ever had!
 
-1. First I just write out the sentence in Japanese by hand, in my notebook (I'm copying it from the computer screen).
+![Black tea](/images/blog_july/black_tea.jpg)
+Ah... Perfect!
 
-2. When I come across a kanji, the first thing I do is take my best guess at the stroke order. Then I check it on jisho. I think I’ve getting decent at stroke order recently, although there are still some confusing ones.
-
-3. As I’m looking at the kanji on jisho, I’ll write its kana above it in the notebook. This is because, when I’m all done with the sentence, I try to read it aloud to myself. However, by the time I’ve finished looking up the later kanji in the sentence, usually I’ve forgotten how the earlier kanji are pronounced. So I’ve got to have the kana there, otherwise I’m not able to keep it all in my head at once to read it smoothly.
-
-4. As I’m looking at the kanji on jisho, I also take a mental note of what it says about radical and kanji parts. Memorizing kanji is hard, but I’ve found that learning the radicals and parts actually helps a little bit, even though they don’t always make sense.
-
-5. Sometimes I write pieces of English translation under the text. I do this for the same reason I write the kana: By the time I’ve finished translating a later part of the sentence I have usually forgotten what the first part meant, so it helps to keep a quick English note. I think this is something I should try to do less and less, though.
-
-As soon as I think I understand the whole sentence, I stop writing. So there might be some incomplete notes here, because I figured out what the sentence meant part-way through, and decided to move on.
+Next time you come over in the afternoon, you should try it!
 
 # 16 July
 ## Shirt shopping
 I just bought three shirts online! Hopefully they fit well, so I won’t have to return them!
 
-I find buying clothes to be very difficult. One reason is that I have trouble finding clothes that fit. I am so short that XS size is best for me lengthwise, but unfortunately those are too tight for me in the shoulders. So usually I get size S, but these are too long for me. As a result, I feel that most of the shirts I have are a little too long for me!
+I find buying clothes to be very difficult. One reason is that I have trouble finding clothes that fit. I am short, so XS size is best for me lengthwise. But unfortunately, those are too tight for me in the shoulders. So usually I get size S, but these are too long for me. As a result, I feel that most of the shirts I have are a little too long for me!
 
 Another reason I find buying clothes to be difficult is that I’ve accumulated a series of rules about what not to get. Here are some of them: 
 
@@ -117,7 +107,7 @@ This flower-covered walkway at work is really pretty. It makes me happy to see i
 ![Flowers 3](/images/blog_july/flowers3.jpg)
 ![Flowers 4](/images/blog_july/flowers4.jpg)
 
-Did you know that Soda Hall (the computer science building at Berkeley) was supposed to have a vine-covered walkway in front of it? However, the vines never managed to grow big enough to fill it out, which always disappointed me every day. Soda Hall was also supposed to have plants growing on the roof, but they never put them there. If I was ever made an adminstrator at Berkeley, getting those plants there would be my first priority!
+Did you know that Soda Hall (the computer science building at Berkeley) was supposed to have a vine-covered walkway in front of it? However, the vines never managed to grow big enough to fill it out, which always disappointed me every day. Soda Hall was also supposed to have plants growing on the roof, but they never put them there. If I ever became an adminstrator at Berkeley, getting those plants there would be my first priority!
 
 # 12 July
 ## Chipped tooth?
@@ -125,7 +115,7 @@ Something strange happened in my mouth the other day! There was some kind of sha
 
 At first I thought it might have been something that got stuck between the teeth, but I could never find anything. So I think it might have been a chip. However, it largely disappeared after a day. What happened to it? Did the tooth heal (do teeth do that?), or maybe the edge just got sanded down? 
 
-I’m glad it’s gone now, but one thing worries me: Where did the chip come from? Will it happen again? I didn’t notice when it happened, so perhaps I just bit my teeth during the night? That’s unfortunate because it’s not something I can control.
+I’m glad it’s gone now, but one thing worries me: Where did the chip come from? Will it happen again? I didn’t notice when it happened, so perhaps I just bit my teeth during the night? That’s unfortunate because it’s not something I can control. Is there anything I can do to help prevent it...?
 
 # 11 July
 ## New domain name, colors, and fonts
@@ -135,6 +125,6 @@ Perhaps most apparent is some color changes. The background is a darker, softer 
 
 I also spent some time picking a font for Japanese, since I plan to write some of the future blog posts in Japanese! I chose a font with rounded lines because I thought it looked more fun. However, I might change it after I write more text and get a better sense of what it looks like. I read some articles on Japanese typography, such as [this one](http://aqworks.com/en/blog/2016/09/20/perfect-japanese-typography/) and [this one](https://medium.com/@PavelLaptev/japanese-typography-on-the-web-tips-and-tricks-981f120ad20e), in order to understand how to properly add Japanese to this website.
 
-Did you notice the site has a new domain name, too? It’s just [tomomilove.com](http://tomomilove.com) now. That domain is registered under your name. Congrutulations, you are now a domain owner!
+Did you notice the site has a new domain name, too? It’s just [tomomilove.com](http://tomomilove.com) now. The domain is registered under your name. Congrutulations, you are now a domain owner!
 
-I also made a few miscellaneous formatting fixes to this website. I decided to center pictures and give them a little border, and I also fixed some issues with the site header not displaying properly on mobile devices.
+I also made a few miscellaneous formatting fixes to this website. I decided to center pictures, increase their size, and give them a little border, and I also fixed some issues with the site header not displaying properly on mobile devices.
