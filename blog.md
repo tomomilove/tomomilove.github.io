@@ -4,6 +4,26 @@ title: Blog
 permalink: /blog/
 ---
 
+# 21 July
+## Hike + free ice cream day!
+It was a fun day together! We went hiking near Stevens Creek Resevoir:
+
+![Big tree](/images/blog_july/big_tree.jpg)
+![Big tree 2](/images/blog_july/big_tree2.jpg)
+We saw a really big tree that I liked! How old do you think it was? How long do you think it will live?
+
+![Landscape](/images/blog_july/landscape.jpg)
+
+![Bridge](/images/blog_july/bridge.jpg)
+Here on some landscape shots!
+
+After the hike, we went to Mitsuwa to eat ramen and claim the free ice cream we worked so hard to earn:
+
+![Matcha love](/images/blog_july/matcha_love.jpg)
+Ahhhh... free ice cream is twice as sweet!
+
+While we were there, we saw a huge line for MoDo... mochi donuts. Is it just mochi connected in a circle to look like a donut? Or does it taste like a donut, too? If we get a chance in the future, we should try one!
+
 # 20 July
 ## Every day is special
 Woohoo happy birthday!
