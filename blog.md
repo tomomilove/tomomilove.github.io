@@ -145,6 +145,6 @@ Perhaps most apparent is some color changes. The background is a darker, softer 
 
 I also spent some time picking a font for Japanese, since I plan to write some of the future blog posts in Japanese! I chose a font with rounded lines because I thought it looked more fun. However, I might change it after I write more text and get a better sense of what it looks like. I read some articles on Japanese typography, such as [this one](http://aqworks.com/en/blog/2016/09/20/perfect-japanese-typography/) and [this one](https://medium.com/@PavelLaptev/japanese-typography-on-the-web-tips-and-tricks-981f120ad20e), in order to understand how to properly add Japanese to this website.
 
-Did you notice the site has a new domain name, too? It’s just [tomomilove.com](http://tomomilove.com) now. The domain is registered under your name. Congrutulations, you are now a domain owner!
+Did you notice the site has a new domain name, too? It’s just [tomomilove.com](http://tomomilove.com) now. The domain is registered under your name. Congratulations, you are now a domain owner!
 
 I also made a few miscellaneous formatting fixes to this website. I decided to center pictures, increase their size, and give them a little border, and I also fixed some issues with the site header not displaying properly on mobile devices.
