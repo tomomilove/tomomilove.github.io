@@ -4,6 +4,21 @@ title: Blog
 permalink: /blog/
 ---
 
+# 22 July
+## Normal tea vs milk tea round 2
+Earlier I mentioned I've just been having regular tea instead of milk tea... Then I found this!
+
+![Royal milk tea](/images/blog_july/milk_tea1.jpg)
+
+We had it with tiramisu!
+
+![Tea and cake](/images/blog_july/milk_tea2.jpg)
+Too much caffeine for you?
+
+I like this canned milk tea quite a lot actually, more than pretty much any milk tea shop around, except for Asha. It's a lot cheaper than milk tea shops, too.
+
+I wish this canned milk tea was available within walking distance of where I live! Or maybe I don't? If it were so readily available, maybe I would become too unhealthy...
+
 # 21 July
 ## Hike + free ice cream day!
 It was a fun day together! We went hiking near Stevens Creek Resevoir:
