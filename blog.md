@@ -4,6 +4,26 @@ title: Blog
 permalink: /blog/
 ---
 
+# 23 July
+## Bring your dog to work
+At my work, people are allowed to bring their dogs. So I decided to bring my dog! Here's Kibi riding the bus to work with me:
+
+![Kibi on the bus](/images/blog_july/kibi_bus.jpg)
+
+Here's Kibi at work:
+
+![Kibi on the desk](/images/blog_july/kibi_work.jpg)
+
+...
+
+![Kibi gone](/images/blog_july/kibi_gone.jpg)
+
+Wait a minute, where'd Kibi go?! I turned my head for one second and he's gone!
+
+![Kibi at the snacks](/images/blog_july/kibi_snacks.jpg)
+
+Ahh, typical Kibi. He's at the snacks!
+
 # 22 July
 ## Normal tea vs milk tea round 2
 Earlier I mentioned I've just been having regular tea instead of milk tea... Then I found this!
