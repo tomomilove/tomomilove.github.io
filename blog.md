@@ -4,6 +4,28 @@ title: Blog
 permalink: /blog/
 ---
 
+# 24 July
+## Duolingo
+When I first started learning Japanese, I tried using an app called Duolingo. They give you exercises to complete, such as these:
+
+![Duolingo 1](/images/blog_july/duolingo1.png)
+![Duolingo 2](/images/blog_july/duolingo2.png)
+![Duolingo 3](/images/blog_july/duolingo3.png)
+
+The app has a pretty interesting teaching approach in that it never explicitly tells you anything. There is no text to read where they explain the grammar to you, or anything. It is just a series of exercises like the above. By doing enough exercises that slowly build from simple to complex, you are supposed to naturally pick up how the language works.
+
+Have you heard of this teaching technique before? I heard it is based on some science. If I remember correctly, it's inspired by the fact that people learn their first language without being explicitly taught the grammar.
+
+Unfortunately, Duolingo didn't really work for me. As the sentences in the exercises grew more and more complex, I wasn't able to really figure out the grammar, and I couldn't keep up.
+
+In the end, I stopped using Duolingo and went through [Tae Kim's site](http://www.guidetojapanese.org/) instead. Tae Kim's site explicitly teaches you grammar, which I needed.
+
+Now that I've gone through Tae Kim's site, I've started using Duolingo again. The repetitive nature of the exercises is good for learning vocabulary, which is something I didn't get a lot of from Tae Kim's site. It's not going to be my primary form of study, but I can easily use it when I have a few free moments, since it's an app.
+
+And by now, I find the grammar in Duolingo to be very simple! I guess I learned something from Tae Kim after all!
+
+One thing that remains difficult for me is listening. Unlike Tae Kim's site, Duolingo has audio, which is definitely good for me. However, the audio is _so_ fast, and I find it very difficult to understand even though I could read the sentence fairly easily.
+
 # 23 July
 ## Bring your dog to work
 At my work, people are allowed to bring their dogs. So I decided to bring my dog! Here's Kibi riding the bus to work with me:
