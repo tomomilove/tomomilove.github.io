@@ -4,6 +4,26 @@ title: Blog
 permalink: /blog/
 ---
 
+# 25 July
+## Reading comprehension
+So I've had this _thing_ sitting on my desk at work for a while (it has been years, and I don't even remember where it came from):
+
+![Tea thing 1](/images/blog_july/tea_thing1.jpg)
+
+For the longest time, I thought it was an empty tea bag. I thought the idea was that you put your own loose leaf tea into the the tea bag. I'm not sure why I thought that -- maybe because of the little tea bag picture in the upper right corner?
+
+Anyway, a few days ago, I decided to try reading some of it. And then I realized it's not an empty tea bag -- it actually has tea!
+
+Here's the back side. The expiration date was in 2016...?
+
+![Tea thing 2](/images/blog_july/tea_thing2.jpg)
+
+Anyway, I decided to drink it today!
+
+![Tea thing 3](/images/blog_july/tea_thing3.jpg)
+
+It wasn't bad!
+
 # 24 July
 ## Duolingo
 When I first started learning Japanese, I tried using an app called Duolingo. They give you exercises to complete, such as these:
