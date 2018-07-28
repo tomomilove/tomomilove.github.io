@@ -4,6 +4,26 @@ title: Blog
 permalink: /blog/
 ---
 
+# 27 July
+## The revenge of Duolingo
+
+Today someone at work forwarded me an email thread where someone was asking for help about Japanese grammar. Apparently they were using Duolingo, saw a random ん in a sentence, and wondered what it meant. 
+
+I knew what it was! I learned it from Tae Kim's site! It was a shortened form of the "explanatory の", as he calls it. A particle that can be attached to questions when seeking explanations, or attached to answers when providing explanations.
+
+I think this highlights the problem with Duolingo, though! It throws grammar at you without teaching it. I'm not sure how someone could figure that one out on their own. Actually, some native Japanese speakers chimed in on the email thread and said they had trouble explaining it themselves. I guess it's that kind of grammr that just sounds right sometimes, but is hard to explicitly explain?
+
+Speaking of learning language, yesterday someone at work said something interesting about it. They said it is a misconception to think that children learn language by mimicking their parents. Instead, it is more accurate to say that children _invent_ language themselves, but the people around them contrain their invention, telling them what's wrong and what not to do. Through this process, the invention is guided into recognizable language.
+
+To be honest, I don't fully understand what that means, but it is an interesting idea. I wonder if it's true? And if so, can I do that? Can I invent my own Japanese?
+
+# 26 July
+## Shalala REVIEW
+
+Added to the [Reviews](/reviews) page! Go check it out!
+
+Actually, I'm wondering if it's worth having separate pages at all. Maybe everything should be in the blog...? What do you think?
+
 # 25 July
 ## Reading comprehension
 So I've had this _thing_ sitting on my desk at work for a while (it has been years, and I don't even remember where it came from):

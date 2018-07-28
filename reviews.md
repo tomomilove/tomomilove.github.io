@@ -7,6 +7,26 @@ permalink: /reviews/
 
 Here I write reviews on movies, etc. that we've seen together!
 
+## Shalala
+
+![Shalala](/images/blog_july/shalala.jpg)
+
+It's our most visited restaurant, Shalala!
+
+I've eaten a few different things here: the ramen, the curry, and the karaage chicken.
+
+- The ramen: I can't remember much about it, actually. It's been a while since I've had it. I don't typically get ramen because I'm not a huge fan. I think the broth is just too heavy for me, usually? Maybe I would like a small bowl of ramen, but the big bowls that restaurants serve are too much for me!
+
+- The curry: I've had the croquette curry and the tonkatsu curry, and both are good! Again though, I think it is a little much for me.
+
+- The karaage: Not bad, although your mom's is much better! I think I wouldn't order this again -- it's just not good enough in comparison! One thing I can compliment about it though, is that the chicken was very soft. No hard pieces or bones or anything!
+
+- The salad: I have to give a special shoutout to the side salad I get with my diehes. I really like it! I wonder what dressing they use? I want to try to recreate it.
+
+- The ambience: No restaurant review is complete without mentioning the ambience! Although Shalala can feel cramped sometimes, I do like its smallness. I think the smallness combined with the fact that we've been there so many times makes it seem cozy and familiar. Shalala feels nice, but not too fancy.
+
+Overall, I really like Shalala. I think what I like most about it is memories of spending time with you there! I rate it 5/5.
+
 ## Undertale (2015)
 
 __Heads up: This review contains full spoilers for the game.__
