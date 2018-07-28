@@ -4,6 +4,27 @@ title: Blog
 permalink: /blog/
 ---
 
+# 28 July
+## BIG trouble
+
+Where am I?
+
+![Poke](/images/blog_july/poke.jpg)
+
+I'm downtown! Why am I here? Because yesterday I received a very distrubing notification... that it is my mother's birthday today! I had completely forgot! So I had to go buy a present today.
+
+I went to the bookstore looking for nothing in particular, and found this beast:
+
+![Zelda book](/images/blog_july/zelda_book.jpg)
+
+400 pages of Zelda art! Perfect for her, so I decided to get it.
+
+While I was downtown, I also decided to swing by the library. I saw they finished renovating the kids' section, complete with a special kids' door:
+
+![Children's section](/images/blog_july/childrens_section.jpg)
+
+Neat, huh? It looks kind of like a portal to a magical world.
+
 # 27 July
 ## The revenge of Duolingo
 
