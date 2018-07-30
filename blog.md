@@ -3,6 +3,22 @@ layout: page
 title: Blog
 permalink: /blog/
 ---
+# 29 July
+## Things you can't recommend to someone about Berkeley
+
+Today I met up with Amit! We decided to go to the fire trails for a little bit (no laser tag). Here are some photos:
+
+![Fire trails 1](/images/blog_july/fire_trails1.jpg)
+![Fire trails 2](/images/blog_july/fire_trails2.jpg)
+![Fire trails 3](/images/blog_july/fire_trails3.jpg)
+
+Amit's roommate came with us. He's a new postdoc at Berkeley, has only been here a few weeks. I mentioned to him that I find Berkeley to be a wonderful city with so many interesting things to do. But when he asked me for recommendations on things to do, I froze up. I couldn't think of anything to say.
+
+On the trip back home, I was thinking more about that. And I realized that Berkeley is a deeply special place to me, but it's for very personal reasons, things you can't just recommend to someone.
+
+Can I really recommend someone to stay up all night with their friends drinking tea, and then nearly miss their bus home the next day? Can I recommend someone to wander the neighborhoods of North Berkeley just to look at all the flowers? Can I recommend someone to jog to the marina, or to Indian Rock? Can I recommend someone to browse the used clothing shops every week, in hopes of seeing really weird stuff you can't find in any store (seriously where do people get this stuff in the first place)? Can I recommend someone to get lost in Dwinelle Hall simply for the sake of it, or explore random buildings you're not supposed to and then get kicked out of them? Can I recommend someone to go to a random poetry reading that isn't even that good but maybe you're happy you went at least once if only for the awkward experience? Can I recommend someone to go to Asha every Friday after a hard week, after crying over how hard your homework is? Can I recommend someone to try to watch fireworks in the hills, only to realize when you get there that it's way too dark and scary without any lights, and it's too foggy to see the fireworks anyway? Can I recommend someone to go to a gelato store on a rainy day before it opens, and have the owner let you in early anyway because he takes pity on you (and maybe wants to sell you gelato)? Can I recommend someone to fall in love with Turkish Kitchen's lunch special deal that's so good they decide to cancel it and replace it with something less nice later? Can I recommend someone to go scavenging on move-out days, and pick up random chairs and household items that people leave behind? Can I recommend someone to melt their plastic wrap roll into a solid block, and then take a saw to it to try to get at the good part inside? Can I recommend someone to watch meteor showers from your roof, and then talk with someone about it over chat rather than in person, because you're too shy to say that you want to meet up with them?
+
+These wonderful, bizarre, sometimes bittersweet experiences are my true memories of Berkeley. Can you really just explain that to someone? Really, the only advice I have to give is to remember to live a little between classes and research, and make your own stories...
 
 # 28 July
 ## BIG trouble
