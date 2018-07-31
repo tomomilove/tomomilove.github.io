@@ -3,6 +3,21 @@ layout: page
 title: Blog
 permalink: /blog/
 ---
+# 30 July
+## Buying something on ニンテンドーｅショップ
+
+So today I went through the exercise of buying a game on the Japanese 3DS you gave me. It's a game I've been looking forward to playing for a while -- I'll tell you more about it later!
+
+But anyway, the buying experience was pretty interesting. The first thing I do is press the icon on the home screen that takes you to the e-shop, where you can buy games. Pretty easy, right?  Except as soon as I press the button, I'm greeted with some mysterious text, and sent immediately back to the home screen. Eh??? Anyway, I try again, and this time read the text. It tells me I need to plug in the 3DS so it can download updates.
+
+...Okay, with that out of the way, I manage to open up the e-shop.
+
+Now I'm greeted with some more text. This time it's clearly one of those terms of service pages, where you have to hit "I agree" at the bottom. I don't usually read these, and I definitely don't read it this time. In fact, I don't even fully read the "I agree" button. I just see that one button has する and one button has しない, so it is clear which one I need to press!
+
+After that, finding the game and inputting my credit card information is pretty easy. Just one problem... I get an email from Bank of America saying they've detected unusual credit card activity on my account and have locked my card! Luckily I am able to fix it pretty easily.
+
+Then I'm done! That wasn't so bad!
+
 # 29 July
 ## Things you can't recommend to someone about Berkeley
 
