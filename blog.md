@@ -3,6 +3,20 @@ layout: page
 title: Blog
 permalink: /blog/
 ---
+# 31 July
+## Pagoda in the evening air
+When walking to dinner in the evening, sometimes I like to walk by my neighborhood pagoda:
+
+![Pagoda 1](/images/blog_july/pagoda1.jpg)
+
+Isn't it beautiful at this time of day? It may be my favorite time of day.
+
+According to [Wikipedia](https://en.wikipedia.org/wiki/Pagoda), pagodas are typically places of religious worship. I don't think anyone worships anything at my neighborhood pagoda, but it's a very peaceful place, so I think it does its job as a pagoda.
+
+![Pagoda 2](/images/blog_july/pagoda2.jpg)
+
+![Pagoda 3](/images/blog_july/pagoda3.jpg)
+
 # 30 July
 ## Buying something on ニンテンドーｅショップ
 
