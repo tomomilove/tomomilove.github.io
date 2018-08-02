@@ -3,6 +3,14 @@ layout: page
 title: Blog
 permalink: /blog/
 ---
+# 1 August
+## Beefsteak
+So a new lunch cafe opened up at my work called "Beefsteak". I heard it was burger themed. I'm not a huge fan of bugers, but I went to go check it out, since it is new, anyway.
+
+When I got there, I learned it was actually a primarily vegetarian cafe! Their signature "beefsteak burger" is actually named for the [Beefsteak tomato](https://en.wikipedia.org/wiki/Beefsteak_tomato). I guess the name is supposed to be a joke. They also had "poke bowls" on the menu, but with beets instead of fish (I'm not sure what the connection is there). Anyway, I'm not really a fan of tomatoes or beets, so I didn't end up getting anything.
+
+I think if I had a vegetarian lunch cafe, I would put french onion soup on the menu, instead of tomato burgers! If you had to make a vegetarian cafe, what would your signature dish be?
+
 # 31 July
 ## Pagoda in the evening air
 When walking to dinner in the evening, sometimes I like to walk by my neighborhood pagoda:
