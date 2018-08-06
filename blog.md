@@ -3,6 +3,45 @@ layout: page
 title: Blog
 permalink: /blog/
 ---
+# 5 August
+## Automatic lights
+My automatic light in the bathroom is really the worst. It always turns on when I don't want it (like when I need to use the bathroom in the middle of the night and don't want to see bright light), and it always turns off when I don't want it (like when I'm standing still in the shower).
+
+Well this time it decided to one-up itself in badness by becoming flickering. I find this very annoying. 
+
+However, all hope is not lost. There is actually another light in my bathroom: A manual one by the mirror, which does not flicker. So I could use that one exclusively, if only I could prevent the automatic light from turning on (hard to do, since it's automatic).
+
+Luckily I came up with a solution: Cover it up so it never turns on!
+![Light switch](/images/blog_august/light_switch.jpg)
+
+It seems to work kinda? Further testing is necessary, but this is a promising solution for now.
+
+# 4 - 2 August
+## Santa Cruz trip!
+We went on an extended weekend trip to Santa Cruz!
+
+Our first stop was a hidden, isolated beach. We had to navigate past several DO NOT ENTER signs that technically didn't forbid us from getting to the beach. Along the way we found these abandoned train tracks, overrun by grass:
+
+![Train tracks](/images/blog_august/train_tracks.jpg)
+I think there's something beautiful about them. We'd see them several times throughout Santa Cruz.
+
+Later that day we headed to the Boardwalk, and you rode a number of crazy rides, such as these two:
+
+![Fireball](/images/blog_august/fireball.jpg)
+Are you really not scared when you ride these? Even on the small ride I did, I felt that if I let go of the handle bar I would have died. I guess that's not true, but that's how I felt!
+
+The next day, we went to the forest of Nisene Marks, which is always beautiful.
+
+![Nisene marks](/images/blog_august/nisene.jpg)
+Here's you surrounded by forest. Isn't it majestic?
+
+On the last day, we found some tide pools. Did you know these were here, or did we just find them randomly?
+
+![Tide pools](/images/blog_august/tide_pools.jpg)
+You really liked this spot in particular. I like it too!
+
+It was an awesome trip overall! In the past I thought of the Boardwalk as a silly thing, but with you there this time I really did make some great memories there.
+
 # 1 August
 ## Beefsteak
 So a new lunch cafe opened up at my work called "Beefsteak". I heard it was burger themed. I'm not a huge fan of bugers, but I went to go check it out, since it is new, anyway.
