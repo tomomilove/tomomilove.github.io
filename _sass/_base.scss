@@ -23,8 +23,6 @@ body {
     font-kerning: normal;
 }
 
-
-
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
@@ -184,3 +182,34 @@ pre {
         }
     }
 }
+
+/**
+ * Dropdown button and menu
+ */
+button {
+    font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+    font-weight: 400;
+}
+
+.dropdown-button {
+    background-color: $background-color;
+    color: $secondary-brand-color;
+    padding: 10px 20px 10px 0;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: darken($background-color, 10%);
+    padding: 0 16px;
+    z-index: 1;
+}
+
+.show {display:block;}

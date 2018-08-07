@@ -14,7 +14,19 @@
 
     <div class="trigger">
       {% for my_page in site.pages %}
-        {% if my_page.title and my_page.title != "智美Love"%}
+        {% if my_page.title == "Blog" %}
+          <div class="dropdown">
+            <button id="blog-dropdown-button" onclick="showBlogArchive()" class="dropdown-button">Blog</button>
+            <div id="blog-dropdown" class="dropdown-content">
+              {% for blog_page in site.pages %}
+                {% if blog_page.title contains "Blog" %}
+                  <a class="page-link" href="{{ blog_page.url | prepend: site.baseurl }}">{{ blog_page.month }}</a>
+                {% endif %}
+              {% endfor %}
+            </div>
+          </div>
+        {% endif %}
+        {% if my_page.title == "Arts and Crafts" or my_page.title == "Recipes" or my_page.title == "Reviews" or my_page.title == "Thoughts" or my_page.title == "Travel Diary"%}
         <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
         {% endif %}
       {% endfor %}
