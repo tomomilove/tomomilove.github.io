@@ -5,8 +5,8 @@ permalink: /blog/
 month: August
 ---
 # 6 August
-## Blog now has multiple pages!
-The blog has a lot of images, so I thought it would be nice to split into pages.
+## This blog now has multiple pages!
+This blog has a lot of images, so I thought it would be nice to split into pages.
 
 When you click the "Blog" button at the top, you now have the option to select which month's blog to view!
 
@@ -14,11 +14,13 @@ This functionality was made possible using the programming language [JavaScript]
 
 Did you know that there are typically three programming languages involved on any given web page?
 
-1. *HTML* is a programming language that defines the _structure and content_ of the page. You decided where to place various elements (title at the top, footer at the bottom, etc). You also write the text of of the page in HTML, and place content within it, such as images.
+1. **HTML** is a programming language that defines the _structure and content_ of the page. In HTML, you decide where to place various elements (title at the top, footer at the bottom, etc). You also write the text of of the page in HTML, and place content within it, such as images.
 
-2. *CSS* is a programming language that defines the _styling_ of the page. In CSS, you set the colors, the fonts, and how big or small elements are allowed to be.
+2. **CSS** is a programming language that defines the _styling_ of the page. In CSS, you set the colors, the fonts, and how big or small elements are allowed to be.
 
-3. *JavaScript* is a programming language that handles _action logic_ of the page. You can write code that causes the page to change if a user clicks a button, moves their mouse, or types something in.
+3. **JavaScript** is a programming language that handles the _action logic_ of the page. You can write code that causes something to happen if a user clicks a button, moves their mouse, or types something in. In this case, there is some JavaScript code that runs when you click the "Blog" button.
+
+Does using three programming language for one web page seem like a hassle to you? Because it totally is! For this reason (and many others), web development is a big mess. It's like this because when the web was originally designed, all it had was HTML. CSS and JavaScript were tacked on later, after it became clear that more options for styling and action handling were necessary.
 
 # 5 August
 ## Automatic lights
