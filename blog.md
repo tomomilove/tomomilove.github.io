@@ -10,6 +10,16 @@ The blog has a lot of images, so I thought it would be nice to split into pages.
 
 When you click the "Blog" button at the top, you now have the option to select which month's blog to view!
 
+This functionality was made possible using the programming language [JavaScript](https://en.wikipedia.org/wiki/JavaScript). It's the first instance of JavaScript on this site.
+
+Did you know that there are typically three programming languages involved on any given web page?
+
+1. *HTML* is a programming language that defines the _structure and content_ of the page. You decided where to place various elements (title at the top, footer at the bottom, etc). You also write the text of of the page in HTML, and place content within it, such as images.
+
+2. *CSS* is a programming language that defines the _styling_ of the page. In CSS, you set the colors, the fonts, and how big or small elements are allowed to be.
+
+3. *JavaScript* is a programming language that handles _action logic_ of the page. You can write code that causes the page to change if a user clicks a button, moves their mouse, or types something in.
+
 # 5 August
 ## Automatic lights
 My automatic light in the bathroom is really the worst. It always turns on when I don't want it (like when I need to use the bathroom in the middle of the night and don't want to see bright light), and it always turns off when I don't want it (like when I'm standing still in the shower).
