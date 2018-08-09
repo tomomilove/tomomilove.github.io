@@ -4,6 +4,37 @@ title: Blog
 permalink: /blog/
 month: August
 ---
+# 8 August
+## ジョー書
+As I mentioned in the previous day's blog post, I've been playing a game in Japanese.
+
+Whenever I come across a word I don't know (which is nearly every word at this point), I look it up on jisho.org. That's fine and all, but how am I going to _learn_ this vocabulary for myself? Eventually, I should get to a point where I'm not looking up every word, right?
+
+I've decided to write down every word I come across, along with its definition, on paper.
+
+![Joesho](/images/blog_august/joesho.jpg)
+
+This is very slow going at first, but eventually, I will start hitting duplicate words, right? Then I can look them up in my own handwritten dictionary (the "Joesho"... it's like a pun on "jisho", get it?), instead of looking them up online. I think that will help me learn better, if I rely more on resources I wrote myself. Also using handwriting should help with learning, right? I'm getting pretty good at kanji stroke order now, and I think that helps me remember some things.
+
+However, there are so many words, I soon ran into the problem of how to organize them. For now, I've decided to organize them by the radical of the first kanji in the word, where each radical is a separate page.
+
+Let me know if you have a better idea of how to organize these. I'm worried that as the amount of vocabulary grows, this organization scheme will no longer be good enough. Maybe I'll just have to to start cutting out less useful words.
+
+# 7 August
+## 世界樹の迷宮Ｘ 
+So I've been playing a Japanese game I bought titled 世界樹の迷宮Ｘ. It's the newest game in the 世界樹の迷宮 series. I played the previous game in the series in English, and I enjoyed it.
+
+The game is an RPG with a turn-based battle system, similar to Pokemon. Here are a few things this series is known for:
+- It's quite difficult.
+- The dungeons you explore are maze-like. Also, the game doesn't give you a map. Instead, you draw the map yourself as you go along, on the 3DS's bottom screen.
+- There isn't much of a story, or a defined set of characters. Instead, you create your own characters, and you're encouraged to imagine your own story to go along with them.
+
+That last aspect is why I thought it would be a good game for me to play in Japanese. I am planning to write out the story of my characters as I go along, for Japanese writing practice. This is the story I mentioned to you earlier. I think this is good because the game gives me some structure to work from: if I'm not feeling very creative, I can just write about the things that happened in the game. But when possible, I'll also try to tell the story of my characters and their personalities.
+
+In this game, you can have 5 characters in your party at a time. They all fight together at once, and each one is supposed to have a different role in battle. For example, some of of your characters focus on attacking, then maybe one focuses on defending, and another focuses on healing. There is a huge variety of skills and abilities you can give your characters, and building a party whose skills work well together is the key to victory (much like in Pokemon).
+
+I've already started planning some back stories and personalities for my characters, but it might be a while before I actually start writing the story. I'd like to progress through the game a bit more before I start. And as you might expect, my progress through the game is very slow.
+
 # 6 August
 ## This blog now has multiple pages!
 This blog has a lot of images, so I thought it would be nice to split into pages.
