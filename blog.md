@@ -4,6 +4,18 @@ title: Blog
 permalink: /blog/
 month: August
 ---
+# 9 August
+## Lights repairs
+I did it! I sent an email to request someone come to repair our lights!
+
+I wonder why I put off sending that email for so long. Why is it such a struggle for me? 
+
+Maybe it's just a general sense of shyness, but I think there's something more. I think there's also a sense of guilt (behind most shyness there is guilt, isn't there?). Part of me feels that maybe I should have tried to fix the light myself. I would have had to get a ladder, figure out how to open the glass cover, then find a replacement bulb. I feel that I _should_ do that, yet I never actually do. But the feeling that I should prevents me from sending the email.
+
+Actually, now that I've written this out, replacing the light myself doesn't sound so hard. I guess the most difficult part would be getting the ladder. I don't have a place to put it, or any other uses for it, so it seems like kind of a waste to buy one. On the other hand, I worry about wasting someone else's time, asking them to repair it.
+
+What would you have done in this situation?
+
 # 8 August
 ## ジョー書
 As I mentioned in the previous day's blog post, I've been playing a game in Japanese.
