@@ -26,7 +26,7 @@
             </div>
           </div>
         {% endif %}
-        {% if my_page.title == "Arts and Crafts" or my_page.title == "Recipes" or my_page.title == "Reviews" or my_page.title == "Thoughts" or my_page.title == "Travel Diary"%}
+        {% if my_page.title == "Arts and Crafts" or my_page.title == "Recipes" or my_page.title == "Reviews" or my_page.title == "Thoughts" or my_page.title == "Travel Diary" or my_page.title == "Story"%}
         <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
         {% endif %}
       {% endfor %}

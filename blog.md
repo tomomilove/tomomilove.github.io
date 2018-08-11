@@ -4,6 +4,14 @@ title: Blog
 permalink: /blog/
 month: August
 ---
+# 10 August
+## The adventure begins
+I wrote the first couple of chapters to my story, and I've posted them in a [new page](/story). Sorry, I'm sure there will be a lot of terrible problems with it, awkward grammar and odd word choice! I don't expect you to go through and provide corrections, as that would be a huge waste of your time. However, if you notice any major problems, or mistakes I keep making over and over again, I'd appreciate if you let me know! Also, if there's anything you don't understand about the story, feel free to ask me!
+
+I should say, for future chapters, I probably won't post so much at once. However, for the beginning, I felt like I needed to post a decent chunk.
+
+By the way, something you might not notice: The main characters in this story are based on the characters used in the example sentences in Tae Kim's website: アリス, ジョン, リー, 田中先生, and 山本先生. Since the purpose of this writing is to help me learn Japanese, I thought it made sense to keep using them. Now, please enjoy the story!
+
 # 9 August
 ## Lights repairs
 I did it! I sent an email to request someone come to repair our lights!
