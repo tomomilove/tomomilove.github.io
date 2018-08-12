@@ -14,11 +14,11 @@ No stores are open or anything. Just the path. Anyway, it's a pretty nice path. 
 
 ![THE VILLAGE plaza](/images/blog_august/the_village2.jpg)
 
-There's this kind of art/statue/fountain too. It's that kind of typical generic corporate art that doesn't really mean anything or look very interesting:
+There's this art/statue/fountain too. It's that kind of typical generic corporate art that doesn't really mean anything or look very interesting:
 
 ![THE VILLAGE fountain](/images/blog_august/the_village3.jpg)
 
-Actually, I kind of think there's something a little dystopian about THE VILLAGE:
+Actually, I think there's something a little dystopian about THE VILLAGE:
 
 ![THE VILLAGE logo](/images/blog_august/the_village4.jpg)
 
