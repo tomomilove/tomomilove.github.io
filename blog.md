@@ -4,6 +4,28 @@ title: Blog
 permalink: /blog/
 month: August
 ---
+# 11 August
+## THE VILLAGE
+The path through THE VILLAGE center opened up! You can walk all the way through now:
+
+![THE VILLAGE](/images/blog_august/the_village1.jpg)
+
+No stores are open or anything. Just the path. Anyway, it's a pretty nice path. There's a plaza-like area in the middle where cars can't get to, so it's nice for walking. I'll try going through here next time.
+
+![THE VILLAGE plaza](/images/blog_august/the_village2.jpg)
+
+There's this kind of art/statue/fountain too. It's that kind of typical generic corporate art that doesn't really mean anything or look very interesting:
+
+![THE VILLAGE fountain](/images/blog_august/the_village3.jpg)
+
+Actually, I kind of think there's something a little dystopian about THE VILLAGE:
+
+![THE VILLAGE logo](/images/blog_august/the_village4.jpg)
+
+I guess it's the way it uses the term "the village", but is actually the complete opposite of what a village is. To me, the word "village" brings to mind a small town, community feel, where everyone knows everyone one, and people have to work hard to scrape by. But this place is a fancy corporate shopping area.
+
+But who knows, maybe it will turn out well. The plaza area is nice, and I like to imagine one day it will be bustling and full of life.
+
 # 10 August
 ## The adventure begins
 I wrote the first couple of chapters to my story, and I've posted them in a [new page](/story). Sorry, I'm sure there will be a lot of terrible problems with it, awkward grammar and odd word choice! I don't expect you to go through and provide corrections, as that would be a huge waste of your time. However, if you notice any major problems, or mistakes I keep making over and over again, I'd appreciate if you let me know! Also, if there's anything you don't understand about the story, feel free to ask me!
