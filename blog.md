@@ -4,6 +4,24 @@ title: Blog
 permalink: /blog/
 month: August
 ---
+# 12 August
+## Deeper exploration into THE VILLAGE
+So I walked through THE VILLAGE today and noticed some curious things. First of all, there are these posts with quotes about technology on them:
+
+![Technology quote 1](/images/blog_august/technology_quote1.jpg)
+![Technology quote 2](/images/blog_august/technology_quote2.jpg)
+![Technology quote 3](/images/blog_august/technology_quote3.jpg)
+
+That's a bit silly if you ask me.
+
+Also there's this fountain area (no water yet). You can't tell from this picture, but the lights on the ground glow rainbow colors.
+
+![Fountain](/images/blog_august/fountain1.jpg)
+
+Also a curious sign about the fountain:
+
+![Fountain sign](/images/blog_august/fountain2.jpg)
+
 # 11 August
 ## THE VILLAGE
 The path through THE VILLAGE center opened up! You can walk all the way through now:
