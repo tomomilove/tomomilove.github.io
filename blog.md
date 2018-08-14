@@ -4,6 +4,28 @@ title: Blog
 permalink: /blog/
 month: August
 ---
+# 13 August
+## Moving day
+My team was moved to a new building at work today. It's the building right next to my old one. Our new floor appears to be robot themed. They have this robot arm on display:
+
+![Robot arm](/images/blog_august/robot_arm.jpg)
+
+And there's this robot schematic on the wall:
+
+![Robot schematic](/images/blog_august/robot_schematic.jpg)
+
+Also, a lot of the walls have photos of old robot toys like this:
+
+![Robot Lilliput](/images/blog_august/robot_lilliput.jpg)
+
+This one says "Robot Lilliput" on it. Do you know Lilliput? It is a kingdom of tiny people featured in the story [Gulliver's Travels](https://en.wikipedia.org/wiki/Gulliver%27s_Travels). I wonder why they called this one "Robot Lilliput". I'm not sure what the connection is, other than it being a toy so it's small?
+
+Finally, one of the walls has this contraption:
+
+![Drawing spinner](/images/blog_august/drawing_spinner.jpg)
+
+Have you seen this kind of thing before (maybe not on a wall)? You turn the crank and the arm draws in a circle pattern. If you move some of the pieces around, turning the crank will cause it to draw interesting patterns like the designs on the wall here. Usually these kinds of contraptions are done with pen and paper, but this one is a white board on the wall. I tried using it a little bit, but I couldn't quite figure some things out, and I didn't want to break it, so I didn't end up drawing anything.
+
 # 12 August
 ## Deeper exploration into THE VILLAGE
 So I walked through THE VILLAGE today and noticed some curious things. First of all, there are these posts with quotes about technology on them:
