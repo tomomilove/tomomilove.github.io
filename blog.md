@@ -4,6 +4,22 @@ title: Blog
 permalink: /blog/
 month: August
 ---
+# 14 August
+## The beauty of trees
+If the world ever seems too mean or too inane, being around trees helps calm me down. I guess it's their calmness and their beauty. And also how they are aloof from the human world, as the pitfalls of human morality don't apply to them.
+
+I would like to be as calm and enduring as a tree.
+
+Anyway, today I decided to go around the neighborhood and take photos of some of the coolest trees I found. Please enjoy them!
+
+![Tree 1](/images/blog_august/tree1.jpg)
+![Tree 2](/images/blog_august/tree2.jpg)
+![Tree 3](/images/blog_august/tree3.jpg)
+![Tree 4](/images/blog_august/tree4.jpg)
+![Tree 5](/images/blog_august/tree5.jpg)
+![Tree 6](/images/blog_august/tree6.jpg)
+![Tree 7](/images/blog_august/tree7.jpg)
+
 # 13 August
 ## Moving day
 My team was moved to a new building at work today. It's the building right next to my old one. Our new floor appears to be robot themed. They have this robot arm on display:
