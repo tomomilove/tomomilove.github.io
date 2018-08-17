@@ -4,6 +4,34 @@ title: Blog
 permalink: /blog/
 month: August
 ---
+# 16 August
+##  Seafood doria
+Cooking day! Today I made [this seafood doria recipe](https://www.justonecookbook.com/seafood-doria/).
+
+As always, I have to start with the _mise en place_:
+![Seafood doria mise en place](/images/blog_august/seafood_doria_mise_en_place.jpg)
+
+In progress!
+![Seafood doria in progress](/images/blog_august/seafood_doria_in_progress.jpg)
+
+Done!
+![Seafood doria done](/images/blog_august/seafood_doria_done.jpg)
+
+Plated!
+![Seafood doria plated](/images/blog_august/seafood_doria_plated.jpg)
+
+It wasn't bad! Next time, I think I will either add more salt to the bechemel sauce, or add more cheese (for its saltiness).
+
+# 15 August
+## A day at home
+I succeeded in getting the lights fixed today! I had to stay home from work, which is why I put it off for so long.
+
+Staying home from work isn't so bad. I can still do some work from my laptop. Also, there are some special things to do at home on a weekday: for example, I can go to a nearby restaurant called Hunan Home's Express. Normally I can't go to this restaurant, because their dishes are too big for me, meant be to served family style. However, on weekdays at lunch, they have a lunch buffet which is good for one person!
+
+The other thing I can do at home in the daytime is drink my Asha's house black tea! Normally I only drink it on weekends, because if I were to drink it after work, it would be too late in the day. So it's a nice treat to be able to have it on a weekday. You might ask: Why don't I just bring the tea to work and drink it there? Well, I've tried this actually, but for some reason, it's never as good there. I'm not sure why... maybe because I don't have proper measuring spoons there?
+
+I also got to see you today at home! And we had tea and delicious cake together. We should do that more often on the weekdays!
+
 # 14 August
 ## The beauty of trees
 If the world ever seems too mean or too inane, being around trees helps calm me down. I guess it's their calmness and their beauty. And also how they are aloof from the human world, as the pitfalls of human morality don't apply to them.
