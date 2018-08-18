@@ -4,6 +4,12 @@ title: Blog
 permalink: /blog/
 month: August
 ---
+# 17 August
+## 怖がりじゃない
+Last week, Alice and Tanaka traveled to the town of Maginia in hopes of exploring Yggdrasil, The WorldTree. Alice's goal is to find the legendary treasure said to be hidden in Yddrasil that can grant any wish. But in order to explore Yggdrasil, Alice will need to start a guild and assemble a team of adventurers to help her...
+
+To jump to the latest chapter of the story, [click here](/story#４章).
+
 # 16 August
 ##  Seafood doria
 Cooking day! Today I made [this seafood doria recipe](https://www.justonecookbook.com/seafood-doria/).
