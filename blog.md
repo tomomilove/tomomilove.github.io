@@ -4,9 +4,45 @@ title: Blog
 permalink: /blog/
 month: August
 ---
+# 19 August
+## Cleaning day 2: Tea box
+Time to get rid of the old tea box...
+
+![Tea box](/images/blog_august/tea_box.jpg)
+
+There are some interesting things in here, many of them gifts. It breaks my heart to get rid of them, but I think overall it is for the best.
+
+This one has a nice container, but unfortunately the tea itself wasn't very good:
+
+![Rose tea](/images/blog_august/rose_tea.jpg)
+
+Here's the Earl Grey tea I mentioned. Bought at Berkeley Bowl. It says it was packed on September 22, but of which year...?
+
+![Earl grey](/images/blog_august/earl_grey.jpg)
+
+This one is pretty old, too...
+
+![Prince of wales](/images/blog_august/prince_of_wales.jpg)
+
+I'm keeping these ones though!
+
+![Tea keepers](/images/blog_august/tea_keepers.jpg)
+
+The Paris tea was still good last time I had it. Also, it's nice to have a back-up tea for when I run out of my main tea and haven't ordered any more. And barley tea is always nice to keep around for when I don't want any caffeine. I like drinking it hot, at nights.
+
+# 18 August
+## Cleaning day 1: Bed
+You are a super hero!
+
+Today we got rid of the bed frame that has been sitting in my room for more than a year. Maybe more than two? And now you have my mattress sitting in my car...
+
+I wonder why I never got rid of it before? Maybe it's because I knew I needed your help, and I felt shy about asking you for the favor. So thank you so much for helping me!  Actually, it was possible for me to get rid of myself: I could have called a junk pick-up service. But that would have cost me in $100+, so you saved me a bunch!
+
+It feels good to end a years old problem. Now I feel motivated to end some more!
+
 # 17 August
 ## 怖がりじゃない
-Last week, Alice and Tanaka traveled to the town of Maginia in hopes of exploring Yggdrasil, The WorldTree. Alice's goal is to find the legendary treasure said to be hidden in Yddrasil that can grant any wish. But in order to explore Yggdrasil, Alice will need to start a guild and assemble a team of adventurers to help her...
+Last week, Alice and Tanaka traveled to the town of Maginia in hopes of exploring Yggdrasil, The World Tree. Alice's goal is to find the legendary treasure said to be hidden in Yddrasil that can grant any wish. But in order to explore Yggdrasil, Alice will need to start a guild and assemble a team of adventurers to help her...
 
 To jump to the latest chapter of the story, [click here](/story#４章).
 
