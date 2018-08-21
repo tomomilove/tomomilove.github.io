@@ -4,6 +4,18 @@ title: Blog
 permalink: /blog/
 month: August
 ---
+# 20 August
+## Cleaning day 3: The closet
+Today I cleaned out my closet. If you were to look inside, I bet you wouldn't notice a difference. However, I actually got rid of more than an entire trash bag full of stuff! Some highlights from the cleaning:
+
+- By getting rid of old clothes that I never wear, I freed up enough hangers so that I can hang up all of the clothes I do wear! Before I was leaving clothes on the floor of the closet because I didn't have enough hangers...
+
+- I found a long lost plug for my macbook charger! This allows me to make the charger cord length shorter, making it better for travel. I also found a couple of more things i had lost, such as my other pillow case.
+
+- I fit the excess blankets into the closet! Now the corner is finally free!
+
+It feels nice to get rid of things, but in the future, I'll have to try my best to not accumulate so much stuff in the first place.
+
 # 19 August
 ## Cleaning day 2: Tea box
 Time to get rid of the old tea box...
