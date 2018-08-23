@@ -4,6 +4,18 @@ title: Blog
 permalink: /blog/
 month: August
 ---
+# 22 August
+## Getting the band together
+Last week, Alice started a guild and reluctantly recruited John to fill the critical role of healer. However, she still needs two more guild members...
+
+To jump to the latest chapter of the story, [click here](/story#７章).
+
+Oh by the way, I also decided to give the story the title! It is now called 怖がりじゃないクロニクルス (Kowagarijanai Chronicles). I wrote the title at the top of the story page.
+
+# 21 August
+## Napoletana Pizzeria REVIEW
+Check it out in the [reviews](/reviews) page!
+
 # 20 August
 ## Cleaning day 3: The closet
 Today I cleaned out my closet. If you were to look inside, I bet you wouldn't notice a difference. However, I actually got rid of more than an entire trash bag full of stuff! Some highlights from the cleaning:

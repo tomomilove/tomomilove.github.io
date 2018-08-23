@@ -7,6 +7,18 @@ permalink: /reviews/
 
 Here I write reviews on movies, etc. that we've seen together!
 
+## Napoletana Pizzeria
+
+(No picture this time... Next time I go, if I remember to get a picture, I'll retoractively add it to this review!)
+
+Napoletana Pizzeria is a local restaurant that serves [neapolitan style pizza](https://en.wikipedia.org/wiki/Neapolitan_pizza). Supposedly the original style of pizza, in order to make this pizza officially you need to follow very specific requirements. According to the Wikipedia article: "It must be made with San Marzano tomatoes, which grow on the volcanic plains to the south of Mount Vesuvius, and Mozzarella di Bufala Campana, a protected designation of origin cheese made with the milk from water buffalo raised in the marshlands of Campania and Lazio in a semi-wild state."
+
+Regardless of the specific requirements, I have to say I love the pizza at Napoletana. The sauce has a great flavor to it, and the crust is cooked just right. Sometimes they overdo it on the salt and the olive oil, but usually it's good. The calzone is a must try! The ricotta and salami add extra flavors that elevate it beyond the other pizzas.
+
+If there's one complaint I have about Napoletana, it's the size of the pizzas. They're slightly too big for one serving, but they're too small to split between two people. I wish each pizza was around 80% of its size.
+
+Ultimately though, if my only complaint is that you might get too much of a good thing, I have to rate it 5/5!
+
 ## Shalala
 
 ![Shalala](/images/blog_july/shalala.jpg)
