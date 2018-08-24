@@ -4,6 +4,30 @@ title: Blog
 permalink: /blog/
 month: August
 ---
+# 23 August
+## Article about "Hidden secrets and legends" at Berkeley
+Someone at work linked [this article](https://www.sfgate.com/bayarea/article/cal-myths-legends-lore-facts-berkeley-13107925.php) about interesting things at Berkeley. 
+
+You can go read that article if you want, but honestly, the website is kind of a mess, so I'll summarize some of the more interesting ones for you. Full credit for the photos and information go to the original article, I'm pretty much just copying it here for you!
+
+![Mining tunnels](https://s.hdnux.com/photos/26/77/47/6027736/5/1024x1024.jpg)
+
+Apparently, ~100 years ago some mining students actually dug mining tunnels underneath the campus for coursework. It says they had to blast and dig it out -- I guess that means they had to use dyanmite! I can't imagine that would be allowed today...
+
+![Hyenas](https://s.hdnux.com/photos/40/31/65/8494403/3/1024x1024.jpg)
+
+Up until last year, researchers kept a colony of hyenas someowhere in the hills. Apparently they served as a reference for animators on _The Lion King_.
+
+![Dog](https://s.hdnux.com/photos/36/60/24/8062257/9/1024x1024.jpg)
+
+There was a dog that once got a degree, thanks to his owner taking all of his tests for him. The dog is now buried at Bowles hall.
+
+![Pelican statue](https://s.hdnux.com/photos/40/41/12/8524446/3/1024x1024.jpg)
+
+The pelican statue is a reference to _The California Pelican_, a humor magazine at Cal. The statue is in front of this building because the building's donor is the person who ran the magazine.
+
+And that's about it! I have to say, I didn't know these ones, and I thought I had learned a lot of Berkeley lore. The deep history of the campus continues to surprise me!
+
 # 22 August
 ## Getting the band together
 Last week, Alice started a guild and reluctantly recruited John to fill the critical role of healer. However, she still needs two more guild members...
