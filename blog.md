@@ -4,6 +4,48 @@ title: Blog
 permalink: /blog/
 month: August
 ---
+# 25 August
+## Review over the list of things that weigh on my mind
+We were talking about my list of things that weigh on my mind, so I thought I would write out the whole thing in this post, as well as comment on the current status of each point!
+
+1. _I'm not successful at work:_ Well, as mentioned in yesterday's blog post, I reached a milestone on something I've been working on recently. So finally I have been making some progress. I still feel like I am not doing great, but I think I am doing reasonably well.
+
+2. _I don't enjoy work:_ Actually, I feel that I enjoy work even less now. Every day, I am counting down the time until I get to go home. That's not a great situation to be in, right? Part of the reason is that my life outside of work is so much more interesting, like I really want to get to my learning Japanese and writing.
+
+3. _I can't find good shoes:_ This one is resolved, actually. A while ago I bought some really expensive shoes. I didn't like wearing them because they hurt my ankle, but I also couldn't return them because I wore them outside once. I tried really hard to break them in, but it wasn't working. I tried all sorts of crazy solutions. In the end, I felt that I had wasted a ton of money, and on top of that, I couldn't find any good shoes to wear instad. However, there has been an update since then. I found that those shoes actually won't hurt my ankle if I take out the insole I was using. I liked the insole because it makes walking feel softer. But I tried wearing the shoes without the insole, and eventually found I could get used to it. Now I wear those shoes every day and they are fine!
+
+4. _Tomomi wants me to drive but I don't want to drive:_ Is this one resolved? Last I remember we had an agreement that I would pay for dinners and things if you drive. Is that working out for you? I feel like this hasn't been an issue recently, but if it's still bothering you, you should let me know.
+
+   In truth, I am willing to re-learn driving at some point in the future. What's stopping me now is that I'm not in a situation where I would need to drive often. The only times in my current life that driving would be useful to me would be occassionally on the weekends, and I think that is not often enough that I could keep practiced. I have crashed before due to my own inexperience, so if I am going to drive again I want to make sure I am regularly practiced. I think the fear of my own inexperience is the main fear that keeps me from driving.
+
+5. _I make so many mistakes while cooking:_ I guess this is still true, but for some reason it's not really bothering me much anymore. I guess this is just an attitude thing?
+
+6. _I eat too many sweets:_ You may not be aware of this, but there are lots of nice chocolates and sugar-filled snacks at work that are easy to eat. I have been cutting down on them though, so I feel a little bit better about this one. I've also stopped going out to get desserts on weekends on my own (such as milk tea). I think normal tea is just as good, so I might as well go with the healthier and cheaper option.
+
+7. _I don't eat enough vegetables:_ This one is still an issue. Whether it's at work or while eating out, much of the time I don't get a lot of vegetables with my meal. This is partially my own fault of course, with my own food choice. I think the main problem I face here is that vegetable foods often just aren't as tasty. What can be done about that?
+
+8. _I spend too much money on food:_ This one is as bad as ever, and it's because I eat out so much. I could save a lot of money by eating dinner at work, but then I would have to stay late which I don't want to do. I could also save a lot of money by cooking dinner, but it's just so time consuming. If I spend every night cooking, then I'm not going to have time to read and write and things, right? My other option is to buy frozen foods and convenience foods from grocery stores, but these never taste very good. Relating to the next item on the list...
+
+9. _I can't find good food:_ Compared to Japan, I just can't find good food here. Not at working, not eating out, not cooking myself. And there's a tradeoff: food that is tastier tends to be less healthy (without vegetables), and to cost a lot of money. So how I can find the right balance of healthy food, cheap food, and tasty food?
+
+10. _I don't exercise:_ This is important for my health, but I haven't done it because I find exercise very boring to do by myself. I think I would enjoy things like running with you, or even going to the gym with you, but maybe I don't see you often enough for that. If it's something you're interested in though, let me know and we could try!
+
+11. _I can't keep everything clean:_ It's a never ending battle of keeping the floor vacuumed, the shower clean, the toilet clean, things dusted, and more. I know my roommates hire people to clean, but I don't want to do that. Back at home, I know my mom used to spend every Friday cleaning the whole house. I guess I could spend the time to do that, I just think there are other things I'd rather do more? It's hard to find the right balance.
+
+And that's all the things remaining on the list. Writing them all out, they don't seem insurmountable.
+
+Also, roughly half of them are about food, huh? Maybe I should prioritize working on food issues. I could try an initiative such as at least one home-cooked dinner per week?
+
+# 24 August
+## Phishing problem
+_Phishing_ is a situation where someone tries to trick someone else into revealing their personal information. This usually happens by pretending to be someone that person trusts.
+
+When phishing through email, phishers often include a link in the email that is pretending to be a link to a trusted site. For example, a phisher could send an email that asks you to view a file by cliking a link like https://dropbox-secure-login[.]com. This is not the real Dropbox login page, but if the person clicks the link, they will find a fake Dropbox login page that the phisher has set up, which asks for username and password.
+
+Something I've been working on at work is a way to detect these fake links. Given a link like https://dropbox-secure-login.com, is there a way for a computer to detect that link is pretending to be a link to a trusted site? Unfortunately, I don't think I am allowed to say exactly what my work is. However, I thought you might be interested to know what the problem is. Perhaps, in an idle moment, you might find it fun to think about how you would solve the problem? 
+
+Also, there's a reason I'm writing about this today. After months of work, I hit a big milestone today! Though unfortunately, I guess I shouldn't specifically say what this is, either... Writing about work is hard!
+
 # 23 August
 ## Article about "Hidden secrets and legends" at Berkeley
 Someone at work linked [this article](https://www.sfgate.com/bayarea/article/cal-myths-legends-lore-facts-berkeley-13107925.php) about interesting things at Berkeley. 
