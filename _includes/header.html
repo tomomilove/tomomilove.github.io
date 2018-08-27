@@ -1,9 +1,6 @@
 <header class="site-header">
   <div>
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-    <form class="search-bar" action="/search_results" method="get">
-        <input class="search-input" type="text" name="q" placeholder="Search...">
-    </form>
   </div>
 
   <nav class="site-nav">
@@ -22,7 +19,7 @@
             <button id="blog-dropdown-button" onclick="showBlogArchive()" class="dropdown-button">Blog</button>
             <div id="blog-dropdown" class="dropdown-content">
               {% for blog_page in site.pages %}
-                {% if blog_page.title contains "Blog" %}
+                {% if blog_page.layout contains "blog" %}
                   <a class="page-link" href="{{ blog_page.url | prepend: site.baseurl }}">{{ blog_page.month }}</a>
                 {% endif %}
               {% endfor %}
@@ -33,6 +30,9 @@
         <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
         {% endif %}
       {% endfor %}
+      <form class="search-bar" action="/search_results" method="get">
+          <input class="search-input" type="text" name="q" placeholder="Search...">
+      </form>
       <script>
           searchResults();
       </script>

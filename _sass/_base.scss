@@ -219,28 +219,32 @@ button {
  * Search bar
  */
 .search-bar {
-    float: right;
-    margin-top: 13px;
     background-color: $background-color;
     text-color: $secondary-brand-color;
-    border-bottom: 4px solid $brand-color;
+    border: none;
+    float: right;
+    max-width: 200px;
+    transition: width 0.4s ease-in-out;
+}
+
+.search-bar::focus {
+    width: 200px;
 }
 
 input[type=text] {
     background-color: $background-color;
-    color: $secondary-brand-color;
+    color: $text-color;
     border: none;
     font-size: $base-font-size;
     font-weight: 400;
     font-family: inherit;
     line-height: $base-line-height;
-    width: 100px;
     transition: width 0.4s ease-in-out;
+    width: 100px;
 }
 
 input[type=text]:focus {
-    width: 100%;
-    transition: width 0.4s ease-in-out;
+    width: 200px;
 }
 
 ::placeholder {
