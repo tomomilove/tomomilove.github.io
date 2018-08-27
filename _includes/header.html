@@ -30,6 +30,12 @@
         <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
         {% endif %}
       {% endfor %}
+      <form action="/search_results" method="get">
+          <input type="text" name="q" placeholder="Search">
+      </form>
+      <script>
+          searchResults();
+      </script>
     </div>
   </nav>
 </header>
