@@ -4,6 +4,16 @@ title: Blog
 permalink: /blog/
 month: August
 ---
+# 26 August
+## Search bar and header changes
+I added a search bar to the site. It uses something called Google Custom Search Engine. From my tests, it doesn't seem to be particularly great for this site: The problem is that it searches for pages, but each blog post isn't on its own page. So in the end, it can only bring you to the correct blog month page, rather than to the specific blog post. I guess that's better than nothing, though?
+
+By the way, it's possible to search by URL directly, instead of using the search bar. For example, to search for "berkeley" on the site, you can just use [http://www.tomomilove.com/search_results/?q=berkeley](/search_results/?q=berkeley). Just put whatever you want to search for after the "?q=" part.
+
+Also, unfortunately, the results page has ads. It's actually very easy for me to remove them, but that's against the terms of service, so I figure I should leave them. You can use ad blocking, though? In the future, I may try to find something else that's ad free, but I guess this is good enough for now.
+
+By the way, you might also notice that I removed some of the header links, such as "Arts and Crafts" and "Travel Diary". I put them in a blog page called "Older". The reason I did this is because there were starting to be a lot of header links, and it was getting crowded. Also, I think if I were to write these kinds of things today, I would have put them in the blog. What do you think of this change? If you would like me to put any of them back, I can.
+
 # 25 August
 ## Review over the list of things that weigh on my mind
 We were talking about my list of things that weigh on my mind, so I thought I would write out the whole thing in this post, as well as comment on the current status of each point!

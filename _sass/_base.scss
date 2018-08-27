@@ -219,16 +219,10 @@ button {
  * Search bar
  */
 .search-bar {
+    display: inline-block;
     background-color: $background-color;
     text-color: $secondary-brand-color;
     border: none;
-    float: right;
-    max-width: 200px;
-    transition: width 0.4s ease-in-out;
-}
-
-.search-bar::focus {
-    width: 200px;
 }
 
 input[type=text] {
@@ -239,11 +233,6 @@ input[type=text] {
     font-weight: 400;
     font-family: inherit;
     line-height: $base-line-height;
-    transition: width 0.4s ease-in-out;
-    width: 100px;
-}
-
-input[type=text]:focus {
     width: 200px;
 }
 
