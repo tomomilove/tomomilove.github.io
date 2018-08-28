@@ -4,6 +4,22 @@ title: Blog
 permalink: /blog/
 month: August
 ---
+# 27 August
+## A chance for better internet?
+When I was cleaning the closet the other day, I found my old router. Also, when I was cleaning my room, I uncovered a phone jack on the wall. So I thought to myself: Could I connect my router to the phone jack via ethernet and get better internet in my room?
+
+![Happy router](/images/blog_august/happy_router.jpg)
+I could be useful!
+
+However, I talked to Khalil about it, and he said that probably wouldn't work.
+
+![Sad router](/images/blog_august/sad_router.jpg)
+I am not useful...
+
+Instead, he said I could use something called a powerline adapter. You just plug it into a normal power outlet actually. Apparently, this is how his TV gets internet.
+
+I looked it up, and it costs about $40 or so. I'm not sure if I should get it. On the one hand, better internet would definitely be worth a one-time $40 cost. On the other hand, I'm not actually sure how much the internet would improve, if at all. And $40 is a bit much just to experiment.
+
 # 26 August
 ## Search bar and header changes
 I added a search bar to the site. It uses something called Google Custom Search Engine. From my tests, it doesn't seem to be particularly great for this site: The problem is that it searches for pages, but each blog post isn't on its own page. So in the end, it can only bring you to the correct blog month page, rather than to the specific blog post. I guess that's better than nothing, though?
