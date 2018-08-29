@@ -4,6 +4,24 @@ title: Blog
 permalink: /blog/
 month: August
 ---
+# 28 August
+## Kombucha
+
+So at my work they now have kombucha:
+
+![Kombucha 1](/images/blog_august/kombucha1.jpg)
+![Kombucha 2](/images/blog_august/kombucha2.jpg)
+
+Kombucha is a thing I've seen around a lot, especially in stores like Whole Foods, but I never knew what it was. So I decided to look it up and was surprised to discover that it's actually tea! More specifically, a kind of fermented tea. I'll let [Wikipedia's article](https://en.wikipedia.org/wiki/Kombucha) explain:
+
+"Kombucha (also tea mushroom, Manchurian mushroom, formal name: Medusomyces gisevii) is a variety of fermented, lightly effervescent sweetened black or green tea drinks commonly intended as functional beverages for their supposed health benefits. Kombucha is produced by fermenting tea using a 'symbiotic culture of bacteria and yeast' (SCOBY)."
+
+Wikipedia then goes on to mention:
+
+"Numerous claims of health benefits have been made from drinking kombucha, but there is no scientific evidence to support this view."
+
+Just a marketing gimmick, I guess? Not something that sounds very tasty either. But then again, _for the blog_, I had to give it a go, right? And, well, um... it tastes basically like it is described, I guess? Imagine tea, mixed with soda, mixed with... the fermentedness of yogurt. I was not a fan. I couldn't get very far before I had to give up on it!
+
 # 27 August
 ## A chance for better internet?
 When I was cleaning the closet the other day, I found my old router. Also, when I was cleaning my room, I uncovered a phone jack on the wall. So I thought to myself: Could I connect my router to the phone jack via ethernet and get better internet in my room?
