@@ -26,7 +26,7 @@ There's a pretty strong east-west divide, isn't there?
 
 Here's a map showing locations that produce food juxtaposed with locations that produce poisonous substances:
 
-![Food and poison map](/images/blog_august/food_and_posion_map.jpg)
+![Food and poison map](/images/blog_august/food_and_poison_map.jpg)
 
 I'm not sure whether or not we should be concerned with posionous substance production in our region. Does it get into the food somehow? I'm not sure.
 
