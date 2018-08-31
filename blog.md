@@ -4,6 +4,40 @@ title: Blog
 permalink: /blog/
 month: August
 ---
+# 29 August
+## Infinite City
+While I was cleaning my room, I found this book, _Infinite City_
+![Infinite City](/images/blog_august/infinite_city.jpg)
+
+I remember receiving this as a gift, but I can't remember from who or for what reason. Do you know? Maybe it was a gift from a work colleague upon switching teams...?
+
+Anyway, this book features a lot of maps of San Francisco and the bay area, most of which juxtapose two topics, many of which are seemingly unrelated. I don't think the point of the book is to suggest any causation; it just wants you to think about it, I guess.
+
+For example, here's one that juxtaposes murders (in red) and cyprus trees (in green).
+![Cypress trees map](/images/blog_august/cypress_trees_map.jpg)
+
+There's a pretty strong east-west divide, isn't there?
+
+Here's a map showing locations that produce food juxtaposed with locations that produce poisonous substances:
+
+![Food and poison map](/images/blog_august/food_and_posion_map.jpg)
+
+I'm not sure whether or not we should be concerned with posionous substance production in our region. Does it get into the food somehow? I'm not sure.
+
+Here's one that has coffee shops as well as the major water lines and sewage lines in the city. According to the book, the point is to get you to think about where the water in your coffee comes from, and where it goes.
+
+![Coffee map](/images/blog_august/coffee_map.jpg)
+
+Here's another interesting one about water. It shows the natural land mass of San Francisco, the artificial land that was creating by filling in water, and the land that would be lost if the sea level rises due to global warming.
+
+![Land and water map](/images/blog_august/land_and_water_map.jpg)
+
+Oh and here's a map about public landmarks that might be interesting to visit:
+
+![Public landmarks map](/images/blog_august/public_landmarks_map.jpg)
+
+It's one of the last maps in the book. I guess the point is to challenge you before showing you the "obvious" map of the city.
+
 # 28 August
 ## Kombucha
 
