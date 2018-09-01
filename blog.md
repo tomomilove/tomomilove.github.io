@@ -4,6 +4,10 @@ title: Blog
 permalink: /blog/
 month: August
 ---
+# 31 August
+## Into the labyrinth
+This week, Alice, Tanaka, John, Lee, and Yamamoto begin their journey into the labyrinth... [Click here](/story#９章) to jump to the latest chapter of the story.
+
 # 30 August
 ## Locked out
 Today, for the first time that I can remember, I left my key at home when I went to work! I guess what happened is that I had put the keys in my pants pocket when getting dressed, but then I decided to change pants at the last minute before I left. Normally I always check for my keys before closing the door on the way out, but I didn't today, and I'm not sure why. Maybe I was just preoccupied? I got as far as the apartment complex stairs before realizing my mistake. I could have tried to contact my roommates right then I try to get back in, but in that case I likely would have missed the bus.
