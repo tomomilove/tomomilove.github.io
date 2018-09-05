@@ -20,7 +20,9 @@
             <div id="blog-dropdown" class="dropdown-content">
               {% for blog_page in site.pages %}
                 {% if blog_page.layout contains "blog" %}
+                <div>
                   <a class="page-link" href="{{ blog_page.url | prepend: site.baseurl }}">{{ blog_page.month }}</a>
+                </div>
                 {% endif %}
               {% endfor %}
             </div>
