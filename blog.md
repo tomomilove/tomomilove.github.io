@@ -4,6 +4,14 @@ title: Blog
 permalink: /blog/
 month: September
 ---
+# 5 September
+## Leaving teammates
+This week two of my teammates at work announced they are leaving the team. One is going to another team, the other to another company. One of them is a huge loss for the team, as they were always really helpful to me and everyone. The other I didn't interact with much, since they were working on a fairly peripheral project. So peripheral, in fact, that I wonder if it will continue after they leave.
+
+No matter how many times people leave, I never get used to it. Usually what happens is that the person sends an email, and then they are gone within a week. It always makes me feel bad when this happens: I guess because it's so sudden, and it feels so cold and emotionless. I feel like I want to be able to talk to them, reason with them, and convince them to stay, but of course that is impossible. By the time they've sent the email, the plans are already well in motion, the offers already signed, and so on.
+
+Whenever a teammate leaves, I always wonder if I played a small part in it. If I had been nicer to them, more sociable, would they have stayed? Maybe I alone couldn't have changed anything, but still, perhaps I could have played a better role than I did. I resolve to try to be nicer to my remaining teammates.
+
 # 4 September
 ## Fast internet
 So I splurged to get ethernet, and I think it was a good decision! It has been so far, so good today.
