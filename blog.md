@@ -4,6 +4,10 @@ title: Blog
 permalink: /blog/
 month: September
 ---
+# 6 September
+## Fight scene!
+A new chapter of the story is available! Kowagarijanai encounters a new danger in their exploration of the labyrinth. The latest chapter is [chapter 11](/story#１１章).
+
 # 5 September
 ## Leaving teammates
 This week two of my teammates at work announced they are leaving the team. One is going to another team, the other to another company. One of them is a huge loss for the team, as they were always really helpful to me and everyone. The other I didn't interact with much, since they were working on a fairly peripheral project. So peripheral, in fact, that I wonder if it will continue after they leave.
