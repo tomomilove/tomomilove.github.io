@@ -4,6 +4,23 @@ title: Blog
 permalink: /blog/
 month: September
 ---
+# 8 September
+## Alviso trip!
+
+# 7 September
+## Haircut + Zareen's trip!
+Today I got a haircut! The instructions I give to the person who cuts my hair is "Number 3 on the sides, and about 1 inch left on top". Number 3 refers to the length of razor, I think. I'm guessing you don't give instructions like that when you get your hair cut, huh?
+
+The haircut truck only comes to the main campus of my work, not the campus that my desk is at. So whenever I get a haircut I also make sure to take a trip to the Indian restaurant Zareen's, which is nearby! 
+
+Zareen's is an eclectic place. I think we should definitely go there together one day! Remind me the next time we are thinking of going out to dinner. 
+
+One odd thing they have is a shelf of books.
+
+![Zareen's](/images/blog_september/zareens.jpg)
+
+I wonder if anyone actually reads them...?
+
 # 6 September
 ## Fight scene!
 A new chapter of the story is available! Kowagarijanai encounters a new danger in their exploration of the labyrinth. The latest chapter is [chapter 11](/story#１１章).
