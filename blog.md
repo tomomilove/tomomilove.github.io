@@ -4,6 +4,20 @@ title: Blog
 permalink: /blog/
 month: September
 ---
+# 9 September
+## 428: Shibuya Scramble
+Recently I've been playing a game called _428: Shibuya Scramble_. 
+
+![Shibuya Scramble](http://spike-chunsoft.com/428/img/keyart.jpg)
+
+The genre of this game is called visual novel. As the name suggests, primarily it's just a story that you read, along with pictures, music, and some sound effects. In this game, the pictures are actually photos, not drawings or computer graphics, which is fairly rare among games.
+
+Since this is a game, there is also some interactivity: at certain points, you can choose actions for the characters to take, which changes what happens in the story. 
+
+There are 5 main characters, and each has their own storyline. Choices you make for one character often impact the other characters. Each of the characters is either directly or indirectly related to the game's central plot, which is about a kidnapping that happens in Shibuya. For example, one of the characters is a detective on the case, and you follow him trying to resolve the kidnapping. Other characters are less directly related to the kidnapping plot. For example, one of the characters is a woman dressed up in a mascot costume working to advertise for a weight loss product in order to make some quick money. Her story is not directly related to the core plot (so far, as far as I can tell), but the choices she makes do impact what happens to the other characters, which is always interesting to see.
+
+It's a very interesting game so far. I'll let you know more about what I think of it when I've finished! 
+
 # 8 September
 ## Alviso trip!
 Today we took a trip to some parks in Alviso. Honestly I didn't even know Alviso existed before today, so that was interesting. The parks were nice as well!
