@@ -6,6 +6,17 @@ month: September
 ---
 # 8 September
 ## Alviso trip!
+Today we took a trip to some parks in Alviso. Honestly I didn't even know Alviso existed before today, so that was interesting. The parks were nice as well!
+![Alviso 1](/images/blog_september/alviso1.jpg)
+![Alviso 2](/images/blog_september/alviso2.jpg)
+![Alviso 3](/images/blog_september/alviso3.jpg)
+
+I really liked this building, too. I think it's beautiful.
+
+![Alviso 4](/images/blog_september/alviso4.jpg)
+![Alviso 5](/images/blog_september/alviso5.jpg)
+
+Did you notice that I like these kind of short, brown looking buildings? I guess it's their more natural and humble look that I appreciate. This building also seems to have a cool upper floor lookout. I want to try it!
 
 # 7 September
 ## Haircut + Zareen's trip!
