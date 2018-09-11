@@ -4,6 +4,55 @@ title: Blog
 permalink: /blog/
 month: September
 ---
+# 10 September
+## Kibi comes to visit
+Today I brought Kibi to visit your house.
+
+![Kibi in the couch](/images/blog_september/kibi_in_the_couch.jpg)
+_Hi Tomomi! Here I am! Coming out of your couch!_
+
+Kibi made a bunch of new friends, such as this girl:
+![Kibi and the girl](/images/blog_september/kibi_and_the_girl.jpg)
+_Nice kimono you've got there! I want one!_
+
+And these fish:
+![Kibi and the fish](/images/blog_september/kibi_and_the_fish.jpg)
+_I am a hermit crab. Let me in the tank!_
+
+Kibi also decided to become a tiger cub for day:
+![Kibi and the tiger](/images/blog_september/kibi_and_the_tiger.jpg)
+_I feel safe in your arms, tiger~_
+
+Then decided to see what being food was like!
+![Kibi is food](/images/blog_september/kibi_is_food.jpg)
+_I better be as tasty as my namesake!_
+
+Rolling with Koron:
+![Kibi and Koron](/images/blog_september/kibi_and_koron.jpg)
+_コロコロコロ。。。_
+
+And Kibi even got into a fight!
+![Kibi's fight](/images/blog_september/kibis_fight.jpg)
+_My claws are sharper than your silly looking weapon!_
+
+Dinner time!
+![Kibi's dinner](/images/blog_september/kibis_dinner.jpg)
+_Ramen!!_
+
+I'm not sure what Kibi's doing now...
+![Kibi will endure](/images/blog_september/kibi_will_endure.jpg)
+_I will endure!_
+
+Kibi wants to finish off the day with some gaming!
+![Kibi gaming 1](/images/blog_september/kibi_gaming1.jpg)
+_I'm going to win!! I'm going to beat you!!_
+
+Uh, Kibi...? You do realize this is a cooperative game, right?
+![Kibi gaming 2](/images/blog_september/kibi_gaming2.jpg)
+_How do I win?!_
+
+The long day comes to a close, and now it's time for Kibi's favorite game: hide-and-go-seek! Where could he be?
+
 # 9 September
 ## 428: Shibuya Scramble
 Recently I've been playing a game called _428: Shibuya Scramble_. 
