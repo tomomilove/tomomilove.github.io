@@ -4,6 +4,40 @@ title: Blog
 permalink: /blog/
 month: September
 ---
+# 11 September
+## Funny phishing domains
+As I mentioned earlier, part of my job is identifying phishing links. I manually look through these all the time, and honestly, it's often quite amusing. Some of the links are just so on-the-nose about the website they're spoofing, while others are funny because they're just so bizarre. Today I looked through over 1000. I wish I could share them with you, but I guess that's not public information. So instead I'll share some I found on a [PhishTank](https://www.phishtank.com/), a public database of known phishing links. Presented without comment, I can only imagine what some of these are supposed to be about...
+
+- e-mailaddress.com
+- takeme.club
+- diptheritic-age.com
+- itstechnology.com
+- indianalitigator.com
+- kittnes.ml
+- my3.anti-fraud.support
+- att-yahoomail1.webnode.com
+- lemonlog.com.br
+- apple.com-updatinginformationuser.info
+- tomatoesmato.club
+- thisisamericaanythingcanhappen.club
+- neutral.nut.cc
+- mailmarketingonline.com
+- spiritpress.life
+- coffeetracks.info
+- dopecoffee.info
+- mtrack.me
+- challengeassumptions.org
+- thecharacters.net
+- love-in-air.net
+- donlinmine-online-webs-web.win
+- wisdomofgoodliving.com
+- ebay.listing.seller.smudge360.buyer.protection.for.vehicles.pranadafamily.com
+- spunkyourcreek.com
+- paypai-com.account.up-date.paypai-com.dinanesia.com
+- localdatedreams.com
+- angryseacollective.com
+- redirecttothemainpage.blogspot.com
+
 # 10 September
 ## Kibi comes to visit
 Today I brought Kibi to visit your house.
