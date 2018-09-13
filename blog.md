@@ -4,6 +4,22 @@ title: Blog
 permalink: /blog/
 month: September
 ---
+# 12 September
+## Roommate and Dragon Quest 11
+(Roommate's name ommitted for privacy. It's roommate K.)
+
+So, some days ago I had a dream that my roommate told me he was quitting playing video games. I think the reason had something to do with his girlfriend not wanting him to play games anymore, if I remember correctly? Anyway, I have no idea where this dream came from, or why. I don't recall thinking about anything of the sort prior to that dream.
+
+Anyway, I mentioned this to my roommate and he said he thought it was quite ironic, because on that very day the game _Dragon Quest 11_ released. Dragon Quest is my roommate's favorite game series, and he said he had been waiting for this entry for 14 years\*.
+
+_\*He probably meant this in reference to Dragon Quest 8, which released in 2004. Dragon Quest 9 and 10 released in the interim, but they weren't really what fans were looking for, since they were kind of spinoffs that eschewed from the traditional game structure that the Dragon Quest series had been known for._
+
+After I told roommate K about the dream, roommate B chimed in and said next time I have a dream, I should go do exactly the opposite. I wonder if that's good advice!
+
+Anyway, it has been several days since then, so today I asked roommate K what he thinks of Dragon Quest 11 so far, and if it has lived up to his expectations. He said he's about 2/3 of the way through the game, and to my surprise, he said it has exceeded his expectations and is now his favorite game of all time!
+
+Wow! Imagine having 14 years of expectations surpassed! That's your feel-good story of the day, for sure!
+
 # 11 September
 ## Funny phishing domains
 As I mentioned earlier, part of my job is identifying phishing links. I manually look through these all the time, and honestly, it's often quite amusing. Some of the links are just so on-the-nose about the website they're spoofing, while others are funny because they're just so bizarre. Today I looked through over 1000. I wish I could share them with you, but I guess that's not public information. So instead I'll share some I found on a [PhishTank](https://www.phishtank.com/), a public database of known phishing links. Presented without comment, I can only imagine what some of these are supposed to be about...
