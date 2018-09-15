@@ -4,6 +4,59 @@ title: Blog
 permalink: /blog/
 month: September
 ---
+# 14 September
+## Gochi
+
+![Gochi 1](/images/blog_september/gochi1.jpg)
+
+The two work teammates I mentioned earlier actually left the team today. We had a goodbye lunch at the Mountain View restaurant Gochi. It's a Japanese tapas restaurant. Didn't you tell me you had gone there...? Or was it somewhere else?
+
+Anyway, while there we didn't order individual dishes. Instead, we just had them bring us various foods. And there was way too much! Anyway, here they were:
+
+![Gochi 2](/images/blog_september/gochi2.jpg)
+_Edamame! Yeah, that's pretty basic._
+
+![Gochi 3](/images/blog_september/gochi3.jpg)
+_Raw (?) shrimp. Wasn't a huge fan of this one, actually!_
+
+![Gochi 4](/images/blog_september/gochi4.jpg)
+_Sashimi, I think? Do you know what fish this is? My teammates were saying salmon, but I thought salmon looked different, unless this is some kind of variety._
+
+![Gochi 5](/images/blog_september/gochi5.jpg)
+_Some kind of kimchi pork dish._
+
+![Gochi 6](/images/blog_september/gochi6.jpg)
+_Some kind of orange chicken dish._
+
+![Gochi 7](/images/blog_september/gochi7.jpg)
+_A pizza... with some kind of crab and other seafood in it._
+
+![Gochi 8](/images/blog_september/gochi8.jpg)
+_Some beef. What are those things on top?? I tried to eat one, but they were very tough._
+
+![Gochi 9](/images/blog_september/gochi9.jpg)
+_A ball that had cheese, mushroom, and I think risotto inside? I didn't try this one, because of the mushroom..._
+
+![Gochi 10](/images/blog_september/gochi10.jpg)
+_A gratin._
+
+![Gochi 11](/images/blog_september/gochi11.jpg)
+_Ending rice!_
+
+Correct me if I'm wrong, but this isn't very traditional Japanese food, is it? It seemed kind of fusion-y to me. But I don't really know.
+
+# 13 September
+## Calling a friend
+(Friend's name ommitted for privacy. It's mutual friend CYI.)
+
+Today I called my friend on the phone. It's been so long since I talked to him. I meant to call him on his birthday a while ago, but I didn't for some reason, and then I kept putting it off. You know how I am about being nervous with phone calls. But I also called you today, so maybe I'm getting used to it, and it's not so bad!
+
+He seems to be doing well. He's doing research now, but says he kind of misses working with patients. He says he may come back to Sacramento to finish his med school. Then we can hang out with him again!
+
+He also told me that he participated in a triathlon recently. Apparently he trained 1 - 2 hours a day, about 6 days a week for it. That's crazy! He said something like (paraphrasing), "I used to be that fat kid, but now I'm healthy!" So that's your feel-good story of the day!
+
+Though every time someone says that, I start thinking about myself. Do I need to exercise, haha...?
+
 # 12 September
 ## Roommate and Dragon Quest 11
 (Roommate's name ommitted for privacy. It's roommate K.)
