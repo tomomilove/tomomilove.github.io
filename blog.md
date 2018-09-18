@@ -4,6 +4,10 @@ title: Blog
 permalink: /blog/
 month: September
 ---
+# 15 September
+## The adventurers tire
+Last week, Alice and company spent their first day exploring the labyrinth, and fought a monster. Read the next chapters of their adventure [here!](/story#１２章)
+
 # 14 September
 ## Gochi
 
