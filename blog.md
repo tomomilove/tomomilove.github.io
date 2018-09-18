@@ -4,6 +4,38 @@ title: Blog
 permalink: /blog/
 month: September
 ---
+# 16 September
+## Chai try
+I tried my hand at making some masala chai today! My goal was to replicate the kind that is commonly found at Indian restaurants.
+
+What separates this tea from other milk tea is the use of spices. I looked at various recipes online, and decided that the bare minimum spices I needed to include were cardamon and cinnamon:
+
+![Cardamom and cinnamon](/images/blog_september/cardamom_and_cinnamon.jpg)
+
+To be honest, I had no idea what caradmom was before this. Now I've learned it's a kind of pod thing. Apparently, there are two varieties: green and black. The green variety is typically used in sweet dishes, whereas the black variety is more pungent and used in savory dishes like curry. Anyway, the green one has a distinct sweet smell, and once I smelled it I could immediately tell this is a big contributor to masala chai's unique flavor.
+
+![Crushed cardamom and cinnamon](/images/blog_september/crushed_cardamom_and_cinnamon.jpg)
+
+The instructions online said to crush them a little bit. Maybe it helps them release their flavor?
+
+The next step is to put the spices in a mixture of 8 oz water and 4 oz milk, and heat until simmering.
+
+![Simmering milk](/images/blog_september/simmering_milk.jpg)
+
+Then add about 1 tablespoon of tea, reduce heat to low, and steep for 3 - 4 minutes.
+
+![Steeping tea](/images/blog_september/steeping_tea.jpg)
+
+Next we gotta strain it into a cup:
+
+![Cup with strainer](/images/blog_september/cup_with_strainer.jpg)
+
+Finally, mix in about 1 tablespoon of sugar. Then we're done!
+
+![Masala chai](/images/blog_september/masala_chai.jpg)
+
+It was pretty good! However, the flavor is a bit lacking compared to the ones I've had at restaurants. I wonder if I need stronger tea, or to steep longer? Or, maybe I need more or different spices. Some recipes I saw recommended spices like star anise or fennel seeds. I wonder what would be good...
+
 # 15 September
 ## The adventurers tire
 Last week, Alice and company spent their first day exploring the labyrinth, and fought a monster. Read the next chapters of their adventure [here!](/story#１２章)
