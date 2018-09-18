@@ -4,11 +4,40 @@ title: Blog
 permalink: /blog/
 month: September
 ---
+# 17 September
+## Character profile: Alice
+
+Here's a character profile on Alice, the character from _Kowagarijanai Chronicles_. It covers her life prior to the beginning of the story. This is meant to be just a quick and fun bonus, so I've only written it in English. I may do some of the other characters later, as well.
+
+**Full name:** Alice Hitomi Smith
+
+**Age:** 21 years old.
+
+**Personality:** Serious, competent, distrustful of others. Acts sarcastically towards people she doesn’t respect (due to their incompetence). Puts on a face of confidence, but internally is actually quite indecisive.
+
+**Biography:** She is a small-time hero of her home city.
+
+As a child, she lived a fairly ordinary life, though she was quiet and somewhat awkward. One day when she was 16, she happened to be looking through things belonging to her literature teacher Mrs. Tanaka, when she found a magical sword. She asked Tanaka if she could use it to fight off a gang that had been harassing her and her friends at school. Tanaka agreed to let Alice have it. With Tanaka’s help, Alice successfully defeated the gang.
+
+Since then, Alice has worked as the town’s local hero, and has fought off many threats and evildoers. She is mentored by Tanaka, who was the town’s previous hero.
+
+Alice’s policy as a hero is to always fight in the open, in broad daylight, and she welcomes a civilian audience. In her words: “The only way I can be sure that I fight for justice is if my actions are fully transparent to the people.”
+
+**Motivation for exploring Yggdrasil:** It is said that hidden at the top of Yggrasil there is a treasure that can grant any wish. Alice reasons that she can increase her impact as a hero to a global scale if she finds the treasure and wishes for world peace.
+
+**Things she likes:** She’s a big fan of the legendary Luxendarc guild, the only people known in recent history to have summited Yggdrasil. Fun fact: I think earlier I mentioned that I played the previous game in this series. Luxendarc guild was my guild from that game.
+
+**Things she worries about:** She is insecure about being a small-time hero. Other heroes she has met outside her city don’t seem to take her seriously.
+
+**People she is close to:** Her former language teacher and current mentor, Mrs. Tanaka. Her mother, Himari Smith. A small group of friends from her school days.
+
+**Fighting style:** A frontline fighter who doesn’t know the word “retreat”. She wields both a sword and a shield, and can take on both an offensive and a defensive role. You might think that doing both offense and defense would leave her only half as good at each, but actually, she just works twice as hard and is fully competent at both. Her work ethic is so intense, people say that when she fights it is almost as if she is two people.
+
 # 16 September
 ## Chai try
 I tried my hand at making some masala chai today! My goal was to replicate the kind that is commonly found at Indian restaurants.
 
-What separates this tea from other milk tea is the use of spices. I looked at various recipes online, and decided that the bare minimum spices I needed to include were cardamon and cinnamon:
+What separates this tea from other milk tea is the use of spices. I looked at various recipes online, and decided that the bare minimum spices I needed to include were cardamom and cinnamon:
 
 ![Cardamom and cinnamon](/images/blog_september/cardamom_and_cinnamon.jpg)
 
@@ -38,7 +67,7 @@ It was pretty good! However, the flavor is a bit lacking compared to the ones I'
 
 # 15 September
 ## The adventurers tire
-Last week, Alice and company spent their first day exploring the labyrinth, and fought a monster. Read the next chapters of their adventure [here!](/story#１２章)
+Last week, Alice and company spent their first day exploring the labyrinth, and fought a monster. Read the next chapters of their adventure [here](/story#１２章)!
 
 # 14 September
 ## Gochi
