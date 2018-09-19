@@ -4,6 +4,19 @@ title: Blog
 permalink: /blog/
 month: September
 ---
+# 18 September
+## Blue Apron
+I decided to try out that Blue Apron program Brian was doing a little while ago. Do you remember, the one where they send you food with some recipes? The first shipment is on Saturday.
+
+I decided to try it for a few reasons.
+
+- Cheaper than eating out. (Although not _that_ much cheaper than eating out.)
+- I get to have a greater variety of food than just eating at the same restaurants all the time.
+- Recipe ideas. If I find some good ones, maybe I can save them and make them later.
+- Cooking will be fun, maybe?
+
+Anyway, I'll try it out for a couple of weeks and see how it goes. Each meal they send you is meant for two people, so you'll have to try it with me sometime!
+
 # 17 September
 ## Character profile: Alice
 
