@@ -4,6 +4,26 @@ title: Blog
 permalink: /blog/
 month: September
 ---
+# 20 September
+## Surprise shirt
+So, some months ago I ordered a shirt online. It was still in pre-production at that point; they hadn't actually manufactured it yet. There was just a promise to deliver it later.
+
+Anyway, I had completely forgotten about it until two days ago, when I received a notification that it was shipping out. Nice!
+
+Here's a photo. I guess the lighting isn't great, but trust me when I say that I really like its green color.
+
+![Surprise shirt 1](/images/blog_september/surprise_shirt1.jpg)
+
+Here's a detail shot. I like the pattern with the little dots.
+
+![Surprise shirt 2](/images/blog_september/surprise_shirt2.jpg)
+
+Interestingly enough, the dots aren't a print; they are actually sewn in! Here's the inside of the shirt, you can see the threads that make the dots.
+
+![Surprise shirt 3](/images/blog_september/surprise_shirt3.jpg)
+
+Unfortunately, those backside threads make the shirt feel scratchy inside. So I think I will have to return it!
+
 # 19 September
 ## Intern aspirations
 Today I put in an application to have an intern! It's something I always wanted to do, but didn't feel ready for before. Also, I lucked out this time, because I didn't miss the email that called for intern applications. I get so overflooded with emails that sometimes I miss important ones, haha...
