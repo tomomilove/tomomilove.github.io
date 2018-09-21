@@ -4,9 +4,19 @@ title: Blog
 permalink: /blog/
 month: September
 ---
+# 19 September
+## Intern aspirations
+Today I put in an application to have an intern! It's something I always wanted to do, but didn't feel ready for before. Also, I lucked out this time, because I didn't miss the email that called for intern applications. I get so overflooded with emails that sometimes I miss important ones, haha...
+
+I'm not sure what the chances of getting an intern are. I heard they were fairly good, as sometimes there are sometimes more interns than projects available. However, one difficulty I face is that working on my team requires knowledge of the programming language C++. I bet many students don't know it. Although C++ is (or was) a popular language, it's also notoriously difficult, and I think most students these days are learning things like Python instead.
+
+Choosing an intern project is pretty difficult. The intern doesn't show up until summer, so it has to be something you don't plan to do until then. And an intern can't be relied on to do anything too important; I hear that interns can be pretty hit or miss in terms of how much they get done. But the project also needs to be interesting. No intern wants to do boring grunt work.
+
+That said, I think I managed to come up with an interesting project. It's the kind of project that I would want to do. It's a fun problem for sure, not grunt work. It has clear goals, but also some room for open-endedness and creativity. It should be easy to make some concrete progress in it, but it can become extremely difficult to finish it completely, or do it very well. So I think any intern could get at least something done, but there is also room for an exceptional intern to show off.
+
 # 18 September
 ## Blue Apron
-I decided to try out that Blue Apron program Brian was doing a little while ago. Do you remember, the one where they send you food with some recipes? The first shipment is on Saturday.
+I decided to try out that Blue Apron program roommate B was doing a little while ago. Do you remember, the one where they send you food with some recipes? The first shipment is on Saturday.
 
 I decided to try it for a few reasons.
 
