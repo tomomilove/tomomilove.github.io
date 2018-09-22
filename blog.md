@@ -4,6 +4,17 @@ title: Blog
 permalink: /blog/
 month: September
 ---
+# 22 September
+## A stellar shirt
+The last shirt I got may have been a miss, but I just got another one which is totally bliss:
+
+![Stellar shirt](/images/blog_september/stellar_shirt.jpg)
+
+It's a navy blue color with little white dots. To me, it looks like stars, which I really like. Actually, to be honest, it has been my secret desire for the longest time to get a shirt with stars. And this one is perfect! It's not too crazy or cheesy looking. I think it hits a good balance of cool and sophisticated. Also I like the buttons, they kind of look like moons to me. I think it's my new favorite shirt!
+
+Here's a detail shot!
+![Stellar shirt detail](/images/blog_september/stellar_shirt_detail.jpg)
+
 # 21 September
 ## Lucky soda
 Do you remember when we had lunch at the food trucks at my work? If you recall, there was a soda machine there:
