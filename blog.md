@@ -4,6 +4,29 @@ title: Blog
 permalink: /blog/
 month: September
 ---
+# 21 September
+## Lucky soda
+Do you remember when we had lunch at the food trucks at my work? If you recall, there was a soda machine there:
+
+![Soda machine](/images/blog_september/soda_machine.jpg)
+
+I believe the soda is made right here. There are these cannisters in a refrigerator below the soda machine, I guess they store the sodas, and I'm wondering if they are responsible for creating the fizz, too?
+
+![Soda cannisters](/images/blog_september/soda_cannisters.jpg)
+
+Anyway, although this soda machine may be neat, it frequently has problems. There are various things that can go wrong:
+
+- The soda has no fizz. This is bad because it is too dense and syrupy like this. It needs the fizz to be lighter.
+- The wrong flavors are hooked up to the wrong nozzle.
+- It's empty.
+
+Actually, the majority of the time I try this soda machine, at least one of these problems is present. In fact, I estimate that I only actually get a perfectly correct soda ~25% of the time!
+
+Huh... what's this?
+![Soda](/images/blog_september/soda.jpg)
+
+A perfect soda! Lucky day!
+
 # 20 September
 ## Surprise shirt
 So, some months ago I ordered a shirt online. It was still in pre-production at that point; they hadn't actually manufactured it yet. There was just a promise to deliver it later.
