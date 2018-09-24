@@ -4,6 +4,38 @@ title: Blog
 permalink: /blog/
 month: September
 ---
+# 23 September
+## Recycling the Blue Apron box
+Yesterday I received my first Blue Apron shipment, and cooked it. Today, I had to get rid of the box.
+
+![Blue apron box](/images/blog_september/blue_apron_box.jpg)
+
+It really is quite big, isn't it?
+
+![Blue apron insulation](/images/blog_september/blue_apron_insulation.jpg)
+
+It contains insulation, two ice packs, and plastic bags/containers to hold each of the ingredients.
+
+My immediate thought was to worry about creating a lot of waste. However, there are instructions on the Blue Apron website about how to dispose of things, and it seems like they have it pretty well covered.
+
+The box and paper stuff can be recycled, of course.
+
+The insulation is said to be biodegradable. I guess you still gotta throw it away, though.
+
+The ice packs are said to be safe to be thawed and then poured out.
+
+The various plastic bags are said to be recyclable. However, they aren't #1 or #2, so I wasn't sure if they could be recycled. I decided to look it up, and I learned something interesting. From the Mountain View city website:
+
+"Recycle by number?
+
+"Those triangle and number symbols printed on many plastics are the manufacturer's identification code for the type of resin in the plastic, similar to a nutrition label on a food can.  The recycling symbols are not indicators that something is recyclable in any given community.
+
+"What changed?  When recycling began in the 1990's, numbers were often used to help the public identify what was recyclable.  With more complex product packaging and world-wide manufacturing, we are moving away from using the numbers to identify what is recyclable.  All you need to do is ask yourself a simple question about the plastic item.
+
+"Is this plastic item a bottle, tub or jug?  If yes, recycle--if no, trash.  Again, what is accepted for recycling depends on the market value.  End markets want to buy plastic bottles, tubs and jugs.  Markets do not want these hard-to-recycle plastics that have no value."
+
+Honestly, I did not know that at all. I thought number determined what you could recycle, but I guess my information was outdated. Hopefully the kids these days are learning the correct thing!
+
 # 22 September
 ## A stellar shirt
 The last shirt I got may have been a miss, but I just got another one which is totally bliss:
