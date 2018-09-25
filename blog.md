@@ -10,7 +10,7 @@ The search functionality on this website has been changed. Why don't you try it 
 
 The reason for the change is primarily because I didn't want to use Google Site Search, since that had ads. This is supposed to be a beautiful personal website of love, so it can't have silly ads, right?
 
-There are some other benefits as well. For example, I was able to get the search results to match the style of the website (fonts and colors), which makes the whole experience prettier and more elegant.
+There are some other benefits as well. For example, I was able to get the search results to match the style of the website (fonts and colors), which makes the whole experience prettier and more elegant. Also, this code was a lot easier to work with than Google Site Search.
 
 One drawback is that this search doesn't seem to be able to handle Japanese characters at all. That's something I could potentially fix on another day, though it would require a lot of effort with only marginal benefit.
 
@@ -22,14 +22,14 @@ That's why you have to read the software license. In this case, it says:
 
 "Copyright (c) 2017 Nick
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
+"Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
+"The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software."
 
 Basically, you can use it for anything you want, as long as you keep this license declaration with it. That's fairly common in the software world, and it's a real blessing!
