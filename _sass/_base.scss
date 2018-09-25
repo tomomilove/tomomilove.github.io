@@ -239,3 +239,28 @@ input[type=text] {
     color: $secondary-brand-color;
     opacity: 1;
 }
+
+/**
+ * Tipue search specifics
+ */
+
+.tipue_search_content_text, .tipue_search_related_title
+{
+    line-height: normal
+}
+.tipue_search_content_bold, .tipue_search_related_bold
+{
+      font-weight: 400;
+      color: $secondary-brand-color;
+}
+
+.tipue_search_content_url
+{
+    display: none;
+}
+
+.tipue_search_spinner
+{
+    display: none;
+}
+

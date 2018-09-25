@@ -26,29 +26,3 @@ window.onclick = function(event) {
     }
 }
 
-function searchResults() {
-    var cx = '005232764583077479877:w75dvueircq';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-}
-
-function executeQuery() {
-    var input = document.getElementById('cse-search-input-box-id');
-    if (input.value != '') {
-        var getUrl = window.location;
-        var baseUrl = getUrl.protocol + "//" + getUrl.host;
-        // window.open(baseUrl + "/search_results/?q=" + input.value);
-        window.open("/search_results/?q=" + input.value, "_self");
-    }
-    // var element = google.search.cse.element.getElement('searchresults-only0');
-    // if (input.value == '') {
-      // element.clearAllResults();
-    // } else {
-      // element.execute(input.value);
-    // }
-    // return false;
-  }

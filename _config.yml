@@ -16,3 +16,8 @@ github_username: jmoghadam
 
 # Build settings
 markdown: kramdown
+
+# Tipue search settings
+tipue_search:
+    include:
+        pages: true
