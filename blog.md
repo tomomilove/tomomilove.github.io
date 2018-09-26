@@ -4,6 +4,30 @@ title: Blog
 permalink: /blog/
 month: September
 ---
+# 25 September
+## California General Election Official Voter Information Guide
+Recently I received the California General Election Official Voter Information Guide in the mail, and today I decided to take a look through it:
+
+![Voter guide](/images/blog_september/voter_guide.jpg)
+
+It contains descriptions of the propositions and candidates being voted on in November.
+
+Anyway, I'll highlight a couple of the more interesting propositions for you.
+
+_Prop 7_ gives the California legislature the ability to change daylight savings (currently, changes to daylight savings require voter approval). However, no matter what, Calfornia is still bound by federal daylight savings laws.
+
+This is a bit of bizarre proposition because it basically does nothing. The problem is that federal daylight savings laws are quite strict: pretty much your only choice is to do spring/summer daylight savings, or to do no daylight savings at all. What people really want though is year-round daylight savings, but this isn't currently allowed under federal law. As a result, this proposition won't really accomplish anything unless the federal law changes at some point in the future.
+
+_Prop 11_ requires private-sector ambulance employees to be on-call even during breaks. I guess the current situation is that when these employees are on breaks, they cannot be interrupted for 911 calls or anything.
+
+First of all, I didn't even know private ambulances existed, and are distinct from public ambulances. So I guess I learned something there.
+
+This proposition is difficult for me to know what the right thing is. It seems reasonable enough, since it mentions that employees will be paid and get additional break time if their break gets interrupted. But the devil is in the details, maybe there are problems I haven't noticed, and it's hard for me to know what these employees really want.
+
+I feel that way about most of the propositions, actually. Most of them basically take the form "Have the California government spend X amount of money to support Y project." The project may sound good, but the implementation details matter, and it's hard for me to predict how things will really turn out. 
+
+As a result, I really don't know what to vote for most of these propositions. Even after reading the voter guide, I still feel kind of in the dark!
+
 # 24 September
 ## Better search
 The search functionality on this website has been changed. Why don't you try it out?
