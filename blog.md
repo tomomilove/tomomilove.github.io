@@ -4,6 +4,20 @@ title: Blog
 permalink: /blog/
 month: September
 ---
+# 27 September
+## Counseling appointment 2
+I went to my second counseling appointment today. I didn't write about the last one one the blog before because I figured I should let you know in person for that time.
+
+I'm not sure what to think of these appointments. They don't resolve my worries per se, but the counselor asks me questions that I should have been asking myself, which I think is helpful.
+
+I would write more about what we talked about the appointment, but I guess it's too sensitive for a blog post, so I'd rather tell you in person. If you're interested, ask me about it some time!
+
+# 26 September
+## Next story chapter
+It's a bit of a shorter one today. I guess I have been procrastinating on it a little bit, maybe because the writing is becoming difficult for me.
+
+Anyway, read the next chapter of the story [here](/story#１５章)!
+
 # 25 September
 ## California General Election Official Voter Information Guide
 Recently I received the California General Election Official Voter Information Guide in the mail, and today I decided to take a look through it:
