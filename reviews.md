@@ -9,7 +9,7 @@ Here I write reviews on movies, etc. that we've seen together!
 
 ## Napoletana Pizzeria
 
-(No picture this time... Next time I go, if I remember to get a picture, I'll retoractively add it to this review!)
+![Napoletana pizza](/images/reviews/napoletana_pizza.jpg)
 
 Napoletana Pizzeria is a local restaurant that serves [neapolitan style pizza](https://en.wikipedia.org/wiki/Neapolitan_pizza). Supposedly the original style of pizza, in order to make this pizza officially you need to follow very specific requirements. According to the Wikipedia article: "It must be made with San Marzano tomatoes, which grow on the volcanic plains to the south of Mount Vesuvius, and Mozzarella di Bufala Campana, a protected designation of origin cheese made with the milk from water buffalo raised in the marshlands of Campania and Lazio in a semi-wild state."
 

@@ -4,6 +4,34 @@ title: Blog
 permalink: /blog/
 month: September
 ---
+# 29 September
+## Surprise Tomomi
+You already know what happened today, but I thought I'd record it for memory's sake.
+
+That's right, you showed up without warning to come over! I think I mentioned that I dreamed about that happening the previous night, so you really made my dreams come true!
+
+One fun thing is that we were able to cook the Blue Apron meal I received today. It was beef over curry-spiced rice with cream cilantro sauce.
+
+![Curry-spiced rice](/images/blog_september/curry_spiced_rice.jpg)
+
+You liked the cilantro sauce quite a bit. I think it had cilantro, onions, garlic, oil, lime juice, and pepper in it. Then we mixed it with sour cream and more lime juice.
+
+# 28 September
+## Finished 428: Shibuya Scramble
+Earlier I mentioned I had been playing a game called 428: Shibuya Scramble. Today I finished it! So I'll provide some complete thoughts.
+
+As I mentioned before, the game is almost entirely just reading. But it's not boring; the story is quite thrilling and action packed.
+
+There's a lot to like about this game. In the earlier parts of the story, it is lighter-hearted, and the moments of humor land well. In the latter parts of the story, it becomes more serious, and emotional. In the final chapters, I was crying constantly. Even though there is no voice acting, the strength of the writing and some good music choice allow the emotional moments to really hit home.
+
+One interesting thing is that the story takes place over the course of a single day, and each chapter corresponds to a single hour. Scenes in the game are actually noted down to the minute they occur. The minute-by-minute approach really sells the idea of how deeply the actions of the characters are linked. How one character taking a few minutes longer to do something might affect another character in a totally different scenario, for example. Fundamentally, this is a story about the connections between people. In the end, every single character matters somehow, and does something important.
+
+The story takes place entirely in Shibuya, and I found it interesting how people in the story refer to it as a town, and as their home. I know that the districts of Tokyo actually are separate towns (or something like that, right?), but as a tourist you don't really get a sense of them as whole towns. Maybe you visit the central landmarks, the shopping districts, etc, but you don't really get to learn what the rest of the town is really like. One interesting thing I learned in the game is that there is actually a river in Shibuya called Shibuya River. Cool, right? I don't think I would have ever found it just as a tourist:
+
+![Shibuya river](https://upload.wikimedia.org/wikipedia/commons/c/c0/Shibuya_River_01.jpg)
+
+Oh by the way, if you're interested in the story, we could go through it together sometime. I think I would enjoy reading it again. Just throwing it out there as something fun we could do!
+
 # 27 September
 ## Counseling appointment 2
 I went to my second counseling appointment today. I didn't write about the last one one the blog before because I figured I should let you know in person for that time.
