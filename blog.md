@@ -4,6 +4,10 @@ title: Blog
 permalink: /blog/
 month: September
 ---
+# 30 September
+## Boss fight!
+Previously, Alice and company traveled all the way to the end of the ruins and encountered a big door. What lies beyond it? Read all about it in the latest story chapter [here](/story/#１６章)!
+
 # 29 September
 ## Surprise Tomomi
 You already know what happened today, but I thought I'd record it for memory's sake.
