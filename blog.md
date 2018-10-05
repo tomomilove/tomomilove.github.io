@@ -4,6 +4,22 @@ title: Blog
 permalink: /blog/
 month: October
 ---
+# 3 October
+## Food truck mania!
+So I discovered that a food trucks comes to Milk Pail every Wednesday. I wasn't able to make it the past two weeks, but I made sure to try it out this week!
+
+![Meating Spot](/images/blog_october/meating_spot.jpg)
+
+The first thing I noticed is that this food truck ("The Meating Spot") is not the one that was here the previous week. That one was a Mexican food truck. I was really looking forward to trying that one, but I decided to give this one a shot anyway.
+
+It was some kind of vaguely Asian themed food.
+
+![Meating spot food](/images/blog_october/meating_spot_food.jpg)
+
+To be honest, it wasn't very good! Overall, it was just very basic. Some rice, some kimchi, and some chicken with sauce over lettuce. And the rice was pretty hard and not tasty. It's too bad this one is no good. I hope the Mexican truck is back next week and that I'll get to try that one.
+
+I did realize one thing though: I sure am eating at a lot of food trucks lately! There is this one, and the other one by Target, and also I like to go to the food trucks at work for lunch! Maybe I should give it a rest!
+
 # 2 October
 ## Mega Man 11
 
