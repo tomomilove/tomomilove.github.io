@@ -4,6 +4,26 @@ title: Blog
 permalink: /blog/
 month: October
 ---
+# 4 October
+## Per's words
+I started reading _The Book of Japanese Tea_ by Per Oscar Brekell.
+
+The first thing I noticed is that the author has quite a curious first name. It is so short, I wasn't even sure it was a name at first. I'm actually still not sure. In Japanese, it just says his name is ブレクル・オスカル, so it omits the "Per" part. I'm not sure what that means, is Per like a title or something?
+
+Anyway, in the book, it mentions that Per was born in Sweden and moved to Japan in his college age to pursue his passion with tea. That's pretty intense if you ask me. I like tea well enough myself, but I'm not sure it would be a deciding reason for me to move to another country.
+
+What is it that he likes so much about tea, anyway? Here is his reason, in his own words:
+
+"In Japan, the saying _shichu no sankyo_ or _mountain dwelling in the city_ [...means that] even if located in a noisy urban environment, [tea] would would carry our thoughts away to a quiet and secluded life deep in the mountains, thereby creating a space where our minds can be liberated from the strains and struggles of everyday life."
+
+That doesn't sound too bad, actually. I am in pursuit of that kind of peace, myself.
+
+Some of Per's words can become a bit dramatic. Here's another line from him:
+
+"In countries other than Japan [...] there is a tendency to emphasize the health benefits rather than the taste and flavor of the tea. Of course, I too believe that drinking green tea promotes good health. However, rather than drinking Japanese tea to prolong one's life, I would like to think of it as something that makes our time on earth richer and more enjoyable."
+
+Despite the kind of dramatic writing style, I think I can agree with that as well.
+
 # 3 October
 ## Food truck mania!
 So I discovered that a food trucks comes to Milk Pail every Wednesday. I wasn't able to make it the past two weeks, but I made sure to try it out this week!
