@@ -4,6 +4,32 @@ title: Blog
 permalink: /blog/
 month: October
 ---
+# 5 October
+## Blue sky day
+I took the day off, so we decided to visit Berkeley!
+
+We decided to ride the Amtrak there. It was quite nice, actually! The Amtrak is alot more comfortable than Caltrain and BART. The one troublesome part is having to walk from the Amtrak station to downtown Berkeley. However, that's not so bad. If it were me, I'd go by Amtrak again next time!
+
+Our first stop was lunch at Angeline's.
+
+![Angeline's](/images/blog_october/angelines.jpg)
+
+I got the gumbo, and you got the fried chicken. It was a bit heavy for the first meal of the day, but at least for me, I thought it ended up a good choice. It sustained me well throughout the day!
+
+Next, you showed me a cool little library that could be found inside the main library. I never knew it was there! How did you find it? 
+
+Here's a cool tiger that I saw in that library:
+
+![Tiger picture](/images/blog_october/tiger_picture.jpg)
+
+Next, we went up to the hill behind Clark Kerr. There we saw an incredibly blue sky. I'm not sure why, but it seemed bluer to me than I have ever seen before. Maybe the air was particularly clear up there, or maybe I was just paying more attention than usual. Either way, I was impressed with its beauty, and I felt so happy that I could share the moment with you.
+
+![Tomomi and the blue sky](/images/blog_october/tomomi_and_the_blue_sky.jpg)
+
+After that, we took a trip to Asha, and picked up dinner at Suya for the train ride home.
+
+I can only speak for myself, but I had a wonderful day with you. Please take a piece of this day and put it in your perfect day bottle, for me.
+
 # 4 October
 ## Per's words
 I started reading _The Book of Japanese Tea_ by Per Oscar Brekell.
