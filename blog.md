@@ -4,6 +4,76 @@ title: Blog
 permalink: /blog/
 month: October
 ---
+# 6 October
+## West of San Antonio
+The other day it occurred to me that I had never followed California to the west across San Antonio before. An area super near my place that I had never been to in 3 years, so I decided to go check it out.
+
+Just one block in, I discovered a new park. Nice!
+
+![Park 1](/images/blog_october/park1.jpg)
+
+There were some cool frog statues at the park.
+
+![Frog statue](/images/blog_october/frog_statue.jpg)
+
+I also saw a sign for a bike/pedestrian bridge to Palo Alto.
+
+![Bike bridge sign](/images/blog_october/bike_bridge_sign.jpg)
+
+That sounded interesting, so I went to take a look. Unfortunately, to get to the bridge you have to go along those infamous sidewalk-less Los Altos roads. So not the most convenient bike/pedestrian bridge.
+
+Along the way to the bridge, I found another park.
+
+![Park 2](/images/blog_october/park2.jpg)
+
+This is not a complete photo of the park, because I didn't want to photograph the people there. But it had swings! These are probably the closest swings to where I live.
+
+Eventually, I found the bridge.
+
+![Bike bridge](/images/blog_october/bike_bridge.jpg)
+
+Honestly, I think it's quite pretty! There's a lot of greenery, and I like the wooden floor. Also, there's a little river next to it:
+
+![Bike bridge river](/images/blog_october/bike_bridge_river.jpg)
+
+Not too much water in it now, though.
+
+At the end of the bike bridge, I ended up in a neighborhood, I guess in Palo Alto now? There was a nice looking path, so I decided to follow it.
+
+![Palo Alto path](/images/blog_october/palo_alto_path.jpg)
+
+This led me to yet another park.
+
+![Park 3](/images/blog_october/park3.jpg)
+
+Continuing past the park, I found myself in the middle of another neighborhood. In the middle was a large circular area where they were growing plants. A community garden, I guess?
+
+![Community garden](/images/blog_october/community_garden.jpg)
+
+And beyond that... another park.
+
+![Park 4](/images/blog_october/park4.jpg)
+
+I continued on and found myself at El Camino Real.
+
+![El Camino Real](/images/blog_october/el_camino_real.jpg)
+
+_Hey I know where this is! I can get home easily now!_ I think to myself as I start walking... only to realize a block later that I am going the wrong direction. I realized I was near Tofu House though, and thought I might stop by for dinner, but when I got there it was super busy so I decided not to wait.
+
+On the way home I saw this horse:
+
+![Weird horse](/images/blog_october/weird_horse.jpg)
+
+I also got another view of the river from El Camino Real:
+
+![El Camino Real river](/images/blog_october/el_camino_real_river.jpg)
+
+Also, according to this sign, it's called "Adobe Creek". I hope that isn't named after the company.
+
+![Adobe creek](/images/blog_october/adobe_creek.jpg)
+
+And that concludes my exploration for the day! I found some pretty interesting stuff this time!
+
 # 5 October
 ## Blue sky day
 I took the day off, so we decided to visit Berkeley!
