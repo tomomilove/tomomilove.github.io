@@ -4,6 +4,10 @@ title: Blog
 permalink: /blog/
 month: October
 ---
+# 7 October
+## Celebration
+After a hard-fought battle against a fearsome flower monster deep within the ruins north of Maginia, Alice and company head back to town to rest and celebrate their victory. Read the latest chapters of the story [here](/story/#１７章)!
+
 # 6 October
 ## West of San Antonio
 The other day it occurred to me that I had never followed California to the west across San Antonio before. An area super near my place that I had never been to in 3 years, so I decided to go check it out.
