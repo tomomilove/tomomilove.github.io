@@ -4,6 +4,30 @@ title: Blog
 permalink: /blog/
 month: October
 ---
+# 8 October
+## Things learned from Per Oscar
+As I read further into _The Book of Japanese Tea_ by Per Oscar Brekell, I've decided to record some of the interesting things I've learned.
+
+1. The reason different teas should be steeped at different temperatures is because the chemical compounds that make up the various flavors of the tea dissolve more readily at different temperatures. For example, the compounds responsible for bitterness dissolve more at higher temperatures compared to the compounds responsible for sweetness. Therefore, green tea should be steeped at low temperature to avoid excessive bitterness.
+
+2. Even if tea should be steeped at low temperature, you should still heat the water to boiling, first. This can reduce the hardness of the water.
+
+3. Most tea plants are clones, propagated by cuttings rather than seed pollination. However, a rare few tea plantations still use seed pollination. As a result, the tea plants have small amounts of genetic variation among them, and when mixed together this leads to less clearly defined flavor. This type of tea is known as _zairai_ (在来種).
+
+4. Sencha, the most common green tea today, is not a traditional tea. It invented in 1738, and didn't become popular until after World War II.
+
+5. There may be several tea harvests per season. The first harvest generally tastes the best, and so is most exensive. Why is it the best? Apparently, because it absorbs most of the nutrients in the soil, leaving less for the later harvests. That seems weird to me -- you'd think by now they would have engineered a way to spread the nutrients out better. But apparently not.
+
+6. Tip for making the second steep of tea good: You should leave the lid of the teapot off between the first and second steep. This cools the teapot down. If the tea is sitting in a hot teapot with no water between the steeps, then it will become more bitter.
+
+7. Have you seen these teapots with wide and flat bottoms? They are for cold brewing, because you want a lot of tea and very little water, just enough to barely cover the tea. 
+
+    ![Flat bottom teapot](https://japaneseteasommelier.files.wordpress.com/2015/04/p1130425.jpg?w=400&h=267)
+
+8. Per Oscar recommends drinking cold tea from a wine glass, since a wine glass is designed for letting you experience the aroma at cold temperatures.
+
+Finally, some concluding words from Per Oscar, on why he decided to make this book bilingual: "In the sense that it deepens the understanding of other cultures and thereby lessens the friction between us, I believe that tea drinking may help us build a more peaceful world."
+
 # 7 October
 ## Celebration
 After a hard-fought battle against a fearsome flower monster deep within the ruins north of Maginia, Alice and company head back to town to rest and celebrate their victory. Read the latest chapters of the story [here](/story/#１７章)!
