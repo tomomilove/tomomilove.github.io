@@ -4,8 +4,23 @@ title: Blog
 permalink: /blog/
 month: October
 ---
+# 9 October
+## Thoughts on Pixel 3
+
+In the back of my mind I've been thinking I ought to get a new phone soon. My current phone is more than 3 years old, which is somewhat old by phone standards? Although to be honest, the only real wproblem with it is battery life. It doesn't even last all day -- I ran out of battery on our Berkeley trip last weekend, and I was barely using the phone other than to take a few photos.
+
+If I were to get a new phone, which one would it be? I was waiting to see the reveal of Google's Pixel 3, hoping it would be the phone for me. But they revealed it today and... it's $800 for the cheapest version. Wow that is way too expensive. There's no way I would pay $800 for slightly improved battery life. Just think of all the incredible stuff I could buy with $800 instead! Like I could have cake every weekend for a year. Or a solid supply of imperial grade matcha. Or fund a nice trip somewhere.
+
+![Pixel 3](https://cdn.mos.cms.futurecdn.net/5bvi4a2qPYyrN6iM4n9JmW-650-80.jpg)
+_Not my photo, from https://www.techradar.com/reviews/google-pixel-3_
+
+Also... the Pixel 3's battery life may not even be that good. You know it can't be too impressive when they don't advertise it. All they say is that it "Lasts all day" (whatever that means), that it has fast charging, and that it has a wireless charger. Better battery life is consistently one of the most requested improvements by the public, so when they kind of dance around it without explicitly mentioning it, you know it can't be anything special!
+
+I guess I'll keep watching and waiting for another phone. I don't need the fanciest camera or the strongest processor, which is what phones seem to focus on these days. I just want better battery life, and a not ridiculous price.
+
 # 8 October
 ## Things learned from Per Oscar
+
 As I read further into _The Book of Japanese Tea_ by Per Oscar Brekell, I've decided to record some of the interesting things I've learned.
 
 1. The reason different teas should be steeped at different temperatures is because the chemical compounds that make up the various flavors of the tea dissolve more readily at different temperatures. For example, the compounds responsible for bitterness dissolve more at higher temperatures compared to the compounds responsible for sweetness. Therefore, green tea should be steeped at low temperature to avoid excessive bitterness.
