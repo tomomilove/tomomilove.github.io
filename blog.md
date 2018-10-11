@@ -4,6 +4,15 @@ title: Blog
 permalink: /blog/
 month: October
 ---
+# 10 October
+## The boy and the dog
+Today I was walking home from dinner and I saw a funny scene. There was a baby boy, just old enough to walk, and his mother trying to get him to interact with a dog being walked by a person they had just randomly come across. However, the boy was too scared to approach the dog. So the mother started walking away. But then the boy ran back and was interested in the dog. And his mother tried to get him to pet it, and he almost did, but at the last moment he got scared and couldn't do it.
+
+To be honest I was surprised the boy was afraid of the dog. I didn't think babies got scared of things like that. Though I guess it was a pretty big dog. Only medium-sized really, but bigger than the baby boy.
+
+It made me wonder whether a fear of dogs begins young, and whether interaction with dogs at a young age would dispel that fear. I wonder about myself: if my mother had made me interact with dogs we came across when I was young, would I be as uncomfortable around dogs as I am today?
+
+
 # 9 October
 ## Thoughts on Pixel 3
 
