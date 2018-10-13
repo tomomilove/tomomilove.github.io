@@ -4,6 +4,45 @@ title: Blog
 permalink: /blog/
 month: October
 ---
+# 12 October
+## Halloween candy
+
+Today I came home to find that my parents had sent me some Halloween candy. Nice!
+
+![Halloween candy](/images/blog_october/halloween_candy.jpg)
+
+Here's a brief review of each one (from left to right, top to bottom):
+
+- _Cocunut curry cashews:_ This is such a bizarre candy -- I just don't quite know what to think of the curry flavor -- but for some reason I think I like it.
+
+- _Chocolate covered cherries:_ A surprise hit for me. I didn't think I would like this one so much, but it's up there as one of the best.
+
+- _Pumpkin pie almonds:_ This one is all right, but a little boring. I think I would have preferred just straight up chocolate covered almonds!
+
+- _White chocolate skull lollipop:_ I haven't tried this one yet!
+
+- _Sour berry blocks:_ This one is _so_ good. It's just pure sugar pretty much, but I don't know, I just really like it!
+
+# 11 October
+## County Voter Information Guide
+Recently I received the voting guide for my county, so I decided to take a look.
+
+![County voting guide](/images/blog_october/county_voting_guide.jpg)
+
+First and most important thing seems to be voting for Mountain View City Council. I read the candidate descriptions, but honestly could not tell what the difference between them at all. They all mentioned things like wanting to solve housing problems and transportation problems, but I have no idea what the specifics of their approaches are. Perhaps they don't even know themselves?
+
+One curious thing is that nearly all of them mentioned wanting to come up with (in the words of one of the candidates) "solutions for our vehicle dweller population". Apparently this is a hot topic in the city politics. I had no idea.
+
+Aside from council members, there are three measures to vote on.
+
+- _Measure A_ is to continue a sales tax that goes into the city general fund. This one is weird because it says nothing about what the money is used for. Just that it goes into the general fund. Is that typical? I guess so. Apparently it's up to the council members to decide what the money is for, so that's why it's important to choose them carefully.
+
+- _Measure P_ is to increase a business license tax and have it scale by business size. Apparently, all business currently pay $30. However, with this tax, for small businesses it would become $75 + $5 per employee. For large businesses it goes as high as $584,195 + $150 for each employee over 5,000. That's quite a hefty increase! Pretty much just creating a new tax. This money would also go into the general fund. 
+  
+    This one is hard to decide whether to vote for because honestly, I have no idea whether the given amounts are fair or not. I just don't know much about what kinds of costs it makes sense for business to pay.
+
+- _Measure Q_ is about imposing a tax on cannabis businesses, even though they are currently not allowed in the city. Okay then. (However, it does mention that they may be allowed in the future.)
+
 # 10 October
 ## The boy and the dog
 Today I was walking home from dinner and I saw a funny scene. There was a baby boy, just old enough to walk, and his mother trying to get him to interact with a dog being walked by a person they had just randomly come across. However, the boy was too scared to approach the dog. So the mother started walking away. But then the boy ran back and was interested in the dog. And his mother tried to get him to pet it, and he almost did, but at the last moment he got scared and couldn't do it.
