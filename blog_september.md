@@ -222,6 +222,8 @@ Here's a character profile on Alice, the character from _Kowagarijanai Chronicle
 
 **Age:** 21 years old.
 
+**Physical description:** Quite fit. Slightly below average height for a woman. Has medium length, deep brown hair. For casual wear, she has a rather straightforward, hardy style, often wearing boots and a collared shirt. While adventuring, she wears a light suit of red armor, and a cape the color of a sunny blue sky.
+
 **Personality:** Serious, competent, distrustful of others. Acts sarcastically towards people she doesn’t respect (due to their incompetence). Puts on a face of confidence, but internally is actually quite indecisive.
 
 **Biography:** She is a small-time hero of her home city.

@@ -4,6 +4,53 @@ title: Blog
 permalink: /blog/
 month: October
 ---
+# 15 October
+## Residency review
+
+Do you remember how when I first started working, I was in an educational "residency" program? Well, these days, I help support that program. I am assigned a group of people in this program to review their project.
+
+Today, I had to review their project design doc. In a design doc, they are supposed to explain what problem they are trying to solve and what they are going to build. I had to look over their doc and give suggestions for improvements, or ask them to expand upon things that were unclear.
+
+Overall, this group's doc I reviewed today was a little sketchy. They definitely have the basic idea down, but like most groups, they skimp on the details, such as testing. Tomorrow, I have to meet with them in person to talk it over.
+
+# 14 October
+## Character profile: John
+
+Here's a character profile on John, the character from _Kowagarijanai Chronicles_.
+
+**Full name**: John Reginald Brown
+
+**Age**: 20 years old.
+
+**Physical description**: Somewhat tall and lanky. Has natural red hair that flips up in the front. For casual wear, you will often find him wearing slacks and a turtleneck sweater. While adventuring, he usually wears his doctor's lab coat (oddly enough, since you would rarely catch him wearing it during his school days).
+
+**Personality**: Goofball and joker. Pretends to be dumb, but is actually quite intelligent. Very lazy, and so he rarely accomplishes much. Likes to play devil's advocate and talk details and technicalities.
+
+**Biography**: Prior to becoming an adenturer, he was a medical student at a moderately good medical school.
+
+When he was 9 years old, he and his family moved to a foreign country with a completely different language. They moved for business connections -- his family is quite wealthy, and his father is always chasing new business opportunities. John, in order to cover his shortcomings at the new language, pretended to be generally dumb, a characterization that has stuck ever since. Even his own parents joke that the only reason he got into med school is that he happened to guess correctly on the multiple choice questions in the entrance exam.
+
+**Motiviation for becoming an adventurer**: No particular reason, other than wanting to run away from school. Perhaps in his mind there is something exciting and romantic about the idea of being an adventurer. However, he has never seriously put his life in danger before, so he does not know what he is getting into.
+
+**Things he likes**: Sleeping and eating.
+
+**Things he worries about**: He worries about other people thinking he is trying too hard or caring too much. 
+
+**People he is close to**: His group of friends at school.
+
+**People he is not close to**: His older brother, James. James is 7 years older than John, and works as a researcher at the world's most prestigious medical university. John and James have never been close, perhaps in part due to their age difference, and perhaps in part due to their personality difference, as James is extremely serious and hardworking.
+
+**Fighting style**: A medic, John's primary role is to heal his allies when they take damage, and cure them of any illness that befalls them. He stays in the backlines of a fight, trying to keep himself out of danger. If both he and his allies get hurt at the same time, he prioritizes healing himself first before others, a habit that annoys Alice. However, this is actually a smart strategy, because if he were to be knocked out, no one else could revive him, and thus there would be no one left to heal the rest of the party.
+
+# 13 October
+## Star party!
+
+Today we went to go look at the stars along with a couple of your friends.
+
+They asked me if I am an astronomy buff. I wouldn't say that -- not as much as them, surely -- but I've always appreciated the stars.  In my youth, I read some books on astronomy, and I took a mini astrononmy course where we would go up to a building roof at night and look through telescopes and such. Although the science can be interesting, more than anything I just find the stars to be beautiful. I have always liked the idea of wishing on falling stars, as well.
+
+We saw a number of cool things today. Saturn, Uranus, a planetary nebula, a globular cluster, and of course, the moon. By the way, did you notice that one of the people we talked to referred to these as "bright items"? I guess that is an umbrella term for referring to anything in the night sky, from planets, to stars, to nebula.
+
 # 12 October
 ## Halloween candy
 
