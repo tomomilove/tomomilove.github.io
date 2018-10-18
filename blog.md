@@ -15,7 +15,7 @@ How about this park right in the middle of the campus?
 
 I never see anyone here. I think if you look at the park, you can see why. There are all these benches and trees, but most of the benches aren't under the trees, and instead are randomly out in the open in the sun. That's not very inviting. Then, it might be nice if you could sit under the trees, but the ground around them is not comfortable for sitting. The rest of the ground being gravel isn't very inviting either.
 
-I wish they had put some more thought into this area so it would be a nice place to hang out! As it is, though, at least it's a nice place to sit if I don't want to be bothered by anyone.
+I wish they had put some more thought into this area so it would be a nice place to hang out! As it is, though, at least it's a place to sit if I don't want to be bothered by anyone.
 
 # 15 October
 ## Residency review
