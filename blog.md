@@ -4,6 +4,28 @@ title: Blog
 permalink: /blog/
 month: October
 ---
+# 17 October
+## Flower identification
+
+I am always interested to know about the kinds of flowers I see. Today I saw these that were pretty nice:
+
+![Penstemon 1](/images/blog_october/penstemon1.jpg)
+![Penstemon 2](/images/blog_october/penstemon2.jpg)
+
+I wanted to know what they were, then I remembered there is a feature on my phone that can attempt to identify plants based on photos. So I tried it with a few photos. It had a few suggestions, but mostly seems to identify them as beardtoungues, or [_penstemon_](https://en.wikipedia.org/wiki/Penstemon).
+
+Looking at other pictures of _penstemon_, it looks like these flowers could be that, though I'm not entirely sure. However, Wikipedia notes that _penstemon_ is "a large genus of roughly 250 species", so it's hard to know for sure.
+
+Here are some other pictures of _penstemon_ from around the net. What do you think, is this the right one?
+
+![Close-up penstemon](https://cdn.webvanta.com/000000/51/74/slider_detail/uploads/plant/1454697321-4252c077288ab5fc9/Penstemon%20Rich%20Ruby%20Secret%20Garden%20Growers.jpg)
+
+![Mid penstemon](https://www.connonnurseries.com/_ccLib/image/plants/DETA-4632.jpg)
+
+![Penstemon field](https://cdn-us-ec.yottaa.net/56dee4822bb0ac27b5000832/www.highcountrygardens.com/v~4b.14a/media/catalog/product/cache/3/image/500x/cdd56dd0d7347dc27aa421c918b212c4/p/e/penstemon_virens_75795-3_1.jpg?yocs=z_&yoloc=us)
+
+According to Wikipedia, they are called _penstemon_ due to their 5 ("penta") stamen. I can't tell whether that's the case in my own pictures, maybe I can go back and check that!
+
 # 16 October
 ## Unpopular park
 
