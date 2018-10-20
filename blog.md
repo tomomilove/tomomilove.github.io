@@ -4,8 +4,18 @@ title: Blog
 permalink: /blog/
 month: October
 ---
+# 19 October
+## WaniKani
+
+Yesterday I was complaining about not learning kanji very well, so today I went looking for some options. One thing I saw recommended online was a site called WaniKani. I tried it out for a bit, and it's kind of like Duolingo. However, it specifically focuses on teaching kanji and vocabulary. One thing I didn't like about Duolingo was how it shied away from exposing you to kanji. Maybe there is more kanji later along in Duolingo, but it was taking a while to get there.
+
+These various education apps usually each have their own teaching gimmick, and WaniKani is no exception. Something is does differently is how it gives you repeated tests, and forcibly spreads them apart. After completing a section, you're actually not allowed to do anything else for a while (up to several hours), and then you come back and repeat it. They claim this helps memory retention.
+
+I think I'll stick with WaniKani for a while and see how it goes. After the first few sections (which I think they said takes around 1 month), you have to pay to continue, and it's not super cheap. However, if it can teach me ~2000 kanji (as it claims), I think the price is worth it.
+
 # 18 October
 ## Filling out the ジョー書
+
 I spent a long time today adding words to my Japanese dictionary.
 
 It's quite a laborious process. As I play through 世界樹の迷宮X, I look up the words I come across on my phone, but I don't add them to my dictionary immediately. That would be too slow, and would break up the gameplay so much that it wouldn't be fun. Instead, I merely add the word to a note on my phone. Then, at some later point in time, I go over all those words again and write them in my dictionary. I take the time to look up the radicals and check the stroke order, hoping this will help me learn them, so this part takes a long time.
