@@ -4,6 +4,16 @@ title: Blog
 permalink: /blog/
 month: October
 ---
+# 18 October
+## Filling out the ジョー書
+I spent a long time today adding words to my Japanese dictionary.
+
+It's quite a laborious process. As I play through 世界樹の迷宮X, I look up the words I come across on my phone, but I don't add them to my dictionary immediately. That would be too slow, and would break up the gameplay so much that it wouldn't be fun. Instead, I merely add the word to a note on my phone. Then, at some later point in time, I go over all those words again and write them in my dictionary. I take the time to look up the radicals and check the stroke order, hoping this will help me learn them, so this part takes a long time.
+
+I'm not sure if this is a very effective way to learn. There are so many words, and not a lot of repetition, and as a result many words I look up just go in one side of my brain and out the other. I'm definitely learning some things, especially the words that are repeatedly used. But I don't think I'm learning as well as if I were to take a dedicated course of study.
+
+I've repeatedly considered getting myself a textbook, but I know it wouldn't be as fun as playing a game, so I wonder if I could motivate myself to get through it. Perhaps I could do both, but I'm not sure if I have enough free time for that. Still, it's worth considering.
+
 # 17 October
 ## Flower identification
 
