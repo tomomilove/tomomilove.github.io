@@ -4,6 +4,21 @@ title: Blog
 permalink: /blog/
 month: October
 ---
+# 21 October
+## Mnemonics
+
+I progressed further in WaniKani today. It has kind of a strange way to get you to memorize kanji meanings and readings, and that is with _mnemonics_. Specifically, it writes little stories and strange scenarios for you to imagine in order to help you remember the meanings and readings.
+
+For example, consider the kanji 下. The first thing you learn is that it is composed of two radicals. One, the horizontal line, they call the "ground" radical. The other, they call the "toe" radical, because it looks like the katakana character ト. 
+
+They say the meaning of this kanji is "below", and in order to help you remember that, they ask you to imagine a situation in which you got your toe cut off, and you lost it underground, and you have to dig for it frantically so you can find it in time for them to be able to reattach it.
+
+Next, one of the readings of this kanji is か. To help you remember this, they say that imagine while you are digging for the toe, you accidentally hit something hard and metallic. You dig further, only to find a car (which sounds like か)! And then you find your toe inside the car.
+
+There are a bunch of silly stories like that. I guess they have written one about every single kanji and radical? I was laughing at some of these stories, so I had to leave the room to avoid distracting you.
+
+I wonder if these kinds of mnemonic devices really work. Native Japanese speakers probably don't use mnemonic devices, right? The meanings and readings must just flow naturally to them, right? In that case, I think of the mnemonic devices as training wheels. Necessary for me to get going, but perhaps one day I can move beyond them and no longer find them necessary.
+
 # 20 October
 ## The story continues
 After reaching the end of the northern ruins, Alice decides to meet with Princess Persephone at Maginia's Exploration Headquarters. According to the bar owner, Persephone is interested in adventurers, and is managing an exploration of the area around Maginia. Read the latest chapter of the story [here](/story#２０章).
