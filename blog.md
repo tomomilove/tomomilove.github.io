@@ -4,6 +4,10 @@ title: Blog
 permalink: /blog/
 month: October
 ---
+# 20 October
+## The story continues
+After reaching the end of the northern ruins, Alice decides to meet with Princess Persephone at Maginia's Exploration Headquarters. According to the bar owner, Persephone is interested in adventurers, and is managing an exploration of the area around Maginia. Read the latest chapter of the story [here](/story#２０章).
+
 # 19 October
 ## WaniKani
 
