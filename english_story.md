@@ -482,7 +482,7 @@ John: Hey, I’m really interesting! Let’s talk about your personal life, huh 
 
 Alice: Nothing interesting! Let’s talk about something else!
 
-# Chapter 19
+## Chapter 19
 ## Talking with Kuwashil
 
 Kuwashil: You guys, you’re adventurers, right?
