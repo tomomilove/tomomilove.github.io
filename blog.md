@@ -4,6 +4,13 @@ title: Blog
 permalink: /blog/
 month: October
 ---
+# 22 October
+## The story so far... in English!
+
+Due to popular demand, I've decided to post an English version of Kowagarijanai Chronicles. You can see it [here](/english_story). Never say I don't listen to user feedback!
+
+In the future, every time I post a Japanese chapter, I'll post the English alongside it. However, I work very hard on the Japanese version, so please read that one first!
+
 # 21 October
 ## Mnemonics
 
