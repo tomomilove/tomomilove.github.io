@@ -4,6 +4,17 @@ title: Blog
 permalink: /blog/
 month: October
 ---
+# 24 October
+## macOS Mojave
+
+So for a while my computer has been telling me to upgrade my operating system to the next version, Mojave, and I wasn't bothering to do it. But then I decided to look up the new features, and I saw that it finally introduced the feature I've been waiting for: dark theme! Then I did the upgrade right away.
+
+![Dark theme](/images/blog_october/dark_theme.png)
+
+As you can see from the picture, the windows get dark borders, some of the apps get dark backgrounds, and the tooltips get dark backgrounds as well.
+
+I really like dark themes, and I want all computer applications to have them! I feel like they are easier on my eyes, but I'm not actually sure if that's true or if there is any science behind that. Regardless, I think they just look nice, and that's enough reason for me!
+
 # 23 October
 ## Flu shot
 
