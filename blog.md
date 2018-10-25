@@ -4,6 +4,19 @@ title: Blog
 permalink: /blog/
 month: October
 ---
+# 23 October
+## Flu shot
+
+I got my flu shot today, a yearly ritual that I never miss. I'm not sure how much there is to say about it other than the fact that it hurt a lot more than I expected! 
+
+So without much else to say, I searched the internet for anything interesting about it, and I found [this NPR article](https://www.npr.org/sections/health-shots/2018/10/01/652140517/think-you-dont-need-a-flu-shot-here-are-5-reasons-to-change-your-mind) with some things I didn't know.
+
+1. Last year had the most deaths from flu in more than 40 years. That's a little surprising! Though I guess it's an absolute number, so it is partially explained by rising population.
+
+2. Only 47% of Americans were vaccinated last year, and college students are especially low. That's crazy to me. Colleges should really provide flu shots for their students, as it would benefit the whole community. I guess they don't have the money for it, though...?
+
+3. Apparently, a survey found that almost 60% of students think the flu vaccine can cause the flu. Where do people get these ideas?
+
 # 22 October
 ## The story so far... in English!
 
