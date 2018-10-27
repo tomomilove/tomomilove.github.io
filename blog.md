@@ -4,6 +4,22 @@ title: Blog
 permalink: /blog/
 month: October
 ---
+# 26 October
+## Castlevania
+
+Today I played through a video game called Castlevania: Rondo of Blood. It's a very old game (originally released in 1993), and it's a part of the long-running Castlevania series. In the series, you play the role of a vampire hunter, traveling through a spooky castle in order to defeat the evil Dracula.
+
+![Castlevania 1](/images/blog_october/castlevania1.jpg)
+![Castlevania 2](/images/blog_october/castlevania2.jpg)
+![Castlevania 3](/images/blog_october/castlevania3.jpg)
+![Castlevania 4](/images/blog_october/castlevania4.jpg)
+
+The Castlevania series has a bit of an interesting history. Originally, the games were in the genre _platformer_. You travel forward through the stages, running, jumping, and fighting enemies until you reach the end. The games are short (you can beat them in a few hours), but also extremely difficult. A lot of old games were like that. The stages are so difficult that you end up have to redo them over and over again each time you fail, which effectively increases the length of the game. A lot of people don't like that kind of game design anymore, but I actually do. As you keep repeating a stage, you get a little further each time, and you can feel yourself getting better at it.
+
+Castlevania: Rondo of Blood was one of the last games in the Castlevania series that was in the platformer genre. The next game in the series, Castlevania: Symphony of the Night, went in a completely different direction. In this game, instead of trying to get through a series of levels, you're instead given a whole castle to explore. You can go up, down, left, or right. The goal isn't to get to the end per se, but rather to find items and discover secrets that allow you to travel to new locations in the castle.
+
+Symphony of the Night was such a pivotal game that nearly all future games in the Castlevania series followed its structure. Not only that, this genre of game was named after it. This kind of exploration-based game genre is called _Metroidvania_, named both after the Castlevania series as well as the Metroid series, which has a similar structure.
+
 # 25 October
 ## All Hands
 
