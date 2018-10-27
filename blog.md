@@ -4,6 +4,15 @@ title: Blog
 permalink: /blog/
 month: October
 ---
+# 25 October
+## All Hands
+
+Today I went to an "All Hands" meeting at my work. This is a meeting they invite employees to where they give a presentation explaining what is being worked on, what the current stats are, whether goals have been achieved, etc. Usually high level people are there so employees can ask them questions, as well. All Hands meetings can happen at various levels. There is a company wide one, as well as ones for individual groups and teams.
+
+In the old days they used to bring nice food to the All Hands to get people to come, but they don't do that anymore.
+
+To be honest, I don't find the All Hands meetings to be very interesting. Sometimes there is good information, but sometimes there is a lot of PR speak and it just feels like marketing towards the employees, trying to make them good about the company. I understand why they do it though: in a company so big, anything they say could be leaked, so they have to make sure that whatever they say would also sound good to the public.
+
 # 24 October
 ## macOS Mojave
 
