@@ -4,6 +4,46 @@ title: Blog
 permalink: /blog/
 month: October
 ---
+# 28 October
+## Farmer's market trip
+
+So I went to the farmer's market downtown in order to look for apple cider. I didn't find any, so instead I bought some ginger beer and chocolate that I found. Please try them with me!
+
+They had a pumpkin weight guessing contest there.
+
+![Pumpkin contest](/images/blog_october/pumpkin_contest.jpg)
+
+What would you guess? I guessed 57.3 lbs. I hope I'm right!
+
+While I was downtown, I walked past the East-West Bookstore and noticed that they had a huge rock display there. Actually it was super impressive! I remember before you talked about seeing a rock show in Los Altos and being disappointed. Would you have liked this one? It might be around for a while, so you should go take a look!
+
+![Rocks 1](/images/blog_october/rocks1.jpg)
+![Rocks 2](/images/blog_october/rocks2.jpg)
+![Rocks 3](/images/blog_october/rocks3.jpg)
+![Rocks 4](/images/blog_october/rocks4.jpg)
+![Rocks 5](/images/blog_october/rocks5.jpg)
+![Rocks 6](/images/blog_october/rocks6.jpg)
+I overheard someone at the store saying this one (above) looks like the ocean in a boat. Cool, huh?
+
+![Rocks 7](/images/blog_october/rocks7.jpg)
+![Rocks 8](/images/blog_october/rocks8.jpg)
+![Rocks 9](/images/blog_october/rocks9.jpg)
+
+# 27 October
+## Defective double
+
+I liked my starry shirt so much that I decided to order another one. Today it arrived, and here it is in all its glory!
+
+![Defective shirt](/images/blog_october/defective_shirt.jpg)
+
+...Well, what do you think? Actually, there seems to a problem with it! Can you see it?
+
+That's right, the last button is missing.
+
+I'm not sure if I should return it or not! The last button isn't strictly necessary -- in fact, on their website they show people wearing it without the last button buttoned, since that is supposed to be stylish.
+
+What do you think? Would you return it?
+
 # 26 October
 ## Castlevania
 
