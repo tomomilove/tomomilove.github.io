@@ -4,10 +4,17 @@ title: Blog
 permalink: /blog/
 month: October
 ---
+# 30 October
+## Performance review
+
+I had my performance review at work today, and it didn't go great, as usual.  I was told that I "meet expectations", but this is actually not a very good rating. It's a weird kind of doublespeak -- you are actually expected receive at least the next rating up, which is "exceeds expectations" (and there are further ratings beyond that).
+
+I was told that I should work on more complicated and difficult things. I think my biggest problem is not knowing what to do. Most days I go into work not really sure what I should work on, struggling to find something to fill my time. I wish I could just be told what to work on, but that's not how things work here.
+
 # 29 October
 ## Trying tomatoes
 
-So my latest Blue Apron meal came with tomatoes, and I decided today is the day I am going to try to eat them. I decided I will do my best to like them, and to try to appreciate their flavor.
+So my latest Blue Apron meal came with tomatoes, and I decided today is the day I am going to try to eat them! I decided I will do my best to like them, and to try to appreciate their flavor.
 
 ![Tomatoes](/images/blog_october/tomatoes.jpg)
 
