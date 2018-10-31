@@ -4,6 +4,17 @@ title: Blog
 permalink: /blog/
 month: October
 ---
+# 29 October
+## Trying tomatoes
+
+So my latest Blue Apron meal came with tomatoes, and I decided today is the day I am going to try to eat them. I decided I will do my best to like them, and to try to appreciate their flavor.
+
+![Tomatoes](/images/blog_october/tomatoes.jpg)
+
+Also, this recipe called for mixing them with vinegar, oil, salt, pepper, and chile peppers. I figured if there's anything that could make them taste okay, it would be that, right?
+
+So I had them, and... they were all right, I guess. Actually, I barely tasted them underneath all the other flavors of the dish. And on certain bites where I tasted a lot of them, it wasn't great. But I made it through the meal without too much discomfort, so I guess that's a victory.
+
 # 28 October
 ## Farmer's market trip
 
