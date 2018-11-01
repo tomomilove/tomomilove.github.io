@@ -4,6 +4,19 @@ title: Blog
 permalink: /blog/
 month: October
 ---
+# 31 October
+## Halloween Day
+
+Today is Halloween! There were quite a lot of people dressed up at work today, more than I remember before. I saw a bear, a penguin, a sushi, a Canadian flag, Scooby Doo, whole groups of Harry Potter wizards, Gandalf, and a bunch of stuff I didn't realize, like one person who was completely white from skin to hair to outfit, and someone else who looked like a mushroom maybe?
+
+Here's a costume from one of my teammates: an inflatable dinosaur! The costume actually has a battery powered device in it that fills it with air to keep it inflated.
+
+![Dinosaur costume](/images/blog_october/dinosaur_costume.jpg)
+
+My parents are also celebrating. They sent me this photo showing off their pumpkin, pumkin seeds, and candy to hand out.
+
+![Parent's Halloween](/images/blog_october/parents_halloween.jpg)
+
 # 30 October
 ## Performance review
 
