@@ -12,7 +12,7 @@ You were interested in some of the kanji and vocabular mnemonics in learn, so I'
 
 六. Reading: ろく. Meaning: 6. This is made up of the radicals they call lid and fins. They say to imagine a monster with fins for its legs and a fan for its head running around, crazy, tearing everything up. Also, the location it is running around is hell, and everything is burning. Suddenly, it runs up to you, then lowers its head to show you its pan. On the pan, you can see the numbers written: 666, the sign of the devil! (That’s how you remember six). Then it gets out a guitar and starts playing some rock and roll, because rock and roll is associated with the devil. That’s how you remember ろく, you think of rock.
 
-出す. Reading だす. Meaning: To take out. This is the exit kanji with す on the end. Imagine Sue (す)in a box, and you have to take her out. Also your dad (だ) is in the box too. What are you doing in the box, Dad?
+出す. Reading だす. Meaning: To take out. This is the exit kanji with す on the end. Imagine Sue (す) in a box, and you have to take her out. Also your dad (だ) is in the box too. What are you doing in the box, Dad?
 
 出る. Reading でる. Meaning: To exit. This is the exit kanji with る on the end. る  as in room, imagine you need to exit a room, and fast. Why? Because there is a dead person (で) in this room! You feel you need to exit out of there fast… because you’re scared? (Or because you murdered them??)
 
