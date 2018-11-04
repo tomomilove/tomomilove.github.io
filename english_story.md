@@ -554,3 +554,10 @@ Persephone: By the way, what was the name of your guild, again?
 Alice: Kowagarijanai!
 
 Persephone: Kowagarijanai… okay. I won’t forget it. Be careful out there.
+
+## Chapter 21
+## The Verdant Forest
+
+Continuing our adventure, we arrive in a magnificent sea of trees. They call this place the Verdant Forest, so thick with trees, shrubs, and all manners of plant life that it is like a labyrinth. Despite the density of the vegetation, light manages to shine through all the way to the forest floor, giving the whole area a bright, glowing appearance.
+
+We traverse the forest labyrinth’s twisting paths, making sure to keep our map up-to-date. Along the way, we encounter several small monsters we need to fight, such as Violent Baboons, Mandrakes, and Ghost Owls. However, they do not give us much trouble.

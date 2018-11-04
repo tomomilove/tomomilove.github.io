@@ -4,8 +4,11 @@ title: Blog
 permalink: /blog/
 month: November
 ---
+# 2 November
+## Next story chapter
+The next story chapter is available [here](/story#２１章)! Also there is an [English version](/english_story#chapter-21)!
 
-# November 1
+# 1 November
 ## Neat mnemonics
 
 You were interested in some of the kanji and vocabular mnemonics in learn, so I've tried to recall some interesting ones for you. These are all from memory, so let's see if these mnemonics work!
