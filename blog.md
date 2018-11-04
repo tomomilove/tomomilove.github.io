@@ -4,9 +4,26 @@ title: Blog
 permalink: /blog/
 month: November
 ---
+# 3 November
+## Party at Mamacitas
+
+I went to Mamacitas Tacos today and discovered they have a snazzy new truck. Completely with some pretty fancy light rimming!
+
+![Mamacitas 1](/images/blog_november/mamacitas1.jpg)
+![Mamacitas 2](/images/blog_november/mamacitas2.jpg)
+
+They seem to be pretty proud of their orange sauce as well:
+
+![Mamacitas 3](/images/blog_november/mamacitas3.jpg)
+
+I don't blame them, it's pretty good!
+
+I think today they were having some kind of celebration for the new truck, because this time they had free horchata, pineapple, watermelon, and cake for everyone to eat. I guess they must be doing pretty well!
+
 # 2 November
 ## Next story chapter
-The next story chapter is available [here](/story#２１章)! Also there is an [English version](/english_story#chapter-21)!
+
+Alice and co. continue their adventure in the next story chapter is available [here](/story#２１章)! Also there is an [English version](/english_story#chapter-21)!
 
 # 1 November
 ## Neat mnemonics
