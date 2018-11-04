@@ -4,6 +4,22 @@ title: Blog
 permalink: /blog/
 month: November
 ---
+# 4 November (bonus)
+## Another story chapter!
+
+Wow, two blog posts in one day? I'm adding another chapter of the story, since the chapter posted on 2 November was pretty short. As always, there's a [Japanese version](/story#２２章) and an [English version](/english_story#chapter-22).
+
+# 4 November
+## Beautiful Fall day
+
+Many leaves have fallen from the trees around here, covering the ground. They don't bother to clean them up, but I like it this way. It's fun to stomp around in the leaves!
+
+![Fall leaves 1](/images/blog_november/fall_leaves1.jpg)
+![Fall leaves 2](/images/blog_november/fall_leaves2.jpg)
+![Fall leaves 3](/images/blog_november/fall_leaves3.jpg)
+
+It was sunny, but the air was cool. There are plenty of reasons why Fall is my favorite season!
+
 # 3 November
 ## Party at Mamacitas
 

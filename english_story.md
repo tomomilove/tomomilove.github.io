@@ -561,3 +561,40 @@ Persephone: Kowagarijanai… okay. I won’t forget it. Be careful out there.
 Continuing our adventure, we arrive in a magnificent sea of trees. They call this place the Verdant Forest, so thick with trees, shrubs, and all manners of plant life that it is like a labyrinth. Despite the density of the vegetation, light manages to shine through all the way to the forest floor, giving the whole area a bright, glowing appearance.
 
 We traverse the forest labyrinth’s twisting paths, making sure to keep our map up-to-date. Along the way, we encounter several small monsters we need to fight, such as Violent Baboons, Mandrakes, and Ghost Owls. However, they do not give us much trouble.
+
+## Chapter 22
+## Mysterious fruit
+
+We reach a dead end of a path through the forest. Here, I see a tree with a large, red fruit. I remember Princess Persephone told us to document the plants we come across, so…
+
+Alice: Hey everyone, look, there is an interesting fruit.
+
+Without any more prompting, Lee climbs the tree, grabs the fruit, and tosses it down to me.
+
+Alice: Nice one, Lee!
+
+The fruit is emitting a nice, sweet smell.
+
+Tanaka: Looks tasty, and I’m hungry! Can we eat it, Alice?
+
+Alice: Hmm… I’m not sure… Is it safe?
+
+I’m not exactly a botanist, and I don’t know anything about what kinds of fruits are safe to eat.
+
+John: This fruit is called Ruby Grapple… I think. I learned about it in botany class.
+
+Alice: Oh, you did? Is it edible?
+
+John: I don’t remember. Must have slept through that part of class, haha.
+
+Alice: ...You never fail to disappoint me, John.
+
+Lee: I have a strong stomach. I’ll try it.
+
+Lee takes a bite.
+
+Lee: It’s really good actually! My body feels energized. Everyone, let’s share it!
+
+Tanaka: Woohoo!
+
+Alice: Awesome! Thanks, Lee!
