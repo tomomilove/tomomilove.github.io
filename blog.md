@@ -4,6 +4,26 @@ title: Blog
 permalink: /blog/
 month: November
 ---
+# 6 November
+## Voting
+
+![Voting](/images/blog_november/voting.jpg)
+
+I voted today.
+
+Voting is pretty hard. I did my best to look up information on some of the different candidates, such as those running for city council, however all candidates consistently just write incredibly vague, samey phrases so I can't get a good understanding of them. Aside from that I have to vote on a lot of taxes and things, but there's never any specifics on what it will be used for or how much the money matters, so again, it's hard.
+
+# 5 November
+## Dreams. Wonder. Discovery. Possibilities.
+
+Today I received some checks in the mail. I ordered them because I thought I would use them to pay my roommates for things like internet and electricity bills. However, after I ordered them, I was informed that it is possible to do that online. Oh well.
+
+Anyway, the space themed checks I got were almost cool, but perhaps tried a little bit too hard to be inspiring? Here were some of the other options, though:
+
+![Checks](/images/blog_november/checks.png)
+
+What would you have chosen? Jeweled Elegance? Or perhaps you are a true Bee-liever?
+
 # 4 November (bonus)
 ## Another story chapter!
 
