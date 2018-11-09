@@ -4,6 +4,24 @@ title: Blog
 permalink: /blog/
 month: November
 ---
+# 8 November
+## Recommendation from a friend
+
+Today I had lunch with my friend at work. It has been many months since I last saw her. I wonder why I wait so long between the times I see my friends?
+
+She told me tomorrow she is leaving on a trip to Korea and Japan. So I had to give her my #1 recommendation for what to do in Japan: buy the milk tea from the vending machines!
+
+She also told me that sometimes she swims in the pool at work. I haven't tried it yet, but I should go one day. Then she gave me her recommendation for swimming: She said you should go swimming while it's raining, and then while underwater, look upwards and see the raindrops falling onto the water's surface above you. That sounds really interesting to me! I want to try it! I'm trying to imagine what it looks like, but I can't picture it.
+
+# 7 November
+## Lucky cat
+
+They say black cats crossing your path is bad luck, but not this one! This cat from my neighborhood always runs over to me when I walk by. It is very friendly! So I think that must be a good thing.
+
+![Black cat](/images/blog_november/black_cat.jpg)
+
+I tried to get a picture, but it was difficult. I think the cat became bored because I was trying to get a picture of it, instead of spending time petting it.
+
 # 6 November
 ## Voting
 
