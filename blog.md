@@ -4,6 +4,17 @@ title: Blog
 permalink: /blog/
 month: November
 ---
+# 10 November
+## Celebrating the cold weather
+
+Today was the first day I was cold all day! I had to sleep with socks, wear my down jacket in my room, and so on. When I went to get dinner, my body was warm thanks to my jacket, but my face was cold. I haven't felt that feeling for a long time!
+
+I can't say I really love the cold, but I will do my best to appreciate that it's hear. And I do that by getting hot chocolate at Esther's!
+
+![Hot chocolate](/images/blog_november/hot_chocolate.jpg)
+
+This is one of my favorite hot chocolates that I've had. It's really creamy, light, and fluffy! I wish I knew how to make it this way.
+
 # 9 November
 ## Icon Theatre
 
