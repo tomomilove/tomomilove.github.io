@@ -4,6 +4,22 @@ title: Blog
 permalink: /blog/
 month: November
 ---
+# 9 November
+## Icon Theatre
+
+So it turns out that the new theatre near where I live has been open for a while (even though the other buildings aren't finished). I went inside to check it out. Here's the entryway with a big hanging light:
+
+![Icon theatre 1](/images/blog_november/icon_theatre1.jpg)
+
+They also have some random photos on the wall? I'm not sure if there is a theme:
+
+![Icon theatre 2](/images/blog_november/icon_theatre2.jpg)
+![Icon theatre 3](/images/blog_november/icon_theatre3.jpg)
+
+Further in, there is a place to buy tickets, which looks like a normal theatre. I didn't take any photos though, because there were security guards standing around and I didn't want to look suspicious.
+
+I want to go see a movie at this theatre with you! However, there aren't currently any movies I want to see... But next time there is, I really want to see one with you!
+
 # 8 November
 ## Recommendation from a friend
 
