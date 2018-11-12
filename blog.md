@@ -4,6 +4,11 @@ title: Blog
 permalink: /blog/
 month: November
 ---
+# 11 November
+## Getting to know Lee
+
+The next chapter of the story is available! [Japanese](/story#２３章) version and [English](/english_story#chapter-23) version.
+
 # 10 November
 ## Celebrating the cold weather
 

@@ -598,3 +598,51 @@ Lee: It’s really good actually! My body feels energized. Everyone, let’s sha
 Tanaka: Woohoo!
 
 Alice: Awesome! Thanks, Lee!
+
+## Chapter 23
+## Campfire chat with Lee
+We spend the whole day traveling through the sea of trees. It’s getting dark, but we are far from Maginia and don’t want to head back. We decide to camp for the night.
+
+We set up a campfire and sit around it. We do our best to cook dinner using ingredients we collected during the day: fruits and vegetables we found, as well as meat from monsters. Both John and Lee are surprisingly adept at cooking. Me, not so much.
+
+Over dinner, we get to talking.
+
+Tanaka: Hey, Lee!! Question!!
+
+Lee: Yes?
+
+Tanaka: You told us you were a traveler, and you have been on many adventures, right? Please tell us about your adventures.
+
+Lee: Of course! Hmm, where to start…?
+
+Tanaka: How about you tell us why you are wearing a pirate outfit, Lee? I mean, it’s a cool look and all, but is there a story behind it?
+
+Lee: Oh, that. A short while ago, I was sailing with some ghost pirates. While we were sailing across the ocean, I saw the World Tree in the distance, and decided I had to check it out. That’s how I came to Maginia.
+
+Alice: Uh… what? Ghost pirates?
+
+Lee: Yeah. They’re more friendly than you might think, actually!
+
+Alice: Is that so…?
+
+Tanaka: Cool! How did you meet the ghost pirates?
+
+Lee: Oh, that. Well, I was stranded on a deserted island, and I couldn’t figure out how to leave. Then, I found a portal to the spirit realm. I made friends with some ghosts there, and they were able to send a ghost ship to pick me up and get me off the island.
+
+Tanaka: Wow…! What was it like being stranded on a deserted island...? 
+
+Lee: It was interesting learning how to survive on basically nothing.
+
+Alice: And how did you end up stranded on a deserted island?
+
+Lee: Oh that. I was flying on a dragon over the ocean, but then we got attacked by an imperial airship that was chasing the dragon. I fell into the ocean, and washed ashore on the island.
+
+Alice: You made friends with a dragon?! What?!
+
+Lee: Oh, that. I was trying to steal its treasure, but then it caught me red-handed. However, I explained the the reason I wanted to steal the treasure was so that I could get money to buy medicine for someone else. It appreciated my honesty, so we became friends.
+
+Tanaka: Wow, so many adventures!
+
+Alice: Lee is so cool, huh?
+
+John: Wow, you’re crazy, man.
