@@ -20,7 +20,7 @@ Today you called me, and we talked through your homework together. You had to pr
 
 This made me really happy. It had been a week since I had seen you, and I was feeling lonely, so getting to talk with you was really nice! I'm not sure if I was helpful, but I hope it was a nice time for you too.
 
-Also, it reminded me from my days as a lecturer. I used to practice my lectures every week by giving them to a friend. That was a 1.5 hour commitment from that friend every week... pretty intense. I think that sort of thing is helpful though!
+Also, it reminded me from my days as a lecturer. I used to practice my lectures every week by giving them to a friend. That was a 1.5 hour commitment from that friend every week... pretty intense. I think I gave my friend tea and snacks as thanks.
 
 # 11 November
 ## Getting to know Lee
