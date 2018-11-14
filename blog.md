@@ -4,6 +4,24 @@ title: Blog
 permalink: /blog/
 month: November
 ---
+# 13 November
+## Sick day
+
+Today I stayed home from work out of sickness.
+
+In the morning I wasn't quite sure if it was the right choice. "Maybe my sickness isn't so bad," I thought. But I think it turned out to be the right choice. All things considered, it has been a pretty mild sickness, but I was sneezing and coughing pretty much all day, and I don't think other people at work would have wanted to be around that.
+
+Will it be gone tomorrow? Stay tuned to find out...
+
+# 12 November
+## Helping Tomomi on her homework
+
+Today you called me, and we talked through your homework together. You had to prepare a discussion topic for class, and wanted to talk about it.
+
+This made me really happy. It had been a week since I had seen you, and I was feeling lonely, so getting to talk with you was really nice! I'm not sure if I was helpful, but I hope it was a nice time for you too.
+
+Also, it reminded me from my days as a lecturer. I used to practice my lectures every week by giving them to a friend. That was a 1.5 hour commitment from that friend every week... pretty intense. I think that sort of thing is helpful though!
+
 # 11 November
 ## Getting to know Lee
 
