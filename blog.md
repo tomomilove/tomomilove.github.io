@@ -7,7 +7,7 @@ month: November
 # 15 November
 ## HealthEquity phishing advice
 
-I received an email from my health savings account provider recommending I log into my account and check up things. Surprisingly, there was no link in the email to log into my account. Then I realized I guess they don't want to appear like phishing. Pretty smart!
+I received an email from my health savings account provider recommending I log into my account and check up on things. Surprisingly, there was no link in the email to log into my account. Then I realized I guess they don't want to appear like phishing. Pretty smart!
 
 In fact, when I visited the website to check on my account, I saw they have [a page](https://healthequity.com/protect) specifically dedicated to anti-phishing advice.
 
