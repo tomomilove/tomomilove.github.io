@@ -4,6 +4,38 @@ title: Blog
 permalink: /blog/
 month: November
 ---
+# 15 November
+## HealthEquity phishing advice
+
+I received an email from my health savings account provider recommending I log into my account and check up things. Surprisingly, there was no link in the email to log into my account. Then I realized I guess they don't want to appear like phishing. Pretty smart!
+
+In fact, when I visited the website to check on my account, I saw they have [a page](https://healthequity.com/protect) specifically dedicated to anti-phishing advice.
+
+![HealthEquity Phishing](/images/blog_november/healthequity_phishing.png)
+
+Most of their advice is solid, but there are some I have issues with:
+
+"
+Don't save passwords in your browser: While saving passwords is very convenient, it makes it much easier for an attacker to access your account if your computer is compromised.
+"
+
+I don't know about that. Letting your browser handle your passwords is good if lets you use more unique passwords across websites (since you don't have to remember them yourself). Password reuse is probably a far bigger danger than your physical computer getting compromised.
+
+"
+Look for secure site indicators in any link: [...such as the 's' in 'https' or the green locked keypad icon]
+"
+
+This is not very good advice either. All legtimiate login sites will use https, that's true. But plenty (most?) fake sites use https as well.
+
+# 14 November
+## Survey survey survey
+
+I feel as if I get a lot of surveys in my email these days. Today I took my (annual!) Computing Research Association survey. I'm not sure how I first received this survey, but apparently at the time I agreed to have it sent to me every year. I think I'm now on the third year.
+
+They ask questions like: How did you get into a computing job? Do you feel like you belong in the computing community? Have you been promoted yet? And so on.
+
+I said that I haven't been promoted yet, and also I don't feel like I belong. Thinking about it now, I wonder if there is a connection there? 
+
 # 13 November
 ## Sick day
 
