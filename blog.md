@@ -4,6 +4,30 @@ title: Blog
 permalink: /blog/
 month: November
 ---
+# 17 November
+## Smoky days
+
+Wildfires have caused the past few days to be quite smoky. It's a shame, I want to be outside and walk around!
+
+I read a [New York Times article](https://www.nytimes.com/2018/11/17/health/air-quality.html) about the air pollution. Here's what I learned from it.
+
+- "A surgical mask, scarf, or bandanna will not filter out many pollutants at all." I guess my tenugui wouldn't do anything!
+
+- The actual masks you should use are called "respirator" masks. They are available in different ratings based on the percentage of air particles they block.
+
+- These masks may actually block so much air it makes it hard to get enough oxygen, potentially raising your heart rate and causing problems for certain people. So they are not for everyone!
+
+# 16 November
+## Ramen salad
+
+Today at Shalala I tried ramen salad!
+
+![Ramen salad](/images/blog_november/ramen_salad.jpg)
+
+Oh no, the only picture I took of it was blurry...!
+
+I have to say, it wasn't bad. The citrus sauce gave it a cool and refreshing flavor. Sometimes ramen broth can be too heavy for me, but this was just right!
+
 # 15 November
 ## HealthEquity phishing advice
 
