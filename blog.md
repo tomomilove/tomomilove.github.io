@@ -4,6 +4,15 @@ title: Blog
 permalink: /blog/
 month: November
 ---
+# 19 November
+## Sort By Controversial
+
+Someone at work linked [this short story](http://slatestarcodex.com/2018/10/30/sort-by-controversial/) called _Sort By Controversial_. I spent some of my work time reading it, whoops!
+
+If you have some free time, consider reading it! Or at least speed-reading it.
+
+My own personal review is that I didn't like the story very much. It is a bit too cynical and dramatic for me. However I did find one insight from the story interesting, which is the idea that sometimes the most controversial statements are the ones that seem most obvious. I don't know if that's true of all controversial statements, but maybe for some of them.
+
 # 18 November
 ## Downtown trip
 
