@@ -4,6 +4,27 @@ title: Blog
 permalink: /blog/
 month: November
 ---
+# 18 November
+## Downtown trip
+
+Today I went downtown to search for something for the white elephant gift exchange at work.
+
+In the end I got this glass teapot. I don't know if people at work will find it exciting, but it's the best thing that I found.
+
+![Glass teapot](/images/blog_november/glass_teapot.jpg)
+
+While downtown I decided to try a restaurant I hadn't been to before: Hong Kong Bistro. I always wanted to try this place because Hong Kong style cafes usually give you free milk tea. And yeah, this one didn't disappoint!
+
+![Hong Kong milk tea](/images/blog_november/hong_kong_milk_tea.jpg)
+
+Surprisingly, the tea was totally unsweetened. They gave you a jar of sugar to add as much as you wanted. It was quite good!
+
+Oh, and the food?
+
+![Hong Kong Bistro](/images/blog_november/hong_kong_bistro.jpg)
+
+It wasn't bad! Though the sauce on the meat was a little sweet, and combined with the milk tea there was just overall a bit too much sweetness.
+
 # 17 November
 ## Smoky days
 
