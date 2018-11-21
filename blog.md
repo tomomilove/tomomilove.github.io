@@ -4,6 +4,44 @@ title: Blog
 permalink: /blog/
 month: November
 ---
+# 21 November
+## First rainy day... ever!
+
+It finally rained today! I think this is the first day it has rained since the blog started.
+
+Since it rained, of course I have to go outside and walk around. I love seeing the world during or after rain. It's just so beautiful!
+
+![Rainy day 1](/images/blog_november/rainy_day1.jpg)
+
+I like the way plants look with water on them.
+
+![Rainy day 2](/images/blog_november/rainy_day2.jpg)
+
+Even the street becomes a thing of beauty.
+
+![Rainy day 3](/images/blog_november/rainy_day3.jpg)
+
+Neighborhood shot! I like how the rain causes leaves and petals to fall, scattering them across the street.
+
+![Rainy day 4](/images/blog_november/rainy_day4.jpg)
+
+Hey wait a minute! Leak in the apartment complex~
+
+# 20 November
+## Vote by mail application
+
+My roommate recommended I vote by mail. Not a bad idea! I think it will be helpful to be able to sit at home and look up information as you fill out the ballot.
+
+I wanted to do it this past election, but by the time I thought of it, it was too late. So I'll do it from here on out.
+
+You can register to become a permanent mail voter, and they'll automatically send you the ballot. Useful!
+
+To register, you just print out this piece of paper, fill it out, and send it in...
+
+![Vote by mail](/images/blog_november/vote_by_mail.jpg)
+
+It looks a little sketch, doesn't it? There's no kind of verification or anything.
+
 # 19 November
 ## Sort By Controversial
 
