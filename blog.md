@@ -4,7 +4,8 @@ title: Blog
 permalink: /blog/
 month: November
 ---
-# Crazy Rich Asians REVIEW
+# 23 November
+## Crazy Rich Asians REVIEW
 
 Head on over to [reviews](/reviews) to check out my review of this movie.
 
