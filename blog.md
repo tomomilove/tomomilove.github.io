@@ -4,6 +4,26 @@ title: Blog
 permalink: /blog/
 month: November
 ---
+# Crazy Rich Asians REVIEW
+
+Head on over to [reviews](/reviews) to check out my review of this movie.
+
+By the way, I skimmed the [Wikipedia article](https://en.wikipedia.org/wiki/Crazy_Rich_Asians_(film)) on this film and learned two interesting facts:
+
+- The film was a very large commerical success, becoming "the highest-grossing romantic comedy of the last 10 years, and the 6th-highest-grossing ever" (Though I have to wonder, does this movie really qualify as a "romantic comedy"? I'm no expert on the genre, but I felt the movie was more serious than comedic). 
+- There is already a sequel in development.
+
+# 22 November
+## Thanksgiving Day
+
+Happy Thanksgiving! Every day I am thankful for you to be with me. You are my dearest companion, and I love you so much.
+
+Today we visited my parents house and ate with them and my sister.
+
+![Thanksgiving](/images/blog_november/thanksgiving.jpg)
+
+Pretty yummy meal! I thought the turkey was cooked quite well this time.
+
 # 21 November
 ## First rainy day... ever!
 

@@ -7,6 +7,22 @@ permalink: /reviews/
 
 Here I write reviews on movies, etc. that we've seen together!
 
+## Crazy Rich Asians
+
+Beware this review contains spoilers for the film!
+
+![Crazy Rich Asians](https://upload.wikimedia.org/wikipedia/en/b/ba/Crazy_Rich_Asians_poster.png)
+
+_Crazy Rich Asians_ is a movie that tells the story of Rachel Chu and the events surrounding her engagement to Nick Young.
+
+While watching the film, it feels very complete and satisfying. However, thinking about it in hindsight, I was surprised about how much the film _doesn't_ show. We never really learn what Nick wants to do with his career, for example (Does he want to take over the family business? If he stayed behind in New York, what would he do instead?) We also never really learn Rachel's thoughts on Singapore or its people (Would she be happy living there assuming people generally accept her? Was that option ever on the table or does she feel like she has to live in America?). And we never get a scene that really explicitly shows why Rachel and Nick love each other; instead, their relationship is kind of taken for granted (Also we don't see the scene where Rachel rejects Nick's first proposal, which should be an important moment for them, right?). Also, we never get to meet Nick's father or learn his perspective on things (Unless he is gone for some reason that I missed?).
+
+This missing information, however, is actually a strength of the film. We never learn much about Nick or his relationship with Rachel because we don't need to. The film isn't really about him or their relationship. It's actually more about Rachel and her conflict with Nick's mother Eleanor. By focusing very specifically on this conflict and discarding other details, the film keeps up a tight, brisk pacing while still managing to feel complete.
+
+Focusing on Rachel's conflict with Eleanor turns out to be a good choice, because it's quite a compelling conflict. One reason I think it works well is that Rachel and Eleanor are very similar in some ways, but very different in others. You really want them to be able to see eye to eye, despite the difficulties.
+
+Anyway, this review is getting long, so I'll wrap it up. It's a great film with a very compelling, emotional narrative. I cried at several points during the film, which is always a good sign. I rate it 5/5!
+
 ## Napoletana Pizzeria
 
 ![Napoletana pizza](/images/reviews/napoletana_pizza.jpg)
