@@ -4,6 +4,22 @@ title: Blog
 permalink: /blog/
 month: November
 ---
+# 25 November
+## Fall colors
+
+During our Davis trip, I was really impressed by how beautiful the fall colors we saw were!
+
+![Fall leaves 1](/images/blog_november/fall_colors1.jpg)
+![Fall leaves 2](/images/blog_november/fall_colors2.jpg)
+![Fall leaves 3](/images/blog_november/fall_colors3.jpg)
+![Fall leaves 4](/images/blog_november/fall_leaves4.jpg)
+
+However today, while I was downtown Mountain View, I was also impressed by the colors! Mountain View doesn't have quite as many trees as Davis, but it's still quite nice!
+
+![Fall leaves 5](/images/blog_november/fall_leaves5.jpg)
+![Fall leaves 6](/images/blog_november/fall_leaves6.jpg)
+![Fall leaves 7](/images/blog_november/fall_leaves7.jpg)
+
 # 24 November
 ## de Vere's
 
