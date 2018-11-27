@@ -4,6 +4,17 @@ title: Blog
 permalink: /blog/
 month: November
 ---
+# 24 November
+## de Vere's
+
+On our last day in Davis for the weekend, we went to de Vere's Irish Pub for brunch.
+
+![de Vere's 1](/images/blog_november/deveres1.jpg)
+![de Vere's 2](/images/blog_november/deveres2.jpg)
+![de Vere's 3](/images/blog_november/deveres3.jpg)
+
+I don't know if I've ever been to a pub before, but this one was great! The rich wood and stained glass decor felt really cozy, and the food was delicious. The food was big and filling enough, but not too much to handle -- perfect for brunch before a long train trip!
+
 # 23 November
 ## Crazy Rich Asians REVIEW
 
