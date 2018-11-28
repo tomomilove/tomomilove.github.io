@@ -4,6 +4,27 @@ title: Blog
 permalink: /blog/
 month: November
 ---
+# 27 November
+## It's the holiday season, and you know what that means...
+
+...snow animals return!
+
+![Snow animals 1](/images/blog_november/snow_animals1.jpg)
+![Snow animals 2](/images/blog_november/snow_animals2.jpg)
+![Snow animals 3](/images/blog_november/snow_animals3.jpg)
+![Snow animals 4](/images/blog_november/snow_animals4.jpg)
+
+These are the only one's I've found so far. I'll let you know if I see more!
+
+# 26 November
+## Intern search
+
+My intern project got approved, so now I have to go through the process of matching to an intern. I look at all the accepted interns along with their skills and preferences, then select three to talk with. If none of those work out, then I repeat the process.
+
+I'm not sure the best way to choose an intern. I can read their personal blurb and see if their interests match my project. But I also feel drawn into reading into their personality... like do they seem down to earth and friendly? Or do they use a lot of PR speak and buzz words?
+
+I wonder if it's right to care about stuff like that. The thing is, I don't need to evaluate their technical ability, because they have already passed interviews. I feel like any intern has the potential to do a good job. So what else is there to select for?
+
 # 25 November
 ## Fall colors
 
