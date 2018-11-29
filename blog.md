@@ -4,6 +4,51 @@ title: Blog
 permalink: /blog/
 month: November
 ---
+# 28 November
+## New building tour
+
+We were invited to a preview of the new buildings we're moving to next month.
+
+Here is a statue on the campus grounds. It's titled "Flow". Weren't you studying this earlier? Did you imagine it looked like this?
+
+![Flow](/images/blog_november/flow.jpg)
+
+Here's a cusion from a seat in a cafe (I've rotated the picture sideways).
+
+![Why cushion](/images/blog_november/why_cushion.jpg)
+
+That was the back cushion. Here's the bottom one.
+
+![Here cushion](/images/blog_november/here_cushion.jpg)
+
+I don't understand these cushions. What do they mean? What was the artist thinking about when they created them?
+
+One of the cafes has a very long banquet table.
+
+![Banquet table](/images/blog_november/banquet_table.jpg)
+
+Also some art on the wall of a spray can spraying out trees.
+
+![Tree can](/images/blog_november/tree_can.jpg)
+
+They said there will be boba every day from 2 - 3 pm. Pearls, too.
+
+![Boba dispenser](/images/blog_november/boba_dispenser.jpg)
+
+This has the potential to be very good! But also the potential to not be good. Here's hoping!
+
+Moving out of the cafe and into the office floors, it seems some of the walls have recesses with chairs.
+
+![Wall chair](/images/blog_november/wall_chair.jpg)
+
+Would you like to sit in the wall and gaze out over the mountains?
+
+There is also this room called the "library".
+
+![Quaint library](/images/blog_november/quaint_library.jpg)
+
+Rather quaint, isn't it? There aren't any books yet, but maybe you can bring your own and store them here?
+
 # 27 November
 ## It's the holiday season, and you know what that means...
 
