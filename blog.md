@@ -4,6 +4,29 @@ title: Blog
 permalink: /blog/
 month: November
 ---
+# 29 November
+## Christmas tree decoration!
+
+Today is an extra special day! Time to decorate the Christmas tree!
+
+_With colored lights!_
+![Christmas tree 1](/images/blog_november/christmas_tree1.jpg)
+
+_With white lights!_ I like how only some of them twinkle.
+![Christmas tree 2](/images/blog_november/christmas_tree2.jpg)
+
+_With bells!_
+![Christmas tree 3](/images/blog_november/christmas_tree3.jpg)
+
+_With ornaments!_
+![Christmas tree 4](/images/blog_november/christmas_tree4.jpg)
+
+_Putting on the star..._
+![Christmas tree 5](/images/blog_november/christmas_tree5.jpg)
+
+_All done!_
+![Christmas tree 6](/images/blog_november/christmas_tree6.jpg)
+
 # 28 November
 ## New building tour
 
