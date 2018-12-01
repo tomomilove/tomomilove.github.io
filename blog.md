@@ -4,6 +4,23 @@ title: Blog
 permalink: /blog/
 month: November
 ---
+# 30 November
+## Surprise jacket! ...Surprise jacket again!
+
+Today I received a surprise jacket from my work.
+
+![Surprise jacket 1](/images/blog_november/surprise_jacket1.jpg)
+
+It's meant to be a holiday gift. The company-wide holiday gift is dead, but this is from my specific department.
+
+I don't really like wearing jackets with company logos on them. Actually, earlier they asked each of us if we wanted to receive a jacket, and if so what our size was. I said I didn't want a jacket, but they got one for me anyway. That's why today it came as a surprise. Maybe I will give it to my dad.
+
+More shocking, however, is that this isn't the only surprise jacket I received today.
+
+![Surprise jacket 2](/images/blog_november/surprise_jacket2.jpg)
+
+This is from my roommate. He ordered it for himself, wore it out a few times, but then decided it didn't fit him well, and couldn't return it. So he offered to give it to me. I feel like it's a bit big for me, too, but it fits me better than him, so I might as well keep it.
+
 # 29 November
 ## Christmas tree decoration!
 
