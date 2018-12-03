@@ -4,6 +4,17 @@ title: Blog
 permalink: /blog/
 month: December
 ---
+# 2 December
+## Tofugu podcast
+
+I learned that Tofugu, the company that makes WaniKani, has a podcast (and a blog). They are in English, and they cover Japanese language or culture topics.
+
+I decided to check it out today, and listened to two podcast episodes. One was about transitive / intransitive verbs. The other was about name enders, like -san, -chan, etc.
+
+In the first episode, I learned that Japanese usually has different words for the transitive and intransitive versions of an action (for example, 入れる and 入る). English, similarly, sometimes has different words for the transitive and intransitive versions of action (for example, "to insert" and "to enter"). However, English oftentimes does not have a separate word for intranstive actions, and instead just uses passive voice (for example, "to open" and "to be opened"). Curious!
+
+In the second episode, they talked about different scenarios when you would use different name enders. It's useful to hear this additional context that you wouldn't learn from just studying vocab.
+
 # 1 December
 ## Holiday party 2018
 
