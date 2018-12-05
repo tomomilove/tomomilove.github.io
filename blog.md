@@ -15,6 +15,8 @@ What could be written on the back?
 
 The coloring of this card is meant to look like Kibi is sitting inside a cafe. There are two large windows looking out into a sunset. The bright colors of the outside are meant to contrast with the cool, muted colors of the interior. Can you see it?
 
+By the way, in order to celebrate our relationship anniversary, I wanted to go a certain place with you! It will only take an hour or two, so please go with me this weekend (or another weekend soon)?
+
 # 4 December
 ## Adventures in the labyrinth continue
 
