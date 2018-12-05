@@ -646,3 +646,46 @@ Tanaka: Wow, so many adventures!
 Alice: Lee is so cool, huh?
 
 John: Wow, you’re crazy, man.
+
+## Chapter 24
+## Oliver and Marco
+
+The next day, we continue our traversal through the forest. Eventually, we come to a wide clearing. We see two men standing there, looking lost. One of the men is wearing a suit of armor and carrying a sword and shield. The other is dressed like a mage. They seem to be adventurers.
+
+Alice: Greetings. I’m Alice Smith, and this is Kowagarijanai guild. We’re adventurers from Maginia.
+
+The man with armor with armor speaks. 
+
+Oliver: Howdy! We’re adventurers from Maginia too. My name’s Oliver, and this here’s my partner, Marco!
+
+Marco: Nice to meet you.
+
+Oliver: Say kid, you’re pretty young. What made you want to become an adventurer? Fame? Thrills? As for me, I’m in it for money. Gotta feed the family somehow, you know?
+
+Marco: And I’m in it for knowledge. There are so many unknown plants and creatures out there to learn.
+
+Alice: I’m trying to save the world.
+
+Oliver: Gahaha that’s a new one! But hey, I like your style, kid. Here, take this ore. Marco and I collected a bunch of ore while exploring. It’s useful for marking weapons and armor, you know!
+
+Oliver gives me some ore.
+
+Alice: Wow, thank you! That’s so kind.
+
+Oliver: It’s nothing!
+
+Marco: It’s prudent for adventurers to watch each other’s backs in this dangerous world. We’re all in this together.
+
+Alice: That’s right, isn’t it? Here, I’ll help you too. Take a look at this map of the forest we’ve been making.
+
+Oliver: Woahhhh a map! That would be really useful! This place certainly is a labyrinth, isn’t it?
+
+Alice: Why not make a copy?
+
+Marco copies the map dutifully.
+
+Marco: Why didn’t I think of making a map? Anyway, thank you very much!
+
+Alice: Happy to help! Hope to see you guys again around!
+
+And with that, we part ways.

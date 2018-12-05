@@ -4,6 +4,32 @@ title: Blog
 permalink: /blog/
 month: December
 ---
+# 5 December
+## Postcard from the heart #2: Cozy cafe
+
+It's our third year relationship anniversary! So I made you this card.
+
+![Postcard #2](/images/blog_december/postcard2.jpg)
+
+What could be written on the back?
+
+The coloring of this card is meant to look like Kibi is sitting inside a cafe. There are two large windows looking out into a sunset. The bright colors of the outside are meant to contrast with the cool, muted colors of the interior. Can you see it?
+
+# 4 December
+## Adventures in the labyrinth continue
+
+It's been a while since we last heard from Alice and co. I tend to post story entries when not much else interesting happened that day. But these last few weeks have had a lot of events. I guess that's the nature of the holiday season!
+
+Anyway, last time, Alice and friends spent the night camping in the forest after a day of exploring. The latest chapter is [here](/story#２４章), English version [here](/english_story#chapter-24).
+
+
+# 3 December
+## Intern calls
+
+I had to call a few intern candidates to see if they are a good fit for my project. The intern candidates may be nervous about doing these calls, but actually, I am probably more nervous than them!
+
+A couple of the calls were difficult, and I wasn't sure what to say some of the time or how to get the intern candidate interested in the project. However, there was one candidate that seemed to instantly understand what was interesting about the project. That candidate seemed really excited about it, so I hope it works out with that one.
+
 # 2 December
 ## Tofugu podcast
 
