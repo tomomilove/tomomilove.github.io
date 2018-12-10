@@ -4,6 +4,24 @@ title: Blog
 permalink: /blog/
 month: December
 ---
+# 7 December
+## White elephant gift exchange
+
+Today at work we had our white elephant gift exchange. I received a double-walled thermos. Not the most exciting gift, but I never had a chance to trade it for anything else. Maybe it's karma for me talking up double-walled cups so much!
+
+That said, I'm not sure if there was a gift I would have preferred instead. At the exchange, the other gifts included a huge nerf gun, a dinosaur-shaped cookie jar, M&Ms with stuff related to our work printed on them, a couple of board games, a stuffed toy, and a figurine. What would you have picked?
+
+Come to think of it, the gift I brought was a little boring too. Next year, I'll try my best to think of something crazy to bring...!
+
+# 6 December
+## So what is eggnog anyway?
+
+So they have eggnog in the kitchens at work now. I don't remember ever trying eggnog before, so I decided I had to give it a go!
+
+It tasted like... thickened milk, mixed with candy canes (?) or maybe cough syrup (?). But also somehow pretty good??
+
+Anyway, having no idea what eggnog actually is, I decided to look it up. According to [Wikipedia](https://en.wikipedia.org/wiki/Eggnog), it's basically just sweetened milk mixed with raw egg and some kind of alcohol, and maybe some flavorings. I guess the version I tried didn't have alcohol, though. Fun fact: according to Wikipedia, eggnog used to be known as "milk punch"!
+
 # 5 December
 ## Postcard from the heart #2: Cozy cafe
 
