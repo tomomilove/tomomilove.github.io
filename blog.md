@@ -4,6 +4,20 @@ title: Blog
 permalink: /blog/
 month: December
 ---
+# 8 December
+## Maison Alyzée
+
+Today we tried the new French bakery at downtown!
+
+![Maison Alyzee 1](/images/blog_december/maison_alyzee1.jpg)
+![Maison Alyzee 2](/images/blog_december/maison_alyzee2.jpg)
+
+We had a bit of a wait to get our dish, but in the end, I really liked it!
+
+The chocolate tart you got was, as you said, a little too similar to eating a chocolate bar. Not bad, but maybe it could have used something light and fluffy, or something cakey, in order to differentiate it?
+
+The _signature delice pecan_ I got, though, was fantastic. I loved how soft the filling was. But the flavors were the standout. And I'm not talking about the pecan and maple flavors, although those were good. I'm talking about the incredible vanilla flavor. Vanilla has a reputation for being boring, but here (and in macarons I have tried) it is really quite fantastic. Perhaps vanilla is a forgotten art?
+
 # 7 December
 ## White elephant gift exchange
 
