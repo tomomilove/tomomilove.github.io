@@ -4,6 +4,14 @@ title: Blog
 permalink: /blog/
 month: December
 ---
+# 10 December
+## Cold days, late buses
+
+I'm not sure why, but the buses to and from work have become consistently late recently. Unfortunately, this has coincided with colder temperatures. Maybe the roads are more crowded because people don't want to bike to work when it's cold?
+
+Anyway, the unfortunate result is that recently I have been cold while waiting for the bus. And I'm even wearing my down jacket. What to do? I could bring an extra jacket, but it's more to carry around during the day. Still, I may end up doing just that.
+
+Meanwhile, inside the office is too warm for my down jacket. So I will need a third, lighter jacket to wear while inside??
 
 # 9 December
 ## Super Smash Bros. Ultimate
