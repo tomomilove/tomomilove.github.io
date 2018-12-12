@@ -4,6 +4,24 @@ title: Blog
 permalink: /blog/
 month: December
 ---
+
+# 9 December
+## Super Smash Bros. Ultimate
+
+The latest game in the Super Smash Bros. series just released! We played together over the past couple of days and it was a lot of fun! Today I played more by myself.
+
+This one is called "Ultimate" because it brings back every character from every past game, and most of the stages, too! Plus some new stuff.
+
+So there are quite a lot of characters in this game. How many do you recognize?
+
+![Smash Ultimate characters](/images/blog_december/smash_ultimate_characters.jpg)
+
+By the way, I discovered that Isabelle dances like I do! 
+
+![Isabelle](https://media1.tenor.com/images/b9c7edfaf961edf8cc765d9d09cb4c93/tenor.gif)
+
+You go, Isabelle!
+
 # 8 December
 ## Maison Alyzée
 
