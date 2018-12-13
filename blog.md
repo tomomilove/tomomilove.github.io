@@ -4,6 +4,30 @@ title: Blog
 permalink: /blog/
 month: December
 ---
+# 12 December
+## Team lead is leaving
+
+Today at work I received the news that my team lead is leaving. Specifically, the team lead of phishing, which is my focus area.
+
+I'm not even surprised by people leaving anymore. It just feels like an inevitability.
+
+Still, this is a little concerning for the phishing team, as we no longer have a leader. With the team lead gone, I'm actually the engineer in phishing who has been here the longest. However, I'm still the lowest level of employee, and definitely not capable of being a team lead. I can't see any of the other engineers being in a position to step up, either.
+
+What's going to happen to us? Will we become completely directionless?
+
+# 11 December
+## The search for perfect hot chocolate continues
+
+Are you aware that I am on an eternal quest to find good hot chocolate? Of course, Dandelion's is good, but that's not easily available to me.
+
+Today at work they held an event called "Cocoa and community day". They had vendors from the community come to sell holiday gifts. Also my work provided some hot chocolate and desserts. So I had to go check it out, for the hot chocolate.
+
+The hot chocolate wasn't anything special. It was quite thin. Essentially like chocolate milk but warmed up.
+
+They also had these cookies though, which tasted quite nice!
+
+![Work cookies](/images/blog_december/work_cookies.jpg)
+
 # 10 December
 ## Cold days, late buses
 
