@@ -4,6 +4,31 @@ title: Blog
 permalink: /blog/
 month: December
 ---
+# 13 December
+## Gift shopping
+
+Today I went downtown to get some gifts. The big tree by city hall was lit up today!
+
+![City hall tree](/images/blog_december/city_hall_tree.jpg)
+
+Note the best photo... you had to be there!
+
+I ended up buying a necklace for my mom at the art pop-up. Unfortunately, I don't have a photo, because they wrapped it already.
+
+I wanted to get something for your mom, too! I got her this plant in a cup.
+
+![Cup plant](/images/blog_december/cup_plant.jpg)
+
+Also, I bought some chocolate to send to our friends in Sacramento. Would you like to add something as well, or should I just send it as is?
+
+![Alexander's chocolate](/images/blog_december/alexanders_chocolate.jpg)
+
+For my sister, I ordered something online. I bought _Undertale_ for Switch for her. Hopefully she hasn't already played it.
+
+I still don't have anything for my dad though. What to do...?
+
+...Also, I don't have a present for you, yet! This is the trickiest one!
+
 # 12 December
 ## Team lead is leaving
 
