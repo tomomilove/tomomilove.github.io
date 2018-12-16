@@ -4,6 +4,19 @@ title: Blog
 permalink: /blog/
 month: December
 ---
+# 15 December
+## Ito En stuffing out the competition?
+
+Today I happened to be at Mitsuwa, so naturally I went to look for canned milk tea. To my surprise, they didn't have the usual Royal Milk Tea from Sangaria! Instead, it was replaced by this one from Ito En:
+
+![Ito En milk tea](/images/blog_december/ito_en_milk_tea.jpg)
+
+Curiously, this one claims that it is "Hawaii Exclusive" (apparently not though?).
+
+I wonder why they changed it. I noticed that all the other bottled tea they had was also Ito En brand. And, come to think of it, Ito En has a pretty big presenence at Mitsuwa, with Matcha Love and their little store next to it. It makes me wonder if Ito En has a lot of influence with Mitsuwa, and is able to convince them to carry only their tea for some reason. I can only imagine what the company politics of tea brands is like!
+
+By the way, if you're wondering how good this tea was: it was pretty good when warmed up!
+
 # 14 December
 ## Holiday gift donation
 
