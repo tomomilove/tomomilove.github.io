@@ -4,6 +4,17 @@ title: Blog
 permalink: /blog/
 month: December
 ---
+# 14 December
+## Holiday gift donation
+
+This year for holiday gift my work gave us $400 to donate to some charities or organizations of our choice (among several pre-approved options... I guess you can't "donate" it to yourself!).
+
+It's hard to know what to pick. Luckily, they do their best to make it easy for you. They have a slick website up, with a bunch of organizations listed with pictures and descriptions.
+
+How would you decide where to donate the money? Would you pick something close to home, or something far away? Would you help people, or animals, or the world?
+
+I ended up donating to the Wikimedia Foundation as well as to the World Wildlife Fund.
+
 # 13 December
 ## Gift shopping
 
