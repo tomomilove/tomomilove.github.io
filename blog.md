@@ -4,6 +4,20 @@ title: Blog
 permalink: /blog/
 month: December
 ---
+# 16 December
+## The beauty of rain
+
+Is rain more beautiful during the day, or during the night? Is it more beautiful in the city, or out in nature? In my opinion, it's beautiful in all those cases!
+
+Rain at night in the city is beautiful because of the way light reflects off the ground. Please enjoy these photographs I took! Though they don't turn out nearly as well as seeing them in person.
+
+![Rain lights 1](/images/blog_december/rain_lights1.jpg)
+![Rain lights 2](/images/blog_december/rain_lights2.jpg)
+![Rain lights 3](/images/blog_december/rain_lights3.jpg)
+![Rain lights 4](/images/blog_december/rain_lights4.jpg)
+![Rain lights 5](/images/blog_december/rain_lights5.jpg)
+![Rain lights 6](/images/blog_december/rain_lights6.jpg)
+
 # 15 December
 ## Ito En stuffing out the competition?
 
