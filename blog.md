@@ -4,6 +4,29 @@ title: Blog
 permalink: /blog/
 month: December
 ---
+# 17 December
+## New building day!
+
+We moved to our new building at work today. For a "welcome breakfast" special they had... milk tea from Teaspoon and donuts??
+
+![Teaspoon](/images/blog_december/teaspoon.jpg)
+
+Well, that's already filled my sugar quota for the day!
+
+Aside from that, the building is pretty nice. Compared with my old building, the hallways are wider, have more light, and don't twist and turn in weird ways. As a result, the whole building feels a lot more relaxed and less claustrophobic. I also like the decor in the building more. Our building theme is "hidden structures in nature", and my floor's theme is "flora and fauna". Here is some assorted decor:
+
+![Flora and fauna 1](/images/blog_december/flora_and_fauna1.jpg)
+![Flora and fauna 2](/images/blog_december/flora_and_fauna2.jpg)
+![Flora and fauna 3](/images/blog_december/flora_and_fauna3.jpg)
+
+In case you can't see it, at the bottom of this owl-girl one it is lightly written: "Hunting the surface". I wonder what it means?
+
+![Flora and fauna 4](/images/blog_december/flora_and_fauna4.jpg)
+
+This is a wall covered in real tree bark.
+
+![Flora and fauna 5](/images/blog_december/flora_and_fauna5.jpg)
+
 # 16 December
 ## The beauty of rain
 
