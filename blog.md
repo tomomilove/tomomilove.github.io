@@ -4,6 +4,32 @@ title: Blog
 permalink: /blog/
 month: December
 ---
+# 19 December
+## Daily milk tea
+
+I think I mentioned earlier that my new building at work promised to have milk tea (with boba pearls) every day from 2 - 3 pm. Well... I decided to try it, and... it's quite good! Much better than Teaspoon actually. And better than I can make it, too.
+
+This poses a dilemma for me, though. Should I drink milk tea every day? Is that healthy? Would it ruin my appreciation of milk tea to have it so often?
+
+Would would you do?
+
+# 18 December
+## Christmas shopping complete!
+
+Today I took a trip to my work's merchandise store to get a gift for my dad. I ended up with this wool hat.
+
+![Wool hat 1](/images/blog_december/wool_hat1.jpg)
+
+(Kibi covering the company logo. The company I work for shall not be revealed on this blog!)
+
+You can fold down the ear flaps of the hat:
+
+![Wool hat 2](/images/blog_december/wool_hat2.jpg)
+
+I figured this would be a good hat for my dad because he doesn't have hair.
+
+Anyway, this marks the end of my Christmas shopping for the year! Woohoo!
+
 # 17 December
 ## New building day!
 
