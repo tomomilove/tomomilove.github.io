@@ -4,6 +4,15 @@ title: Blog
 permalink: /blog/
 month: December
 ---
+# 21 December
+## Quiet days at work
+
+Not many people around today, and many services shutting down. For example, there was no milk tea today!
+
+I wasn't able to get a lot done today, myself. Because I need other people to review my work, but they aren't here. That's fine with me, though! I just didn't work very hard.
+
+My roommate was pretty excited for today, because it's his last day until vacation. H he said it's the first vacation where he can be totally disconnected from work since 2015. I told him he should do that once per year, he said he'd consider it!
+
 # 20 December
 ## More coloring
 
