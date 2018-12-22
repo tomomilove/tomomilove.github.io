@@ -4,6 +4,15 @@ title: Blog
 permalink: /blog/
 month: December
 ---
+# 20 December
+## More coloring
+
+Today I colored this card to send to our friends in Sacramento, along with the chocolate:
+
+![Coloring postcard](/images/blog_december/coloring_postcard.jpg)
+
+The color scheme looks a bit similar to the one I made for you recently. I guess I wasn't feeling too creative. I thought the blue crosses kind of looked like snowflakes, though, reflecting the season!
+
 # 19 December
 ## Daily milk tea
 
