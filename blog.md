@@ -4,6 +4,21 @@ title: Blog
 permalink: /blog/
 month: December
 ---
+# 23 December
+## Visiting parents
+
+Today I came to visited my parents for Christmas. It is just me visiting this time! Not even my sister is here! That's a bit tough, actually.
+
+We had lunch downtown at the Indian restaurant. I try to always go there when I'm in Davis. I wish I could make chai as good as they make there!
+
+Then at home we sat around the Christmas tree for a while.
+
+![Parent's Christmas tree](/images/blog_december/parents_christmas_tree.jpg)
+
+Could there be something for you under there...?
+
+After that, my mom wanted to watch a movie. We watched Fantastic Beasts and Where to Find Them (the first one, not the sequel). It takes place in the Harry Potter universe, but it doesn't quite feel like Harry Potter. I thought it leaned a bit too heavily into the typical Hollywood movie formula, and perhaps could have been made a bit more unique.
+
 # 22 December
 ## Visiting you
 
