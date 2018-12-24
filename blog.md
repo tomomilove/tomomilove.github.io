@@ -4,6 +4,21 @@ title: Blog
 permalink: /blog/
 month: December
 ---
+# 22 December
+## Visiting you
+
+Today I visited you and we had a really fun time!
+
+We started off by viewing the Christmas decorations downtown... some of them were a little scary/ugly though!
+
+Then we got cake!
+
+![Downtown cake](/images/blog_december/downtown_cake.jpg)
+
+After that we visited your house! First we visited with your Mom and your brother's dog. Then your other siblings slowly started showing up, and your brother's fiancee, too! We had some intense video game matches, especially playing Bomberman! It was nice being in such a full house. I am not often around that many people all so friendly!
+
+Your brother's dog is so funny. She likes licking so much! You can't even pet her because she will just try to lick you. I wondered if she was okay with all the noise and people though. We got a little rowdy playing games, I wondered if it bothers her? It is hard to tell, I can never be sure what a dog is thinking.
+
 # 21 December
 ## Quiet days at work
 
