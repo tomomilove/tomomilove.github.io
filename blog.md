@@ -4,6 +4,28 @@ title: Blog
 permalink: /blog/
 month: December
 ---
+# 25 December
+## New things
+
+Merry Christmas Tomomi!
+
+Lots of presents were given today! I got some wireless ear buds, and a coat, and a sand art kit. I also got this book about making dessert for two people, that way I can make small desserts for you!
+
+![Dessert for two](/images/blog_december/dessert_for_two.jpg)
+
+Also, you got this present from my parents:
+
+![Tomomi's present](/images/blog_december/tomomi_present.jpg)
+
+What could it be? Actually, I know what it is! Hehehe...
+
+# 24 December
+## Old things
+
+Today I went through old things in my room. Old notes from all my classes, tests, journals, writings, cards received from people... These things don't quite seem real to me. I remember the fact that those things happened, but they feel like they happened in another lifetime, to a completely different person.
+
+Some things haven't changed. I still do a lot of writing and crafts stuff, as I always have. Other things have changed a lot though. Reading my old journal entries, I wrote about how I was unhappy with myself and my life. I don't feel like that at all anymore, and it seems so far way to me, now.
+
 # 23 December
 ## Visiting parents
 
