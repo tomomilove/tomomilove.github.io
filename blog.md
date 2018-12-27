@@ -4,6 +4,25 @@ title: Blog
 permalink: /blog/
 month: December
 ---
+# 26 December
+## Needle felting
+
+Your new research assistant was made with a craft technique called _needle felting_. This is a pretty nice craft. It's easy to do, very forgiving, and has nice results! It is a little time consuming, though.
+
+Here's how it works. Start with some raw wool. Then roll it into a ball, and stab it repeatedly with a special kind of needle. The needle has grooves in it that entagle the wool fibers each time you stab. Therefore, the more you stab it, the more it holds its shape. And that's pretty much all you do. You can attach pieces together by stabbing between them, entangling their fibers. There's no glue or anything!
+
+![Needle felting materials](/images/blog_december/needle_felting.jpg)
+
+Here are the materials for your dog. The wool came in a kit, with instructions for making the dog. I added the bag, book, and glasses myself, turning it into a research dog!
+
+Needle felting is a lot like working with clay. You can gently form the wool into the right shape, and when it's ready, you stab it to set it in. You can pretty easily take parts off or move stuff around if you make a mistake.
+
+Soon enough, you have a dog!
+
+![Felt dog](/images/blog_december/felt_dog.jpg)
+
+By the way, I feel like needle felting would make a good metaphor for something. Maybe how the more you stab something, the stronger it becomes, representing strength under adversity? Or, the more you stab something, the more the fibers entangle, representing how people grow close together under hardship. I don't know. It really is a remarkable craft, though!
+
 # 25 December
 ## New things
 
