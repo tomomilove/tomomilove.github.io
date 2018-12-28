@@ -4,6 +4,13 @@ title: Blog
 permalink: /blog/
 month: December
 ---
+# 27 December
+## Staying at home
+
+So I didn't take the day off, but I decided to work from home (and not work very hard). Why's that? The main reason is that they reduced the bus schedule so that there aren't even any buses that could take me home! I'd have to take a connector bus to main campus first to get home. And they reduced the connector bus schedules as well, so it would be a bit of a pain.
+
+There's also not much of a reason to go in to work. Meetings are canceled because few other people are around. Code can't be submitted because few people are able to review it. I can do a little bit of work... but not too much!
+
 # 26 December
 ## Needle felting
 
