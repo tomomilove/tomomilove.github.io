@@ -4,6 +4,15 @@ title: Blog
 permalink: /blog/
 month: December
 ---
+# 28 December
+## End of Octopath Traveler, kind of
+
+The first game I wrote about on this blog long ago was _Octopath Traveler_, and now I'm mostly done with the game. As I mentioned, the game features 8 characters each with their own stories, and I completed all of those. However, there is also an extra final boss at the very end, who is reportedly very difficult and frustrating, so I don't plan to fight it.
+
+In the end, I have mixed feelings about this game. It's a unique game with a lot of new ideas, and I appreciate that. Its genre is turn-based RPG, but it has a very open structure where you can explore the world freely and tackle the stories in any order. However, its open structure is also a weakness, because the game can feel aimless at times. It took me so long to beat because I kept getting distracted by other more immediately compelling games!
+
+The music remains a highlight throughout the game, though. [Here's](https://www.youtube.com/watch?v=BJrlveSBhsc) the song that plays for each character's final boss. It's really great, you should take a listen!
+
 # 27 December
 ## Staying at home
 
