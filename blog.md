@@ -4,6 +4,27 @@ title: Blog
 permalink: /blog/
 month: December
 ---
+# 29 December
+## Pros and cons of wireless earbuds
+
+I received some wireless earbuds for Christmas!
+
+![Wireless earbuds](/images/blog_december/wireless_earbuds.jpg)
+
+They've been really great in some ways, and not so great in others.
+
+\+ Less wires means less mess! You've seen my room with too many wires around, for chargers, ethernet, and more.
+
+\- Additional wire needed to plug these in for charging.
+
+\+ I don't have to sit right next to my Switch when playing on the TV!
+
+\- I need to buy an adapter to get it to work with the Switch.
+
+\+ I can play something on my phone or laptop, then walk away to do something else (maybe go downstairs to make tea), and I'll still be able to hear it!
+
+\- Connecting the earbuds to different devices is confusing. If I connect it with my laptop, then to change it to my phone I have to explicitly make my laptop forget about the connection. Otherwise it will keep automatically connecting to the laptop, even if the laptop is asleep!
+
 # 28 December
 ## End of Octopath Traveler, kind of
 
