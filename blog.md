@@ -4,6 +4,25 @@ title: Blog
 permalink: /blog/
 month: December
 ---
+# 30 December
+## Aphantasia
+
+I was reading through the WaniKani forums today and someone mentioned they have _aphantasia_, making it harder for them to use mnemonics, since so many mnemonics rely on imagining weird visual scenarios.
+
+What is aphantasia? It's the inability to picture things in your mind.
+
+Some people are like that. It doesn't seem to impact their lives all that much. There are reports of people going decades of their lives without knowing there exists this difference between them and most other people, and without anyone else noticing it either. These people report being not great at remembering some things, but otherwise there doesn't seem to be much impact on their life.
+
+It's so strange because visualizing things in my mind is such a common thing for me, but I guess when I think about it, it's not especially useful for anything.
+
+There are other variants too, like the inability to hear things in your head, such as hearing a song, or having an inner voice that speaks your thoughts.
+
+What do you think? Do you have aphantasia, or lack an inner voice? If I ask you to picture a red triangle, or to picture my face, does that make sense to you? If I ask you to say a word in your mind, can you do it? Do you ever get songs stuck in your head? Do your dreams have visuals?
+
+I would guess that you don't have aphantasia, since you've been able to describe your dreams and your childhood memories to me in significant detail. But I figured I might as well ask, since some people don't realize it for a while.
+
+If you're interested in learning a bit more about it, someone in the forum thread linked [this article](https://m.facebook.com/notes/blake-ross/aphantasia-how-it-feels-to-be-blind-in-your-mind/10156834777480504/) where someone describes going through their realization about having aphantasia.
+
 # 29 December
 ## Pros and cons of wireless earbuds
 
