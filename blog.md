@@ -4,6 +4,16 @@ title: Blog
 permalink: /blog/
 month: December
 ---
+
+# 31 December
+## New Year's Eve
+
+On the last day of the year, I spent most of it hanging out with you and your family!
+
+We played a card game called Sets. I am not so good at this kind of game, as I don't think or react very quickly. It was a pretty intense game that requires concentration at all times. I think for a while after we were done playing I was reflexively looking for sets in the real world around me. That tends to happen to me after focusing on a certain task too much!
+
+After that, we watched a Japanese show about singing. I thought it was pretty interesting to see all the different kinds of performers and how they would try to stand out from each other. Like setting a kendama world record on stage for some reason! Or having a giant inflatable taiko drummer version of the performer! But, it did get a little tiresome after a while, trying my best to read things. Maybe by next year, I'll have made a lot more progress on vocabulary...
+
 # 30 December
 ## Aphantasia
 
