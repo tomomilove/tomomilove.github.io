@@ -4,6 +4,26 @@ title: Blog
 permalink: /blog/
 month: January
 ---
+# 4 January
+## Lost earbuds
+
+A great tragedy today... I lost the wireless earbuds my dad just gave me!! Don't tell him, or he'll go buy me some new ones.
+
+I don't know what happened. I remember taking them out on the bus but not putting them in my ears, and just letting them sit on my backpack. I don't remember what I did with them after that. Then, the moment I got off the bus, I noticed I hadn't put them in my backpack like I usually do, and I couldn't find them.
+
+There's only two possible things that could have happened:
+
+1. I left them on the bus
+2. I dropped them within seconds of getting off the bus
+
+My company has a pretty good system for finding items lost on buses. You report it to the transportation team, and then at a certain time each day they take all the requests from people for that day and go searching the buses. Unfortunately, they weren't able to find my earbuds.
+
+Another possibility is another pasenger on the bus found them, picked them up, and turned them into a building. There is a master log of all turned-in items you can check online, but my earbuds weren't there.
+
+So the only other possibility I can think of is that I dropped right as I was getting off the bus. However, I didn't think of this possibility until hours later. I returned to the bus stop to search the ground, but I couldn't find them.
+
+Now I'm really disappointed with myself. I think I will buy some replacement ones though, since I was getting used to their benefits.
+
 # 3 January
 ## The end of Inbox
 
