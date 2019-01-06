@@ -11,7 +11,7 @@ So today I finally tried to book a doctor's appointment.
 
 I very quickly learned that all the doctors with good ratings are full and no longer accepting patients, while the only ones that are free either have bad ratings or very few or none.
 
-I managed to book an appointment with a doctor that I was able to find a single good rating for. I guess that's better than nothing? There was only one available time available for an appointment, in February.
+I managed to book an appointment with a doctor that I was able to find a single good rating for. I guess that's better than nothing? There was only one time available for an appointment, in February.
 
 The whole process of finding a doctor and booking an appointment was very confusing. My company reccomends a site for searching for doctors, but the site doesn't allow you to book appointments as far as I can tell. So I found another site for booking appointments, but I wasn't able to log into that site, so I had to book as a guest. Is that how it's supposed to work? I'm not sure. I did check that the doctor is "in-network" and therefore covered by my insurance, so it should be okay, in the end...
 
