@@ -4,6 +4,31 @@ title: Blog
 permalink: /blog/
 month: January
 ---
+# 7 January
+## Lunch interview
+
+I was assigned to do a lunch interview at work today. You eat lunch with the candidate but you do not evaluate them. It is a chance for them to ask you questions about what it's like to work at the company.
+
+I have set my preferences for no interviews, but a few weeks ago they assigned one to me anyway. I responded back declining the interview and saying I didn't want to do it, but they never responded to me. So I guess I had to do it.
+
+I don't think I'm the best person for lunch interviews. My experience probably doesn't leave such a good impression on candidates. Today I got asked questions and had to admit that I haven't been promoted in 3 years, that my team is so small, that my manager is overworked, that I don't really make friends with my coworkers, and things like that...
+
+I think, for my company's own good, they should not assign me to do lunch interviews!
+
+# 6 January
+## Finally chocolate
+
+We finally drank the hot chocolate you gave me so long ago! I think you went to France back in April, so it's been like 8 months!
+
+![Angelina chocolate 1](/images/blog_january/angelina_chocolate1.jpg)
+![Angelina chocolate 2](/images/blog_january/angelina_chocolate2.jpg)
+
+For a while I was confused as to how it could last so long. When we opened it up, I was surprised to discover it was completely solid!
+
+We made it easily, and it seemed to retain all the quality and flavor I could expect! Imagine, I have been searching for good hot chocolate for so long, and it was right under my nose the whole time...
+
+I'm starting to like your mother's idea to buy one dozen. We could have one for every week of winter!
+
 # 5 January
 ## Doctor struggles
 
