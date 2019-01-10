@@ -4,6 +4,21 @@ title: Blog
 permalink: /blog/
 month: January
 ---
+# 9 January
+## My Game of the Year award
+
+The other day you saw the game *Hollow Knight* on my Switch home screen and asked me about it. I didn't give you much of an answer then, but I figured I'd write about it now, since it was probably my favorite game I played last year.
+
+![Hollow Knight 1](/images/blog_january/hollow_knight1.jpg)
+![Hollow Knight 2](/images/blog_january/hollow_knight2.jpg)
+![Hollow Knight 3](/images/blog_january/hollow_knight3.jpg)
+
+This is a game in the Metroidvania genre that has you exploring a vast insect civilization world. As you can tell from the screenshots, the game has a very distinct look to it. Kind of cute but also creepy and mysterious, just like real insects! And overall, quite beautiful.
+
+What sets this game apart from its peers is that the world is so big and feels so rich. There's quite a lot of story to this world, lots of interesting and fun characters to meet, and lots of secrets to discover.
+
+Surprisingly, Hollow Knight was made by a very tiny Australian indie studio with only 2 people + one musician + one technical director. I can't imagine creating such an impressive piece of software with only 4 people!
+
 # 8 January
 ## Postcard from a friend
 
