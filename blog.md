@@ -4,6 +4,17 @@ title: Blog
 permalink: /blog/
 month: January
 ---
+# 8 January
+## Postcard from a friend
+
+I received this postcard from our friends in Sacramento!
+
+![Grand Canyon postcard](/images/blog_january/grand_canyon_postcard.jpg)
+
+And I remembered to thank them for it over the internet!
+
+They said the Grand Canyon was so majestic it didn't look real. Have you ever seen it? It sounds like a place I'd like to see sometime. However, I'm worried that the hikes people go on there would be too strenuous for me.
+
 # 7 January
 ## Lunch interview
 
