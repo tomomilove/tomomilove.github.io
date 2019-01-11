@@ -4,6 +4,29 @@ title: Blog
 permalink: /blog/
 month: January
 ---
+# 10 January
+## My wireless setup
+
+I'm finally able to play my Switch without needing earbuds plugged into it!
+
+First I had to buy this adapter, because the Switch can't use bluetooth earbuds by itself...
+
+![Genki adapter](/images/blog_january/genki_adapter.jpg)
+
+The brand is called "Genki". Hey, I know that word! I wonder why they chose that name though.
+
+Then I got these headphones!
+
+![Headphones](/images/blog_january/headphones.jpg)
+
+These were the cheapest headphones I could find that met my requirements (these aren't those fancy $500 - $1000 headphones). My main requirement was low latency, because latency is noticeable when gaming, since the sound responds to your actions (unlike when listening to music).
+
+I decided to get headphones over earbuds for a couple of reasons:
+
+- Much longer battery life (40 hours vs 6 hours)
+- Harder to lose
+- Even cheap headphones are going to have better sound than expensive earbuds
+
 # 9 January
 ## My Game of the Year award
 
