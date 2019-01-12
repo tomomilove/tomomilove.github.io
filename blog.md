@@ -4,6 +4,15 @@ title: Blog
 permalink: /blog/
 month: January
 ---
+# 11 January
+## New phone wallpaper!
+
+It's been so long, but I finally have a new wallpaper for my phone!
+
+![Phone wallpaper](/images/blog_january/phone_wallpaper.png)
+
+This is actually a photograph of a window of a conference room in my building. I thought it was really pretty, don't you?
+
 # 10 January
 ## My wireless setup
 
