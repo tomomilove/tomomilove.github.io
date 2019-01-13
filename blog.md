@@ -4,6 +4,21 @@ title: Blog
 permalink: /blog/
 month: January
 ---
+# 12 January
+## The past and the future
+
+Recently, I've been trying to wrap my head around some of the past and future words in Japanese. For example, 先. I've seen it translated as "previous" and "some time ago", but also "the future" and "hereafter". It seems contradictory... but is it?
+
+I'm trying to come up with the right visual metaphor to understand this word.
+
+Imagine you're standing in line. The person in front of you goes before you, and when it's your turn they will be the previous person. In addition, they can be thought of as a future version of yourself. When it's their turn, they are doing what you will be doing in the future.
+
+I guess that makes sense. Though it's still hard to reconcile words like 先月 with the meaning of future. It's clearly the past month, not the future month, right?
+
+I think past/future words also work the same way in English. Imagine you are on a hiking trail. You look in front of you, and you say: "Look at the beautiful land that lies before me!" Then you turn around and look behind you and say: "Look at all the beautiful land I saw before!" It seems like "before" can be used to describe both the future and the present land.
+
+The more I think about this, the more confused I get. Maybe I don't understand what "future" really means, in the first place...
+
 # 11 January
 ## New phone wallpaper!
 
