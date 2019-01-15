@@ -4,6 +4,20 @@ title: Blog
 permalink: /blog/
 month: January
 ---
+# 13 January
+## 元
+
+Hey, I know that character! It's "gen", or "moto", which I learned means "origin". The mnemonic for this one is interesting... it's composed of the radical "two" (二) and the radical "legs". What is your origin? Where did you come from? Well, you came from between two legs...
+
+Anyway, today we went to a new Korean BBQ place near where I lived called Gen! Given that character though, is it really Korean I wonder?
+
+No matter, we ate well!
+
+![Gen 1](/images/blog_january/gen1.jpg)
+![Gen 2](/images/blog_january/gen2.jpg)
+
+One thing about Gen I was epecially impressed by was how comfortable it felt there. There was a lot of space, cool blue lighting, and a lot of ventillation. Compared to the one other Korean BBQ place I've been, which was dark, smoky, cramped, crowded, and had a lot of red decor. I think when you combine all that with the fact that you're cooking at your table, it's a bit uncomfortable! You feel like you're being cooked yourself!
+
 # 12 January
 ## The past and the future
 
