@@ -689,3 +689,28 @@ Marco: Why didn’t I think of making a map? Anyway, thank you very much!
 Alice: Happy to help! Hope to see you guys again around!
 
 And with that, we part ways.
+
+## Chapter 25
+## Napier’s shop
+
+After another day in the labyrinth, we decide to head back to Maginia. I show the map we’ve made to Persephone, and she seems pleased. She pays us a considerable sum of money, and recommends we use it to improve our adventuring equipment. She recommends a shop in downtown Maginia run by a woman named Napier.
+
+I decide to go to Napier’s shop alone, and I tell everyone else they have the day off. 
+
+Entering Napier’s shop, I find it to be richly decorated. Suits of armor and weapons line the walls. In the corner, I can see medicines and other strange foods.
+
+Napier: Welcome, customer. Napier speaking. New adventurer, are you?
+
+Alice: That’s right. I’ve brought money and some ore. I’d like to make some new equipment, and buy some medicine.
+
+Napier: As you wish!
+
+Napier produces new armor and weapons for everyone in the guild.
+
+Alice: Thank you very much. This will really help us explore the Verdant Forest.
+
+Napier: You’re exploring the Verdant Forest, are you? Actually, can you do a request for me? Could you collect some mint grass for me? I’ll use it to make medicine to sell in the shop. I’ll pay you for your efforts, of course. It maybe be a little difficult to find, but...
+
+Alice: Leave it to Kowagarijanai guild! We can do it!
+
+Napier: Oh...? Good luck then.

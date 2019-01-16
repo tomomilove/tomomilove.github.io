@@ -4,6 +4,13 @@ title: Blog
 permalink: /blog/
 month: January
 ---
+# 14 January
+## Next chapter
+
+Chapter 25 of the story is available [here](/story#２５章). English version is [here](/english_story#chapter-25).
+
+It's been a while since the last chapter, sorry if it's hard to follow because of that!
+
 # 13 January
 ## 元
 
