@@ -4,6 +4,18 @@ title: Blog
 permalink: /blog/
 month: January
 ---
+# 15 January
+## End of year stats
+
+I received a report on my credit card spending for this year. I compared it to the report from last year, and here's what I've found:
+
+- Overall, expenses were up.
+- My expenses were broken into four major categories: "merchandise" (includes food), "entertainment", "travel", "services". Merchandise and entertainment are about even, and make up the bulk of spending. Travel and services are smaller.
+- Entertainment spending went down, but merchandise spending went up. I wish I knew why. They don't give you a more detailed break down.
+- Here's a chart of spending over the months. ![Spending chart](/images/blog_january/spending_chart.png) Kind of a weird trend. Why'd I spend so much in February? Why so much in November? Why not so much in October?
+
+Anyway, I don't think I met my goal to spend less money on food this past year. I'll keep trying!
+
 # 14 January
 ## Next chapter
 
