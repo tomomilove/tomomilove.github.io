@@ -4,6 +4,21 @@ title: Blog
 permalink: /blog/
 month: January
 ---
+# 16 January
+## Bunpro
+
+My kanji skills are improving a lot, but my grammar skills not very much so. 
+
+I heard about a website called Bunpro for grammar study. It's kind of similar to WaniKani in that it gives you a series of reviews at spaced time intervals.
+
+I tried it out and it was all right. The way it works is they show you a sentence with a blank in it, and you have to type it in. Here's an example:
+
+![Bunpro](/images/blog_january/bunpro.png)
+
+It seems like it's useful for helping you to remember some details of the different grammar points. However, it doesn't really help you understand or construct more complex sentences, which is where I primarily struggle I think.
+
+I don't think I'm going to spend too much time doing Bunpro, for now. I'm just going to continue to focus on WaniKani, which already takes up a lot of my time.
+
 # 15 January
 ## End of year stats
 
