@@ -4,6 +4,19 @@ title: Blog
 permalink: /blog/
 month: January
 ---
+# 17 January
+## Reading vs. writing
+
+Recently I've come to appreciate just how different the skills of reading and writing are.
+
+I heard of criticism of WaniKani that it sometimes teaches uncommon words. So if you learn a word in WaniKani, then go and use it yourself, you may end up sounding silly.
+
+However, the key thing to realize is that the goal of WaniKani is only to teach you how to read, not to teach you how to produce language yourself. When WaniKani teaches you a word, it does not mean to suggest that you should use that word. It is merely teaching you how to read it should you ever happen to come across it. WaniKani is good at what it does, but its scope is very limited.
+
+So how do you learn the skill of producing language? I think it is much more difficult than reading.
+
+When I think about this stuff, I realize how far away I am from really learning the language. But I can only take it one step at a time.
+
 # 16 January
 ## Bunpro
 
