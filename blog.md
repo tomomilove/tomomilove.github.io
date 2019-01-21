@@ -4,6 +4,21 @@ title: Blog
 permalink: /blog/
 month: January
 ---
+# 19 January
+## Concert!
+
+Today we watched someone perform music! Thank you for taking me! I have wanted to hear this person for a long time!
+
+It's been ages since I went to a concert like this. I remember being exceedingly bored when going to my sister's performances when she was in middle school. I think it's a case of not understanding what's going on, so it's hard to appreciate.
+
+I still don't understand anything about music. At today's performance, from what people said, I understood that certain difficult and technical things were happening, but I couldn't pick up on it at all myself. I also don't understand anything about how the different pieces of a song go together. One part kind of suddenly ends and the next part begins and it sounds totally different, and I'm not sure why they're a part of the same song.
+
+Despite not understanding, I do enjoy it, now that I'm older. I think one thing that's changed in me when growing up is becoming generally more receptive, better able to appreciate a wide variety of experiences.
+
+By the way, the place we visited where the performance took place was quite beautiful. Here's a photo I took!
+
+![Campus](/images/blog_january/campus.jpg)
+
 # 18 January
 ## Next story chapter
 
