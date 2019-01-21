@@ -4,6 +4,13 @@ title: Blog
 permalink: /blog/
 month: January
 ---
+# 18 January
+## Next story chapter
+
+Last time, Alice went off to Napier's store to buy adventuring supplies, leaving the other members of Kowagarijanai guild with the day off. Let's see what Tanaka Rin and Yamamoto Emika are up to during this time. This chapter isn't written from Alice's perspective.
+
+[Link](/story#２６章) to the next chapter. Here is the [English version](/english_story#chapter-26).
+
 # 17 January
 ## Reading vs. writing
 

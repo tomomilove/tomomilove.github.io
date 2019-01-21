@@ -714,3 +714,36 @@ Napier: You’re exploring the Verdant Forest, are you? Actually, can you do a r
 Alice: Leave it to Kowagarijanai guild! We can do it!
 
 Napier: Oh...? Good luck then.
+
+## Chapter 26
+## Tanaka and Yamamoto
+
+While Alice is buying supplies at Napier’s shop, the rest of Kowagarijanai guild has the day off. Let’s see what Tanaka and Yamamoto are up to.
+
+Yamamoto: Rin-san, drinks?
+
+Tanaka: Yes!
+
+Tanaka and Yamamoto visit the bar downtown and get to talking.
+
+Yamamoto: Rin, you are a seasoned hero… but I want you to be careful.
+
+Tanaka: Don’t worry about me! Let’s talk about something else. What drink did you get Emika-chan?
+
+Yamamoto: I mean seriously. Listen to me for a second.
+
+Tanaka: ?
+
+Yamamoto: I know our guild is on a quest to save the world, and that’s very important… but your individual life is important too. Never forget that.
+
+Tanaka: Right…
+
+Yamamoto: This girl, Alice. She is still very green. Do not blindly follow her. You are her teacher, use your own wisdom sometime.
+
+Tanaka: Hmm… She is the guild leader though.
+
+Yamamoto: Do not hesitate to rebel against and unwise ruler.
+
+Tanaka: You sound like my husband, haha. I get your point. If we’re going to get out of this labyrinth, we all need to be using our own strengths. Let’s work together to conquer this labyrinth!
+
+Yamamoto: Good. That’s the Rin-san I remember. 
