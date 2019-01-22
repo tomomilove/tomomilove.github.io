@@ -4,6 +4,17 @@ title: Blog
 permalink: /blog/
 month: January
 ---
+# 20 January
+## Snail hunting
+
+It has been raining a lot recently, but where are the snails? Is it too cold for them? I remember in previous years there were a lot of snails when it rained.
+
+Anyway, I went and looked for some, and I managed to find one!
+
+![Snail](/images/blog_january/snail.jpg)
+
+I didn't step on it, and hopefully no one else did either. But maybe the reason there are so few is that too many people stepped on them? Maybe they have become an endangered species?
+
 # 19 January
 ## Concert!
 
