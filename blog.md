@@ -4,6 +4,23 @@ title: Blog
 permalink: /blog/
 month: January
 ---
+# 21 January
+## Present for friend
+
+Our friend's birthday is coming up, so I got this present! It's some kind of notebook.
+
+Here's the cover:
+![Bird notebook 1](/images/blog_january/bird_notebook1.jpg)
+
+And here's what the pages look like, inside:
+![Bird notebook 2](/images/blog_january/bird_notebook2.jpg)
+![Bird notebook 3](/images/blog_january/bird_notebook3.jpg)
+![Bird notebook 4](/images/blog_january/bird_notebook4.jpg)
+
+I guess it's not a great gift. She probably doesn't need to a notebook, right? What would she do with it? But I thought it was really pretty, so that's why I got it.
+
+I think if I were to receive this as a gift, I would probably tear out the pages and use them for stationary maybe?
+
 # 20 January
 ## Snail hunting
 
