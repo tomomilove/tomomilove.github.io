@@ -4,6 +4,17 @@ title: Blog
 permalink: /blog/
 month: January
 ---
+# 23 January
+## Cranes for recovery
+
+One of my coworkers had to have a surgery, so another one of my coworkers said we should make cranes for them.
+
+![Cranes for luck](/images/blog_january/cranes_for_luck.jpg)
+
+That person only printed out one little instruction sheet which was hard for everyone to follow at once. So for some people, I stepped up to teach them! It was nice to be able to do that again.
+
+Origami is such a peaceful craft. It was fun to do with my cowokers, and I hope it brings happiness to the hospitalized coworker.
+
 # 22 January
 ## Pho Avenue's new look
 
