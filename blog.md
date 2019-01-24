@@ -4,6 +4,22 @@ title: Blog
 permalink: /blog/
 month: January
 ---
+# 22 January
+## Pho Avenue's new look
+
+Pho Avenue underwent a bit of a remodel, getting new wood paneled walls. The dark colors and modern design give it a rather chic vibe, don't you think?
+
+![Pho Avenue 1](/images/blog_january/pho_avenue1.jpg)
+![Pho Avenue 2](/images/blog_january/pho_avenue2.jpg)
+
+The floor, chairs, and tables are unchanged, but they still kind of go with the design, since they were already wood!
+
+For reference, here's what it used to look like (photo from Yelp, not my photo)
+
+![Old Pho Avenue](https://s3-media3.fl.yelpcdn.com/bphoto/9V2jrwV225a_1hpzLejSFA/o.jpg)
+
+What do you think of the new look? I kind of like it!
+
 # 21 January
 ## Present for friend
 
