@@ -4,6 +4,21 @@ title: Blog
 permalink: /blog/
 month: January
 ---
+# 24 January
+## The Flora and Fauna of the Pacific Northwest Coast
+
+One of the decorations they have in my building at work is this book:
+
+![Flora and Fauna 1](/images/blog_january/flora_and_fauna1.jpg)
+
+They have a lot of decor like this that are just lying around. I wonder if anyone reads them? Anyway, I took some time to look through the book. It's not a very technical book -- the descriptions are quite brief -- but it has nice photos. And there's quite a lot in it, with a huge variety of life covered, from flowers, to trees, to mushrooms, insects, mammals, birds, fish, and more... I'm always impressed to see the wide variety of species! There are so many nearby, and yet I may never end up seeing them myself.
+
+Curiously, the decorators included a magnifying glass with the book.
+
+![Flora and Fauna 2](/images/blog_january/flora_and_fauna2.jpg)
+
+I'm not sure if it's very helpful to have a magnifying glass to look at a book, since the resolution of the pictures in the book aren't very high. I guess it adds a fun touch, though.
+
 # 23 January
 ## Cranes for recovery
 
