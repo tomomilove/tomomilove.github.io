@@ -4,6 +4,17 @@ title: Blog
 permalink: /blog/
 month: January
 ---
+# 25 January
+## Escalation
+
+I got home from work and I was just about to go out to eat when I got a message from someone at work saying there was an urgent problem and asking if I could help investigate.
+
+This is the first time this has really happened to me. I'm supposed to be off the hook once work hours end. But I didn't want to say no, so I agreed to help. I ended up ordering food to be delivered, and stayed at home.
+
+In the end, they managed to kind of figure it out without much input from me, and said they shouldn't have made a big deal out of it.
+
+Well, I don't mind. I've had to take on more responsibilities these days, so this stuff will happen.
+
 # 24 January
 ## The Flora and Fauna of the Pacific Northwest Coast
 
