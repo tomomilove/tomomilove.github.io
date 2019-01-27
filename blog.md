@@ -4,6 +4,15 @@ title: Blog
 permalink: /blog/
 month: January
 ---
+# 26 January
+## Onion people
+
+Today was special because I met the onion people at Trader Joe's:
+
+![Onion people](/images/blog_january/onion_people.jpg)
+
+I wasn't able to buy one though, because I hadn't come to get onions. Still, it is a nice thing. I hope I see more onion people in the future. Or, I could make one myself!
+
 # 25 January
 ## Escalation
 
