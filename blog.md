@@ -4,6 +4,17 @@ title: Blog
 permalink: /blog/
 month: January
 ---
+# 27 January
+## Dentist struggles
+
+I finally scheduled a dentist appointment... maybe. I scheduled a cleaning but I meant to schedule a check up + cleaning. I wonder if that's included or not?
+
+It's tough, I'm trying to remember what my parents used to do for me. But unfortunately I didn't pay very close attention as a child.
+
+Making a dentist appointment for the first time was a struggle. I had to find a dentist that was nearby, with good reviews, and covered by my insurance. I wonder why some are covered by the insurance and others not?
+
+Then, once I found a candidate dentist, I had to make an appointment, and submit ten pages worth of documents. Whew, glad that's over!
+
 # 26 January
 ## Onion people
 
