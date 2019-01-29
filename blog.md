@@ -4,6 +4,11 @@ title: Blog
 permalink: /blog/
 month: January
 ---
+# 28 January
+## John and Lee
+
+The next chapter of the story is available! Alice is away buying adventuring equipment at Napier's shop while the other members of the guild have the day off. Last time we saw what Tanaka and Yamamoto talked about when she was not around, this time let's see what John and Lee talk about! Japanese version [here](/story#２７章), English version [here](/english_story#chapter-27).
+
 # 27 January
 ## Dentist struggles
 

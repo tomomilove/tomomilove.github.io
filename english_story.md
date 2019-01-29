@@ -747,3 +747,40 @@ Yamamoto: Do not hesitate to rebel against and unwise ruler.
 Tanaka: You sound like my husband, haha. I get your point. If we’re going to get out of this labyrinth, we all need to be using our own strengths. Let’s work together to conquer this labyrinth!
 
 Yamamoto: Good. That’s the Rin-san I remember. 
+
+## Chapter 27
+## John and Lee
+
+John and Lee are having tea and talking at Vivian's Inn.
+
+John: Hey Lee, what do you think of the girls in our guild?
+
+Lee: Alice has a lot of will, although some insecurity as well. I think if we support her, she can be a strong leader. Tanaka is very friendly, although she seems to ill-suited to play sidekick to Alice. She is older, but doesn’t it seem like she sees herself as inferior to Alice? Yamamoto I can’t really figure out. She seems to be hiding something, and definitely knows more than she lets on. I don’t know what her goals are.
+
+John: Nah man, I meant, what do you think of them as women, you know? Isn’t Yamamoto really pretty? And Tanaka is so cute. And Alice is totally sexy. We’ve got the whole spectrum covered -- it’s great, don’t you think!
+
+Lee: Ah, that sort of thing. Well… Alice kind of reminds me of my ex-wife I guess?
+
+John: Your ex-wife?! You’re already married?
+
+Lee: Yeah, well, it was an accident. 
+
+John: I gotta hear this story.
+
+Lee: So, it was one year ago. I had to fight this evil god to save the world, and…
+
+John: You fought a god?!
+
+Lee: Yeah. Anyway, as I was saying. I had to fight this god, but I wasn’t strong enough, since I’m a mortal. Then my friend, Princess Yumiko…
+
+John: Princess??!
+
+Lee: Yeah. Anyway, as I was saying, my friend Princess Yumiko gave me a magical ring with divine power strong enough to defeat the god. I took the ring and beat the god. However, I didn’t realize that accepting the ring was a sign of marriage in Yumiko’s kingdom. As soon as I realized that, I divorced her.
+
+John: Why?? She wasn’t sexy enough?
+
+Lee: It’s not like that. I did like her. But it was an accident, and I wasn’t ready for that sort of thing, you know?
+
+John: You’re crazy, man. If I were you, I totally would have married her.
+
+Lee: Really now…?
