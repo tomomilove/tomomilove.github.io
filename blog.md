@@ -4,6 +4,19 @@ title: Blog
 permalink: /blog/
 month: January
 ---
+# 29 January
+## The levels of knowledge
+
+WaniKani is divided into 60 levels. Every ten levels is given a name. They are (in order): "Pleasant", "Pain", "Death", "Hell", "Paradise", and "Reality". I just reached level 11, so now I am in the "Pain" section. I agree that WaniKani has been plesant up until this point. Is it about to get harder?
+
+I find these level group names to be interesting. I guess the idea is that when learning a language, you have to go through rough times at first. But once you learn it well, it becomes easy, and you are in paradise.
+
+It's curious that "reality" is considered above "paradise". I like that, though. I think true understanding means you see the world for what is really is. Paradise is just a fiction, so it doesn't make sense for it to represent true knowledge.
+
+Perhaps the "reality" level also means that you now know enough to go out in the real world and read real kanji. There is nothing left for you in the isolated learning environment of WaniKani. It's time to get out there for real.
+
+By the way, fun fact: At level 10, you know more than 50% of the kanji usage across Wikipedia. That might sounds like a lot, but it's really not. If you're reading Wikipedia and you don't know every other kanji, then your reading will be really slow.
+
 # 28 January
 ## John and Lee
 
