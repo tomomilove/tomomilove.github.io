@@ -4,6 +4,23 @@ title: Blog
 permalink: /blog/
 month: January
 ---
+# 30 January
+## Piranha Plant
+
+So they just added a new character to Super Smash Bros. Ultimate, and it's... Piranha Plant? It's not really a character I would have expected, but it's a lot of fun.
+
+Just look how happy it is to be here!
+![Piranha Plant 1](/images/blog_january/piranha_plant1.jpg)
+
+And it's pretty scary with how far it can extend its neck...
+![Piranha Plant 2](/images/blog_january/piranha_plant2.jpg)
+
+How does is move, you wonder? Well, it sticks a root down and runs on it like a little foot...
+![Piranha Plant 3](/images/blog_january/piranha_plant3.jpg)
+
+And it can fly like a helicopter of course!
+![Piranha Plant 4](/images/blog_january/piranha_plant4.jpg)
+
 # 29 January
 ## The levels of knowledge
 
