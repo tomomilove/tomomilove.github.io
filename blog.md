@@ -4,6 +4,17 @@ title: Blog
 permalink: /blog/
 month: January
 ---
+# 31 January
+## Kingdom Hearts III
+
+My sister recently texted me about a game that just released called Kingdom Hearts III. It was a bit of a surprise because I don't usually get texts from my sister! But she is a big fan of the series, so she is excited about this new release. After all, Kingdom Hearts II came out in 2005, 14 years ago... that's about half of my sister's life!
+
+Anyway, to give more context, this is a kind of a bizarre game series which is a crossover between various Disney movies, Final Fantasy, and original characters as well. Just look at these characters hanging out together:
+
+![Kingdom Hearts III](/images/blog_january/kingdom_hearts_iii.jpg)
+
+I've never been a huge fan of the series myself, but part of me wants to play it to have something to connect with my sister over, since I don't talk to her very much these days.
+
 # 30 January
 ## Piranha Plant
 
