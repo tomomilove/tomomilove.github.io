@@ -4,6 +4,33 @@ title: Blog
 permalink: /blog/
 month: February
 ---
+# 3 February
+## Character profile: Lee
+
+Here's a character profile for Lee, the character from _Kowagarijanai Chronicles_.
+
+**Full name**: Lee Jae-Yoon
+
+**Age**: 22 years old.
+
+**Physical description**: Average height. Lean and muscular. Has long black hair that he often keeps in a rough ponytail of sorts. Currently his wardrobe consists of mostly pirate clothes, since he was traveling with ghost pirates on his previous adventure.
+
+**Personality**: Chill and good-natured, makes friends easily. He's great at listening to people, and reading into them. Doesn't usually talk about himself, unless asked.
+
+**Biography**: He doesn't have a particular profession, but describes himself as a "traveler", and gets into various adventures.
+
+Lee was born into poverty and ran away from home at the age of 10 to seek greater things. He has been wandering the world ever since, and has never returned home. To name but a few of his adventures, he has visited the underworld, had tea with a god, traveled through time, died and got revived by a sacrifice from a phoenix, got stranded on a deserted island, and accidentally married (then quickly divorced) a princess. He has saved the world a few times, taken down a couple of evil empires, and more.
+
+**Motivation for joining Alice's guild**: While sailing across the ocean, he saw Yggdrasil The World Tree on the horizon and couldn't pass up the chance for a new adventure. He joined Alice's guild because she needed someone to take the role of a defender, and he had never done that before, and thought it would be interesting.
+
+**Things he likes**: Hearing the stories of other adventurers, and sharing his own.
+
+**Things he worries about**: What compels him to wander the world so restlessly? Someone close to him once accused him of running away from his past. And, although he would never admit it to himself, perhaps he is searching for connection and love.
+
+**People he is close to**: He has had many traveling companions over the course of his life that he became close to. However, he inevitably parted ways with each one, and moved on to the next adventure.
+
+**Fighting style**: Lee is probably one of the strongest sword fighters in the entire world. However, during this current adventure, Lee takes up the role of defender instead, something he does not have much experience in. He stands with Alice on the frontlines of battles, using his massive shield to protect his allies from attack, and trying to draw the attention of enemies.
+
 # 2 February
 ## Things that work, things that don't work (part 2)
 
