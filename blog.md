@@ -4,6 +4,21 @@ title: Blog
 permalink: /blog/
 month: February
 ---
+# Lunar New Year celebration at work
+
+Today they had a small Lunar New Year celebration during lunchtime at work. There were decorations, various games and activities, and themed food.
+
+First, they gave us this red envelope and coin:
+
+![Red envelope](/images/blog_february/red_envelope.jpg)
+![Lunar coin](/images/blog_february/lunar_coin.jpg)
+
+I didn't do many of the activities, but one I did do was drawing this character. They said it brings good fortune:
+
+![fuku](/images/blog_february/fuku.jpg)
+
+I didn't do a very good job. Though in my defense, they didn't give us any instructions. I wish I could learn the proper technique.
+
 # 3 February
 ## Character profile: Lee
 
