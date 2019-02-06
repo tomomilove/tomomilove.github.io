@@ -4,7 +4,17 @@ title: Blog
 permalink: /blog/
 month: February
 ---
-# Lunar New Year celebration at work
+# 5 February
+## The number of emoji
+
+Today they announced the new emoji being added to the emoji standard for 2019. They're adding 230 this year. Isn't it a bit much...? It's easy for them to approve new emoji, but it adds a lot of work for the people who have to implement them. Also it makes it that much harder to search through them.
+
+This brings the total amount of emoji to 3,053. That's more than the amount of kanji in WaniKani! Now all we need is a grammar and we can make an entire language out of emoji!
+
+...Actually though, for serious, the comparison between emoji and kanji highlights why people primarily use words for communication rather than pictures. Eventually it becomes infeasible to represent every possible concept with simple pictures. To represent more complicated concepts it makes more sense to just combine simple concepts together -- i.e., stick multiple characters together to form words.
+
+# 4 February
+## Lunar New Year celebration at work
 
 Today they had a small Lunar New Year celebration during lunchtime at work. There were decorations, various games and activities, and themed food.
 
