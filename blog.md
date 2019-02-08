@@ -4,6 +4,20 @@ title: Blog
 permalink: /blog/
 month: February
 ---
+# 6 February
+## Tea sample
+
+I ordered my usual sencha and assam tea from Asha, and they also sent me a sample of a tea called Golden Lily!
+
+![Golden Lily 1](/images/blog_february/golden_lily1.jpg)
+![Golden Lily 2](/images/blog_february/golden_lily2.jpg)
+
+I doubt this is actually the case, but I want to believe that they noticed I always order the same two teas, so they sent me another tea to broaden my horizons.
+
+Anyway, according to the package: "Golden Lily is a tea cultivar whose soft, creamy mouthfeel and flavor has earned it the name of 'milk oolong.'"
+
+Does it actually have a creamy mouthfeel? I wonder. I tried it out, following their instructions, but it came out pretty light, and tasted fairly similar to water. I think next time I have to try to steep it more.
+
 # 5 February
 ## The number of emoji
 
