@@ -4,6 +4,21 @@ title: Blog
 permalink: /blog/
 month: February
 ---
+# 7 February
+## Asha's name
+
+For a while I've been wondering about the meaning of Asha's name.
+
+I was mentioned Asha to my coworker today, and she thought it was an Indian name (she's Indian herself). She said it means hope, and it's a kind of common, cliched name that non-Indians might choose if they want to sound Indian, but don't want to pick something that's too hard to pronounce in English.
+
+Could this be the meaning of Asha's name? I never thought of them as a primarily Indian tea place, but I guess they do have Indian tea there.
+
+Anyway, I went to the "About" section on Asha's website to check, and actually it says this:
+
+"'Asha', after all, is Taiwanese for 'someone that enjoys life', and our hope is that drinking Asha tea will remind you of the things you enjoy about life."
+
+I think that's nice! I drink a lot of tea by myself these days, but I remember that for me, the true spirit of tea is sharing it with someone. That's how I would like to enjoy life with tea.
+
 # 6 February
 ## Tea sample
 
