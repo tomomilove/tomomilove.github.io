@@ -4,6 +4,20 @@ title: Blog
 permalink: /blog/
 month: February
 ---
+# 8 February
+## New phone
+
+Received my new phone today! This one works!
+
+![Phone](/images/blog_february/phone.jpg)
+Yup... that's a phone.
+
+Set up took a long time, as it usually does. It copied over all my apps fine, and some of my settings, but I spend a lot of time tweaking things. One thing I do is manually replace all of my icons to something I like more, which takes quite a while.
+
+I can tell the phone is a more powerful and faster than my old phone in one particular way: It switches between keyboards (Japanese / English) faster.
+
+The camera is supposedly better too, but I haven't tested it yet. You can be the judge as I post pictures on the blog!
+
 # 7 February
 ## Asha's name
 
