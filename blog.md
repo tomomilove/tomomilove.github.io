@@ -33,7 +33,7 @@ After too long, I gather my courage, approach the door, and peer inside. I see a
 
 Suddenly a rush of wind blows through the open door, carrying leaves and dirt inside. They land on the pristine floor, probably the first mess on it in quite some time. My first reaction is to want to clean them up, but then I think maybe it's better to leave it, and let this bizarre room return to nature.
 
-There doesn't seem to be anything left for me to do here. I take one last look around the room, taking it all in. I grab a curious looking painting of a pond off the wall as a souvenir, then head back to my village.
+There doesn't seem to be anything left for me to do here. I take one last look around the room, taking it all in. I grab a curious looking painting of a pond off the wall for a souvenir, then head back to my village.
 
 # 8 February
 ## New phone
