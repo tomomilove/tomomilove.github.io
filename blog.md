@@ -4,6 +4,37 @@ title: Blog
 permalink: /blog/
 month: February
 ---
+# 9 February
+## The Door
+
+![The Door](/images/blog_february/the_door.jpg)
+
+There is a strange door deep in the forest about one hour's walk away from my home village. It's not attached to any building; rather, it is built directly into a mountainside. No one in my village knows who built it, the last time it was opened, or what is on the other side. Not even the village elder has any idea why it's there -- none of our local legends say anything about it. It's just there.
+
+This door is completely unlike any of the doors in my village. It's painted a brilliant green color and adorned with a great golden insignia; a stark contrast from the shoddy, plain wooden doors of my village. Stranger still is the door's remarkable craftmanship -- the door is completely straight and flat, and so tightly fit into its frame that nothing can be seen through its cracks.
+
+Kids from the village sometimes go to the door to play, just because it's so weird, and stuff like that is interesting to kids. I never went with them when I was younger. But today, as usual, I don't have anything in particular to do, so I decide I might as well go take a walk to the door. There is a path to it, but it's overgrown with greenery that gets thicker and thicker as I advance along it. About halfway there, I have to start hacking away at the plants to keep going -- I anticipated this, and brought my farming hoe.
+
+Finally, I hack aside one last mass of tree branches and emerge into a small clearing, about 10 feet in diameter. The door stands before me, its green and gold colors gleaming. I stand, staring at the door for a little while, inside thinking that I _have_ to get this door open.
+
+I approach the door. There's a keyhole, but I don't have a key. I pull on the handle then push on it, just to check if it opens anyway, but it doesn't. I kick the door, but it doesn't open, and shows no sign of weakness. I strike at it with my hoe, but can't even make a scratch. The door looks like it is made of wood, and I have brought flint. I try to light it on fire, but no matter how I try, it doesn't catch. I try digging away at the ground beneath the door, scraping away the flowers that have grown there. But any dirt I shovel away is immediately filled in by more dirt. After an hour of digging, I seem to be making no progress whatsoever.
+
+Finally, exhausted, I sit down on the ground to rest and think a bit. I stare at the door, grimacing, like I'm in a staring contest with it or something. And the door just stares back at me, unflinchingly.
+
+Why do I even want to get this stupid door open? It's not curiosity. I don't really need to know what's on the other side. It's just that... well, it would be an accomplishment. It's something know one else has done, and it's something I could do, you know? But I can't even do something so simple as open a door.
+
+Anyway, I'm not about to give up so easily. I stand up and look around the area, considering my options. There doesn't seem to be anything I could use to force the door open -- all that's here is plants. Then again, plants can be pretty strong. Growing plant roots are strong enough to break rocks, and I've even seen them upend houses in the village. Maybe if I strategically plant some seeds right at the base of the door, then water them every day, the growing plants will be strong enough to dislodge the door. Seeing no other options, I decide to give it a go.
+
+The next day I return with seeds from a sequoia tree, and plant them at the base of the door. I return each day to take care of them, and to try to guide their growth in a direction to move the door. Days turn into weeks, weeks turn into months, months turn into years as I take care of my trees. Even the village people have started to take interest, and sometimes they come with me to help.
+
+Slowly, slowly over the days I can the plants cause the door's perfect face start to bend. Then micro-cracks start appearing in it. Then one day I return to find the entire thing busted open. I stand frozen looking at the door for a moment, my legs shaking with anticipation, not even sure if I want to see what's inside. 
+
+After too long, I gather my courage, approach the door, and peer inside. I see a room, neatly decorated with furniture -- couches and tables and chairs and paintings and little sculptures -- with similar bright colors and golden accents in the style of the door itself. I step inside. The room is extremely clean and shows no sign of wear, yet it also shows no signs of being lived in recently. I search around for a bit, but can find no writing or any sign of who the owner of the room might have been. Are they long dead, I wonder? I am sure the door has not been opened in many years...
+
+Suddenly a rush of wind blows through the open door, carrying leaves and dirt inside. They land on the pristine floor, probably the first mess on it in quite some time. My first reaction is to want to clean them up, but then I think maybe it's better to leave it, and let this bizarre room return to nature.
+
+There doesn't seem to be anything left for me to do here. I take one last look around the room, taking it all in. I grab a curious looking painting of a pond off the wall as a souvenir, then head back to my village.
+
 # 8 February
 ## New phone
 
