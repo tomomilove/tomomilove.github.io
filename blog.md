@@ -4,6 +4,24 @@ title: Blog
 permalink: /blog/
 month: February
 ---
+# 11 February
+## Mentoring a new hire
+
+There's a new engineer joining my team at work, and I was assigned to be their mentor. I went to a short class about how to mentor effectively.
+
+We were recommended to be aware of "imposter syndrome". It's a feeling that you're not as good as the other people around you. How do you help someone through this? I think the first thing is letting them know that it's something everyone goes through. I still have some amount of imposter syndrome, even 3+ years in. I think really, what you need to do, is keep telling yourself that it's not true. Even if you feel it to be true in heart, keep telling yourself with your brain that it's not true. Other people may seem more impressive than you, but you need to realize there is a lot of bias that goes into that perception. You only see the prepared face others show, whereas you can see all of your own internal flaws. And also, you tend to be more critical of yourself than others, maybe out politeness and distance towards them, and insecurity towards yourself.
+
+Aside from that, I'm supposed to help my mentee get acquainted with our company culture. How there are flexible working hours, how to invite people to meetings, how to get answers to questions you have, how to set up your email, and more.
+
+# 10 February
+## Ice cream masters!
+
+Today was a special day because we finished the Saddleback Brownie from Fenton's together! I really enjoyed it!
+
+I have to wonder what was different this time versus previous times. I didn't even feel bad after finishing it! Maybe it was because we ate some lunch, but not too much?
+
+That night was a little rough for me though. I didn't want to eat dinner, but I didn't quite feel healthy either. Maybe it would have been good to eat a small amount of vegetables...
+
 # 9 February
 ## The Door
 
