@@ -4,6 +4,17 @@ title: Blog
 permalink: /blog/
 month: February
 ---
+# 12 February
+## Bus chat
+
+Yesterday I was standing at the bus stop, and my regular bus showed up, but I didn't get on. I was waiting for a different bus to go somewhere else instead.
+
+However, some of the riders on my regular bus noticed me standing there and were worried when I didn't get on, and thought I might have accidentally missed the bus. I'm surprised that I am that memorable to people -- I don't talk to anyone on the bus or anything. But today, one of the bus riders approached me, introduced himself, and told me this story.
+
+We got to talking a bit on the bus. He is a UX (user experience) designer, just out of school, and has been here for a few months. Apparently, he is one of the first people to graduate specifically with a degree in UX. It's such a huge need in the industry now, so it's no surprise to me that degrees are being created for it.
+
+If you don't know what UX is, it's the design everything that a user directly interacts with on a website or app. What the page layout looks like, what the colors are, where the buttons and forms are, what the text says, and more. It's a completely separate field from software engineering. It requires knowledge of design, and there is a heavy research component as well, as you have to do studies to figure out what users like.
+
 # 11 February
 ## Mentoring a new hire
 
