@@ -4,6 +4,36 @@ title: Blog
 permalink: /blog/
 month: February
 ---
+# 14 February
+## Happy Valentine's Day!
+
+I'm so happy we are each other's valentine!
+
+![Dandelion necklace](/images/blog_february/dandelion_necklace.jpg)
+
+I got you this necklace with a piece of a dandelion in it. I made a wish on it for you to have a wonderful life. I think the dandelion is strong enough that you could make your own wish on it, too!
+
+My goal when looking for a present was to find you something pretty, like a necklace of some sort. In the end, this necklace isn't exactly that. It's more weird and interesting than beautiful, I guess. But that leaves open the opportunity to find you something else really stunning in the future!
+
+# 13 February
+## Phone case
+
+I got a case for my new phone, now I can relax a bit while holding it:
+
+![Phone case 1](/images/blog_february/phone_case1.jpg)
+![Phone case 2](/images/blog_february/phone_case2.jpg)
+
+I wanted to pick one that was protective but not too bulky, and has a nice look to it. I quite like this one! It has a nice grippy texture, and and adds a nice heft to the phone. Unfortunately, you can never really tell how good a case is until the critical moment when you actually drop your phone...
+
+By the way, while looking for a phone case, I came across something called a "PopSocket"
+
+![PopSocket](https://www.imore.com/sites/imore.com/files/styles/xlarge/public/field/image/2017/08/popsocket-rose-gold-01.png?itok=sXuLc3P4)
+(Not my photo)
+
+I'd actually seen one of these in real life before, but didn't know what it was. Basically, it's a little knob thing you attach to your phone to help you hold it.
+
+It might sound dumb at first, but thinking about it more, I can totally see how this would be useful. It should give you more freedom to hold your phone in different positions without being worried about dropping it.
+
 # 12 February
 ## Bus chat
 
