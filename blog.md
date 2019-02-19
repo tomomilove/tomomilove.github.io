@@ -4,6 +4,29 @@ title: Blog
 permalink: /blog/
 month: February
 ---
+# 16 February
+## Green path
+
+We went on a nice rainy day hike today, at Monte Bello. I think it's really fun to be out in the rain.
+
+![Green path 1](/images/blog_february/green_path1.jpg)
+![Green path 2](/images/blog_february/green_path2.jpg)
+
+I love how green everything has become, since we've had several days of rain. The trees are just covered in green... Is it moss? It's so thick it looks like leaves, I wonder if it's the same thing as moss. There are so many plants in these pictures, I wish I knew what they all were.
+
+# 15 February
+## Ramen Nagi
+
+Today we went to try Ramen Nagi!
+
+![Ramen Nagi](/images/blog_february/ramen_nagi.jpg)
+
+Actually, someone at work had recommended this to me as a play to try. I wanted to tell you about it, but I had forgotten its name! When you mentioned it to me, though, I remembered.
+
+So how was the ramen? I'm not the biggest fan of ramen, but I was almost able to finish my bowl! So that means I thought it was pretty good! Ultimately, though, the heaviness of the broth was too strong for me to finish. They offer a lot of customization options, so maybe next time I will try to lower the oil?
+
+My favorite part of the ramen here was the thin noodles. I really enjoyed them!
+
 # 14 February
 ## Happy Valentine's Day!
 
