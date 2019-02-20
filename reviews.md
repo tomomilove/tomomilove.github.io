@@ -7,6 +7,18 @@ permalink: /reviews/
 
 Here I write reviews on movies, etc. that we've seen together!
 
+## Isle of Dogs
+
+![Isle of Dogs](https://m.media-amazon.com/images/M/MV5BMTYyOTUwNjAxM15BMl5BanBnXkFtZTgwODcyMzE0NDM@._V1_.jpg)
+
+_Isle of Dogs_ is a bizarre dystopian film about a world in which dogs are banished to an island to die.
+
+What struck me most about this film is how much it's not really what you would expect it to be. It's an animated film about dogs, yet the dogs are not cute. They are ugly and often quite beaten up. It's a primarily American and German made film, yet the story takes place in Japan, and the film deliberately tries to highlight that. The film seems like maybe a comedy or an adventure film, and it portrays some pretty raw and shocking scenarios, yet it doesn't drum up excitement and overreactions as much as other movies would. Characters tend to react quietly, and events happen in matter-of-fact ways.
+
+I can't help but appreciate the craftsmanship that went into this film. According to [Wikipedia](https://en.wikipedia.org/wiki/Isle_of_Dogs_(film)), they made more than 3,000 puppets and 20,000 faces for the film. I really have to wonder why they chose to do something so work intensive, rather than go with something like computer animation, but I can appreciate the effort that went into it.
+
+I think that about sums up my overall feelings on the film. There are a lot of things in it I don't understand why they did, but it results in such a unique film unlike any I have watched that I have to rate it 5/5.
+
 ## Crazy Rich Asians
 
 Beware this review contains spoilers for the film!

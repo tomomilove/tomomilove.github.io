@@ -4,6 +4,10 @@ title: Blog
 permalink: /blog/
 month: February
 ---
+# 18 February
+## Isle of Dogs REVIEW
+
+Check it out on the [reviews page](/reviews)!
 
 # 17 February
 ## Growing croissants
