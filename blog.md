@@ -4,6 +4,21 @@ title: Blog
 permalink: /blog/
 month: February
 ---
+
+# 17 February
+## Growing croissants
+
+We tried out some of the frozen croissants from Milk Pail!
+
+![Croissants 1](/images/blog_february/croissants1.jpg)
+
+They grew a lot overnight! Too bad I don't have a before picture...
+
+
+![Croissants 2](/images/blog_february/croissants2.jpg)
+
+And they baked beautifully! I'm not usually a big fan of croissants, but I loved these. They have such a nice, buttery flavor. Maybe I had only had low quality croissants in the past. Now I will eat no other croissants than these!
+
 # 16 February
 ## Green path
 
