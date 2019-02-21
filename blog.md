@@ -4,6 +4,24 @@ title: Blog
 permalink: /blog/
 month: February
 ---
+# 20 February
+## Doctor's appointment again
+
+I went looking for another doctor's appointment today. I had a difficult time. I wasn't able to log-in to the online system I used last time, because I couldn't figure out my login credentials. That system didn't even work last time, because it let me make a bad appointment, so I decided to give up on it.
+
+Then I tried other ways to find a doctor. It's hard to match all the information between reading reviews, checking if the doctor is covered by insurance, checking if the doctor is open to new patients, and actually making an appointment. It seems like all of these components are managed by multiple different sites, and there is no one place to do everything. And it seems like every individual office has its own way of booking appointments.
+
+In the end, I figured out there are onsite doctors at my work, and I was able to book an appointment with one of them. I'm not sure if that is a good idea. Would the quality of these doctors be worse, or better...? I have no idea. But it was really easy to book an appointment, and it's convenient, so I'll take it.
+
+# 19 February
+## Feathers everywhere!
+
+My down jacket has really started to go. I'll look down, and my leg will be covered in feathers. I'll clean them up, but the next time I look there will be even more.
+
+![Jacket feathers](/images/blog_february/jacket_feathers.jpg)
+
+It seems like my jacket has several holes in it now. I noticed one was particularly big, so I did what any sane person would do... and taped it. Not a pretty solution, but it has dramatically cut down on the leaking.
+
 # 18 February
 ## Isle of Dogs REVIEW
 
