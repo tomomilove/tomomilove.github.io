@@ -4,6 +4,23 @@ title: Blog
 permalink: /blog/
 month: February
 ---
+# 21 February
+## Weird games
+
+I found this strange domino set at my work.
+
+![Weird games 1](/images/blog_february/weird_games1.jpg)
+
+They are a pink marble color with unusual dot designs. They're in a box that makes them look a trippy blue color when the lid is closed:
+
+![Weird games 2](/images/blog_february/weird_games2.jpg)
+
+Also, next to this was a wooden tic-tac-toe board with marble pieces:
+
+![Weird games 3](/images/blog_february/weird_games3.jpg)
+
+I kind of like the design of these games, but I wonder if anyone ever plays with them. It's hard to imagine someone taking time out of their day to play tic-tac-toe on a fancy board. I think they are meant to be more for decoration than actual use, which must be disappointing for the games.
+
 # 20 February
 ## Doctor's appointment again
 
