@@ -4,6 +4,17 @@ title: Blog
 permalink: /blog/
 month: February
 ---
+# 22 February
+## Green tea advocacy
+
+I have a coworker who said they want to get into green tea, but they don't like it. They only like black tea.
+
+I thought maybe they just hadn't had the right green tea. So the other day, I brought my Asha green tea and made it for them to try. Unfortunately, the water at our work was too hot, and the tea came out bitter, and my coworker didn't like it.
+
+I couldn't let that stand, so I decided I had to make it correctly. The only way to do it is to let the hot water cool to the right temperature before adding the tea. I don't have a thermometer, so I kind of have to guess the right amount of time. I watch the steam coming off the water to help. I've been practicing getting the temperature right over the past few days, and I've been able to make the tea well.
+
+Anyway, today I made it for my coworker again, this time with the correct temperature water. I thought it tasted good this time, but they still didn't like it. I guess my green tea advocacy has ended in failure.
+
 # 21 February
 ## Weird games
 
