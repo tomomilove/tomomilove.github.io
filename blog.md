@@ -4,6 +4,30 @@ title: Blog
 permalink: /blog/
 month: February
 ---
+# 24 February
+## Taxes
+
+Taxes are filed and accepted!
+
+No refund for me -- I actually had to pay quite a lot. I don't really get how this works. Why do some people get refunds and others not? I understand it has to do with overpaying or underpaying taxes throughout the year (maybe?), but I'm not sure why that would or wouldn't happen. I don't recall making any choices related to that.
+
+I used TurboTax to file, but I still found it to be quite a stressful process. So many things to check, so many facts I'm not sure of, so many terms that I don't understand. And there is the threat that if you mess up, there will be consequences.
+
+It's been a rough past two days. Both days I kind of felt like I was being beaten up on. I'm glad to put it behind me, though!
+
+# 23 February
+## Dentist appointment
+
+I went to the dentist today, the first time in years.
+
+My experience with the staff was quite good. They were really friendly, prompt, and helpful for me. I showed up early and they offered me tea. And they were able to see me early as well.
+
+As for the actual cleaning process, it was quite painful. I'm not sure if it was the hygenist being extra rough, or if it was a consequence of me not going to see the dentist in a while and not cleaning my teeth very well.
+
+The dentist said me teeth were overall healthy, although I do need to floss or it could lead to problems. So yeah, I will do that now.
+
+At the office I was able to make my next appointment in 6 months. My goal is to have much cleaner teeth next time!
+
 # 22 February
 ## Green tea advocacy
 
