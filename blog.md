@@ -4,6 +4,17 @@ title: Blog
 permalink: /blog/
 month: February
 ---
+# 25 February
+## Doctor's appointment
+
+I had my doctor's appointment today. I learned the technical term is 'physical'.
+
+The doctor made some checks on me, but mostly spent a long time questioning me. Asking me about my sleeping, eating, and exercising habits. I realize I haven't been super healthy. I feel like such a child: not sleeping enough, eating too many sweets and unhealthy food, and not worrying about the consequences. And this doctor is like my mom, here to remind me to have restraint...
+
+The doctor also gave me a tetanus shot, told me to get a vision exam, and said I should return after fasting to get lab tests done. I looked into it but I think I won't get a vision exam because I don't have vision insurance. I'll have to return for the lab tests though.
+
+Anyway, this completes 2/3 of my new year's resolutions! It took me longer than I hoped to resolve them, but I learned a lot along the way.
+
 # 24 February
 ## Taxes
 
