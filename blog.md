@@ -4,6 +4,17 @@ title: Blog
 permalink: /blog/
 month: February
 ---
+# 26 February
+## Pajama shirt
+
+My current pajama shirt is getting warn, and losing buttons, so I decided to get a new one.
+
+![Pajama shirt](/images/blog_february/pajama_shirt.jpg)
+
+Yup... it looks pretty similar to my old one. It's a lot softer though, at least for now. I'm just hoping it holds up in the wash.
+
+One thing I didn't like about my old pajama shirt is that it was always cold when I first put it on. This one isn't like that so far. I wonder what is it about fabric that makes it feel that way or not? Is it the smoothness, due to the weave? Or maybe it's due to being dirty, having too much skin oil on it?
+
 # 25 February
 ## Doctor's appointment
 
