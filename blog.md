@@ -4,6 +4,21 @@ title: Blog
 permalink: /blog/
 month: February
 ---
+# 27 February
+## Next Pokemon games!
+
+They announced the next Pokemon games today. The version names are "Sword" and "Shield", and they're releasing this year. They didn't show much from the game, but they did show the starters and a few environments. From what people can tell, the region is based on the UK.
+
+![Pokemon Sword and Shield starters](/images/blog_february/pokemon_swsh_starters.jpg)
+
+![Pokemon Sword and Shield 1](/images/blog_february/pokemon_swsh1.png)
+![Pokemon Sword and Shield 2](/images/blog_february/pokemon_swsh2.png)
+![Pokemon Sword and Shield 3](/images/blog_february/pokemon_swsh3.png)
+
+I think the games look good! I'll try playing in Japanese when they come out, should be relatively easy for me now. And I should be finished with 世界樹の迷宮 by then... maybe, it's a long game. I definitely won't be finished with writing my story by then though, progress on that has been slow.
+
+Which starter Pokemon would you pick, Tomomi? I'm currently undecided. I think they all look cute, but I will need to see their final evolutions first. I'm currently leaning towards the fire one though, it looks so fun and huggable.
+
 # 26 February
 ## Pajama shirt
 
