@@ -4,6 +4,15 @@ title: Blog
 permalink: /blog/
 month: February
 ---
+# 28 February
+## Bubble People can
+
+For no particular reason, I decided to go to Boba Guys and try the canned milk tea. It's pretty easy to get to -- within walking distance of the Palo Alto train station!
+
+![Bubble People can](/images/blog_february/bubble_people_can.jpg)
+
+To be honest, I wasn't too impressed by it. I think I like the Royal Milk Tea can better. This one seemed a little flavorless and a little bitter -- maybe because less sugar? On the one hand that makes it healthier, on the other hand I think it makes it not worth drinking. Especially with its relatively high price.
+
 # 27 February
 ## Next Pokemon games!
 
