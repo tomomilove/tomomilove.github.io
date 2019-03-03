@@ -801,3 +801,44 @@ Lee: I know mint grass. I used it to make medicine once, on a previous adventure
 John: Oh I remember it now!
 
 Alice: Thank you Lee, helpful as always. Everyone, let’s keep an eye out for it.
+
+## Chapter 29
+## Tanaka’s old sword
+
+As we travel through the forest, we encounter monsters that we have to fight. After a fight with a particularly strong owl monster, Tanaka pulls me aside.
+
+Tanaka: Alice, a word!
+
+Alice: Yes?
+
+Tanaka: About your sword…
+
+The sword I am using used to belong to Tanaka, long ago, back when she was a hero. She gave it to me after I succeeded her as our town’s hero.
+
+Tanaka: Alice, you are very skilled with that sword. However, you haven’t been using that sword’s full power, you know.
+
+Alice: Full power? What do you mean?
+
+Tanaka: That sword is magic. It can conjure fire, ice, and electricity. You should try it.
+
+Alice: Uh, how do I do that?
+
+Tanaka: It’s a secret.
+
+Alice: Uh, a secret? You’re not going to tell me?
+
+Tanaka: Actually, I just forgot. Maybe try concentrating really hard or something?
+
+Alice: You forgot…?
+
+Anyway, I give it my best try, focusing my thoughts onto the sword. Suddenly, ice bursts from the sword in a small explosion.
+
+Tanaka: Woohoo, nice job Alice!
+
+Alice: I can’t seem to make fire or electricity. Only ice…
+
+Tanaka: Maybe because your heart is just ice?
+
+Alice: H-hey!
+
+Tanaka: Anyway, it’s a good start for now! I hope the ice power serves you well!
