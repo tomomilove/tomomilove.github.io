@@ -784,3 +784,20 @@ Lee: It’s not like that. I did like her. But it was an accident, and I wasn’
 John: You’re crazy, man. If I were you, I totally would have married her.
 
 Lee: Really now…?
+
+## Chapter 28
+## Collecting
+
+We return to our Verdant Forest exploration. I remember that Napier, the merchant from town, asked me to look for a plant called mint grass.
+
+Alice: John, have you heard of mint grass? You took a botany class, right?
+
+John: Sounds familiar, but I don’t remember it!
+
+Alice: What good is this botany class…?
+
+Lee: I know mint grass. I used it to make medicine once, on a previous adventure. It has thin, light blue leaves, a small white flowers.
+
+John: Oh I remember it now!
+
+Alice: Thank you Lee, helpful as always. Everyone, let’s keep an eye out for it.
