@@ -4,6 +4,24 @@ title: Blog
 permalink: /blog/
 month: March
 ---
+# 5 March
+## Double mentorship
+
+Earlier I mentioned I was assigned to mentor a new engineer on the team. I have begun by giving a series of small talks going over our team's major systems.
+
+Then, another new engineer on our team joined days later. I invited them to join my talks, so now I am teaching the two of them.
+
+I enjoy it a lot. It reminds me of my days at school, lecturing. Except it's much nicer to teach such a small number of people. It reminds me, I used to want to be a teacher. Maybe someday...
+
+# 4 March
+## Council from friends
+
+I had lunch with two of my old friends from college that work at the same company as me. They seem to be doing well. One of them, who hated their team for the longest time, transferred to another team and now likes it a lot. They now work on self-driving cars, at the building near where I live.
+
+At lunch, they spent a long time trying to comfort and encourage me, because now the one who has been doing the worst at work. I've been here the longest, but I still haven't been promoted yet, or anything...
+
+Struggling with promotion is something that increasingly weighs on my mind, as more time passes. It's hard to tell how much to blame myself, vs my team, vs my manager. Would I be better off switching teams? Or is it really up to me to try harder?
+
 # 3 March
 ## Chapter 29
 
