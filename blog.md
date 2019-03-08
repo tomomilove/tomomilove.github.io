@@ -4,6 +4,29 @@ title: Blog
 permalink: /blog/
 month: March
 ---
+# 6 March
+## Email authentication
+
+When you send an email to someone, it's possible to write whatever you want in the sender address.
+
+This poses a problem: When you receive an email, how can you tell that it's actually from who it says it's from?
+
+Today, most email service providers implement some form of _authentication_, a method for determining whether the email sender is who they actually claim to be. I'll describe one such method, which is known as _SPF_ (Sender Policy Framework).
+
+Imagine a scenario where alice@hotmail.com sends an email to tanaka@gmail.com. In this process, a computer owned by hotmail.com (Microsoft) communicates with a computer owned by gmail.com (Google).
+
+When Google receives this message, it sees that the from address claims to be alice@hotmail.com. In order to check whether this is true, it must determine whether the computer it is communicating with is actually owned by Microsoft. If it is actually Microsoft, then Google will trust Microsoft that the message is really sent by alice.
+
+So, how can Google know for sure whether the computer is actually owned by Microsoft?
+
+There is only one piece of information that Google knows for sure about the computer it is communicating with, and that is its _IP address_. An IP address describes the geographical location of a computer in the real world. Google must know the IP address of the computer because it is exchanging messages it, and Google has to know what physical location in the world to send the messages.
+
+Since Google knows the IP address, all it needs to check is whether this IP address is owned by Microsoft or not.
+
+In order to do that, Google does a _DNS lookup_ on "hotmail.com". The DNS (Domain Name System) is a globally available database of information about internet domains. Domain owners can register their domain here along with various information about the domain. In particular, Microsoft has registered an entry for "hotmail.com", and in that entry, they've included a list of IP addresses they own. All Google needs to do is check whether the IP address of the computer they are communicating with is in that list. This allows them to conclude the computer is owned by Microsoft.
+
+And that is how the email authentication method known as SPF works.
+
 # 5 March
 ## Double mentorship
 
