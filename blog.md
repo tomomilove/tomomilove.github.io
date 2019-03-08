@@ -19,7 +19,7 @@ When Google receives this message, it sees that the from address claims to be al
 
 So, how can Google know for sure whether the computer is actually owned by Microsoft?
 
-There is only one piece of information that Google knows for sure about the computer it is communicating with, and that is its _IP address_. An IP address describes the geographical location of a computer in the real world. Google must know the IP address of the computer because it is exchanging messages it, and Google has to know what physical location in the world to send the messages.
+There is only one piece of information that Google knows for sure about the computer it is communicating with, and that is its _IP address_. An IP address describes the geographical location of a computer in the real world. Google must know the IP address of the computer because it is exchanging messages with it, and Google has to know where in the real world to send the messages.
 
 Since Google knows the IP address, all it needs to check is whether this IP address is owned by Microsoft or not.
 
