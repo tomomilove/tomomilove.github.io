@@ -4,6 +4,35 @@ title: Blog
 permalink: /blog/
 month: March
 ---
+# 8 March
+## Party day
+
+Today was kind of a party day at work. My team manager planned a special lunch for us with catering, for no real reason. It was tacos, just like Mamacitas (but not quite as good). We even got churros and horchata!
+
+![Tacos](/images/blog_march/tacos.jpg)
+
+After that, we had a fun event. An instructor came and we built robots in teams and then battled them.
+
+![Robot 1](/images/blog_march/robot1.jpg)
+
+Here they are battling... The goal is to pop the other's balloon with a needle on your arm!
+![Robots](/images/blog_march/robots.gif)
+
+All in all, it was a pretty fun event!
+
+# 7 March
+## Losing things
+
+It's been a bad year for losing things. First it was my wireless earbuds, then my hat, then my cup and teapot...
+
+Another thing I have been slowly losing over time is the rubber tips that go on my earbuds. So far, whenever I have lost one, I have been able to replace it with tips taken from my old earbuds. However, I eventually ran out of those...
+
+Then I remembered, when I bought my earbuds long ago, it came with this huge array of earbud tips!
+
+![Earbud array](/images/blog_march/earbud_array.jpg)
+
+I think it's funny to see them all lined up like this!
+
 # 6 March
 ## Email authentication
 
