@@ -4,6 +4,27 @@ title: Blog
 permalink: /blog/
 month: March
 ---
+# 9 March
+## Downtown day
+
+My friend came to visit today! He said he wanted to try dim sum, so we went to the one downtown.
+
+![Dim sum](/images/blog_march/dim_sum.jpg)
+
+This place was pretty nice! It was a bit cleaner and fancier than I am used to from dim sum places. A little more expensive, too. I enjoyed the food quite a bit, but then again, I always like dim sum!
+
+Afterwards, we went to the library to work on the puzzle a little bit. We made some progress!
+
+![Puzzle progress](/images/blog_march/puzzle_progress.jpg)
+
+Here's what the final picture would have looked like:
+
+![Puzzle picture](/images/blog_march/puzzle_picture.jpg)
+
+As you can see, it's a big but easy puzzle. It has lots of small details and distinct areas, making it quick to tell where any piece belongs! It also has a lot of words in it, which allows you to easily figure out the orientation of pieces.
+
+I wan to go back and finish this puzzle sometime! I wonder if it'll still be there...
+
 # 8 March
 ## Party day
 
