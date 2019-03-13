@@ -4,6 +4,20 @@ title: Blog
 permalink: /blog/
 month: March
 ---
+# 11 March
+## Daylight savings
+
+Thanks for telling me about daylight savings yesterday! Otherwise I don't think I would have noticed yesterday.
+
+I would definitely have noticed today though! It was sunny as I went home from work. And there weren't even any clouds. It's such a simple thing, but it really does make me happier!
+
+If it were up to me, we'd have daylight savings time year-round. The only arguments I've heard against it is that it would be dark in the morning when going to work, but that's only if you go to work as early as 7am. I get into work later, so daylight savings would be better for me in any case!
+
+# 10 March
+## Chapter 30
+
+Chapter 30 of the story is available! [Japanese version](/story#３０章) and [English version](/english_story#chapter-30).
+
 # 9 March
 ## Downtown day
 

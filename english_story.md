@@ -842,3 +842,94 @@ Tanaka: Maybe because your heart is just ice?
 Alice: H-hey!
 
 Tanaka: Anyway, it’s a good start for now! I hope the ice power serves you well!
+
+## Chapter 30
+## FOE
+
+We continue our travels through the forest, going deeper into the labyrinth. It’s getting late in the day, and we’ve been walking in silence for a while. Suddenly, I notice something.
+
+Alice: Where is John?
+
+Tanaka: I haven’t seen him in a while, that’s weird. 
+
+Lee: Sorry, I didn’t notice either…
+
+Yamamoto: Me either…
+
+Alice: Hmm… Did that idiot wander off on his own? You all wait here! I’ll go look for him.
+
+I run off into the forest by myself before anyone has a chance to say anything.
+
+Tracking John turns out to be easy. He has left a trail through the grass that is clear to follow. I walk along the trail, then gradually turn to running.
+
+Soon enough, down a narrow corridor of trees, I spot him. He’s standing, frozen in place, a huge monster looming in front of him. It looks like some kind of gigantic bear, but with massive claws.
+
+Alice: John!!
+
+John: …
+
+John doesn’t turn back to face me. Instead, his eyes remain fixed on the monster.
+
+Alice: What is that thing…?
+
+John: Seems to be a FOE… Never thought I’d actually meet one…
+
+Alice: A FOE?!
+
+FOE is the name for extremely powerful monsters that roam the labyrinths. Far too strong for most adventurers to fight, it is recommended that you evade or run from them.
+
+The FOE advances on John, raising its claws to strike.
+
+Alice: Run away!
+
+John: …
+
+Alice: What the hell, John!!
+
+I run up and stand in front of John, between him and the FOE. As it strikes with its claws, I raise my shield to defend us. My shield shatters on impact, but manages to deflect the blow and momentarily knock the FOE off balance.
+
+Alice: Come on, let’s run!!
+
+John: …
+
+I grab John’s arm and pull. He seems to snap to his senses and we start running. The FOE charges after us, closely following.
+
+Alice: Damn it, I’m not sure if we can outrun it…
+
+They turn a corner, and another corner. The FOE keeps following us.
+
+Alice: And we don’t have the map either. I hope we don’t hit a dead-end…
+
+John: There, off to the side! A door! FOE aren’t able to get through them!
+
+Alice: Wha-, seriously?
+
+We turn off the path and head straight for the door. We slip through and shut it behind us. The FOE crashes into the door, but cannot get through. We stay silent on the other side of the door. After a moment, the FOE gives up and wanders away.
+
+Alice: What were you thinking, running off on your own?? 
+
+John won’t look me in the eyes.
+
+John: …
+
+Alice: Answer me!
+
+John: …
+
+Alice: Be serious! You know it’s dangerous to travel the labyrinth alone! That’s why we travel in a guild.
+
+A hint of a smile appears on John’s face.
+
+John:...Then where are the others? Why’d you come after me by yourself?
+
+Alice: That’s all you have to say? You’re talking back to me, after I saved you? Unbelievable.
+
+John: …
+
+Alice: Whatever. Let’s go back to the others.
+
+John: Wait a sec, on the ground…
+
+I look down and see a kind of grass with light blue leaves.
+
+Alice: It’s mint grass, huh? Let’s collect some then, and head back.
