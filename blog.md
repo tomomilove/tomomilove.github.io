@@ -4,6 +4,11 @@ title: Blog
 permalink: /blog/
 month: March
 ---
+# 13 March
+## Chapter 32
+
+Two chapters in a row! Chapter 32 of the story is now available! [Japanese version](/story#３２章) and [English version](/english_story#chapter-32).
+
 # 12 March
 ## Chapter 31
 

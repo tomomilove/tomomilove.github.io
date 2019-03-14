@@ -959,4 +959,21 @@ Alice: I’m a hero. My job is to protect people. If something is terrorizing th
 
 Persephone: Very well then. I grant you permission. Be careful, though. If it’s too dangerous, come back.
 
+## Chapter 32
+## Delivery to Napier
 
+Before we head off to fight the bear king, I stop by Napier’s shop to deliver the mint grass we collected.
+
+Alice: Hello, Napier. I brought the mint grass you asked us to collect.
+
+Napier: Oh you did? Thank you. This will help the shop a lot. Here’s a reward for your troubles.
+
+Napier gives me 10000 yen.
+
+Napier: What was the name of your guild, again?
+
+Alice: We’re Kowagarijanai! Happy to be of service!
+
+Napier: Kowagarijanai, eh? If you’re a new guild, it helps to get your name out there, right? I’ll tell other people in Maginia about your help. Maybe you’ll receive more requests from people.
+
+Alice: Thank you very much!
