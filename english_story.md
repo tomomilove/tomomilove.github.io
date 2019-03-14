@@ -933,3 +933,30 @@ John: Wait a sec, on the ground…
 I look down and see a kind of grass with light blue leaves.
 
 Alice: It’s mint grass, huh? Let’s collect some then, and head back.
+
+## Chapter 31
+## The red-haired bear king
+
+dvancing into the depths of the Verdant Forest, we come to a large door. A guard from Maginia is stationed in front.
+
+Alice: Hello, what’s this?
+
+Guard: Beyond this door lies the dominion of the red-haired bear king. It is an extremely dangerous and wily beast that has killed many adventurers from Maginia. Some guards and other adventurers are inside, fighting it right now.
+
+Alice: We can help.
+
+Guard: I cannot allow you to enter without written permission from exploration headquarters. Go speak to Princess Persephone if you would like to help.
+
+We return to Maginia and meet with Persephone.
+
+Persephone: Ah, Kowagarijanai. I see you have made a lot of progress on your map. Thank you.
+
+Alice: We wanted to ask you for permission to fight the red-haired bear king.
+
+Persephone: Oh that? It is too dangerous for new adventurers. You are most useful making maps and collecting ingredients. This bear king has killed many adventurers and people from Maginia.
+
+Alice: I’m a hero. My job is to protect people. If something is terrorizing the people, I want to help.
+
+Persephone: Very well then. I grant you permission. Be careful, though. If it’s too dangerous, come back.
+
+

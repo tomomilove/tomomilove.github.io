@@ -4,6 +4,11 @@ title: Blog
 permalink: /blog/
 month: March
 ---
+# 12 March
+## Chapter 31
+
+That's right, soon after chapter 30, chapter 31 of the story is available! [Japanese version](/story#３１章) and [English version](/english_story#chapter-31).
+
 # 11 March
 ## Daylight savings
 
