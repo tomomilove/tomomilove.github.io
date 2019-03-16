@@ -4,6 +4,34 @@ title: Blog
 permalink: /blog/
 month: March
 ---
+# 15 March
+## The life of a plumber
+
+Today I got our kitchen sink faucet replaced!
+
+![New faucet](/images/blog_march/new_faucet.jpg)
+
+I had requested for it to be repaired, but the repiar person just brought a new faucet. I guess that works!
+
+While he was repairing the faucet, the repair person was telling me about his life. It was pretty interesting actually. After I told him I grew up in Davis, he told me that he owns farm landdown there. He doesn't work the farm himself, but he pays people to do it. He also owns a 100 year old Victorian home on that farmland, which he renovated himself. This was surprising to me because I didn't think people owned farmland and then spent their day job as a plumber.
+
+He also told me about other jobs he had. He used to work in the kitchen of a hospital. And he slowly rose through the ranks from dishwasher to the head chef. He said he worked that job for about 20 years, liked it, but then decided to do something different simply for the sake of something different. After that he went into gardening. Then he went back to school, studied gas and electric work, and from there got into repair jobs. He said he used to do repair jobs for a trailer park, but now he does them for my landlord. He says he finds plumbing to be fun.
+
+If you ask me, it sounds like a pretty rich life. I like the idea of doing a bunch of different jobs. I think I don't want to do one job forever.
+
+# 14 March
+## Staying home day
+
+I stayed home today to get our kitchen faucet repaired.
+
+![Old faucet](/images/blog_march/old_faucet.jpg)
+
+For a few days now it has been leaking constantly. I shouldn't have waited so long to get it repaired, since it's a lot of water wasted. But it's tough because I have to stay home from work to let the repair person in.
+
+Today turned out to be a good day to stay home though, because I was a little sick.
+
+Anyway, the repair person came... and then quickly realized he didn't have the right equipment, and told me he would have to come back tomorrow. So that's kind of a waste of a day off. However, he was very nice and told me he could come tomorrow after I got off work.
+
 # 13 March
 ## Chapter 32
 
