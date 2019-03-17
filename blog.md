@@ -4,6 +4,21 @@ title: Blog
 permalink: /blog/
 month: March
 ---
+# 16 March
+## More puzzles!
+
+I didn't have much to do today, so I walked to the library and worked on the puzzle!
+
+Here's the progress when I started:
+
+![Puzzle before](/images/blog_march/puzzle_before.jpg)
+
+And here's how far I got by the end:
+
+![Puzzle after](/images/blog_march/puzzle_after.jpg)
+
+Actually, it wasn't just me working on the puzzle! While I was working, some random person came and helped out for a bit. She was really fast at it, and did most of the sky area that I had been ignoring. I asked her how she was so good, she said she didn't really know, she just does it! Maybe it comes with practice.
+
 # 15 March
 ## The life of a plumber
 
