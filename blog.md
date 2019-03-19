@@ -4,6 +4,15 @@ title: Blog
 permalink: /blog/
 month: March
 ---
+# 17 March
+## Night walk
+
+We took a nice walk to downtown and back today. I know it was flat, but I hope it wasn't too boring for you!
+
+I really enjoy walking out at night, provided that the area doesn't feel dangerous and I'm not alone. I've liked being out in the night for as long as I can remember -- I remember when I was a kid, Halloween was always my favorite holiday because you got to walk around outside in the dark.
+
+I'm not sure why I like. It's just so beautiful, I guess. I like looking into the houses with lights on inside -- they seem so cozy. Also the stars are out!
+
 # 16 March
 ## More puzzles!
 
