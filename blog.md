@@ -4,6 +4,24 @@ title: Blog
 permalink: /blog/
 month: March
 ---
+# 18 March
+## Final Fantasy 9
+
+I recently got a new game to play, _Final Fantasy 9_. This is a pretty old game, originally released 19 years ago, just now re-released on Switch.
+
+This game has a pretty interesting history. It wasn't popular when it first released, probably because of its kind of silly and whimsical look. At the time, it was viewed as a big departure from the much more popular Final Fantasy 7, which had an edgier and cooler style. However, over time, 9's reputation has grown a lot.
+
+I've only played a short ways into Final Fantasy 9 so far, but right now I'm really impressed with the game's story. The characters are all so detailed, even the minor ones. And the world feels so rich and filled with stories. I'm not sure who the writer for this game was, but whoever they were, they clearly loved writing lots and lots of stories. 
+
+Here are some screenshots I took while playing the game. It uses an old graphical technique called "prerendered backgrounds". You can run around the world like it's 3D, but the environments are really just drawings. It's a cool look, you can see it lets them get pretty artsy with perspective and framing.
+
+![FF9 1](/images/blog_march/ff9-1.jpg)
+![FF9 2](/images/blog_march/ff9-2.jpg)
+![FF9 3](/images/blog_march/ff9-3.jpg)
+![FF9 4](/images/blog_march/ff9-4.jpg)
+![FF9 5](/images/blog_march/ff9-5.jpg)
+![FF9 6](/images/blog_march/ff9-6.jpg)
+
 # 17 March
 ## Night walk
 
