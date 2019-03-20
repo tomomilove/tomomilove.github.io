@@ -4,6 +4,25 @@ title: Blog
 permalink: /blog/
 month: March
 ---
+# 19 March
+## Remembering Milk Pail
+
+Today I learned the sad news that Milk Pail is closing soon. No specific date was given, but I would guess within the year.
+
+It's a real shame. There were all sorts of unique things you could get at Milk Pail that you couldn't get anywhere else. Here's what I remember...
+
+- Really good cheeses!
+- Ravioli made with the cheeses!
+- Turkish delights
+- Frozen croissants
+- Lady fingers (for tiramisu!)
+- Mango lassi
+- Small amounts of argula, spinach, and other vegetables
+
+And, maybe it sounds too sentimental, but I really have fond memories of going there with you.
+
+I'm really going to miss Milk Pail.
+
 # 18 March
 ## Final Fantasy 9
 
