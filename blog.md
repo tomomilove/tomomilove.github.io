@@ -4,6 +4,17 @@ title: Blog
 permalink: /blog/
 month: March
 ---
+# 20 March
+## Haiku
+
+I read [an article](https://www.tofugu.com/japan/haiku/) on Tofugu about haiku and decided to try writing one. Here I go!
+
+大海の岸では隠し子鼠か
+
+Do you remember when we went to that park by Alviso by the way, and saw the sign with the cute mouse on it? We kind of looked for it in the grass, but didn't see one... It would be nearly impossible to find one, I guess. I wrote this haiku imagining that we had actually spotted one, hiding among the grass!
+
+Writing this haiku was pretty difficult. It's hard to convey rich imagery with only 17 mora. I had to leave a lot up to implication, like the fact that the mouse would be hiding amongst leaves of grass.
+
 # 19 March
 ## Remembering Milk Pail
 
