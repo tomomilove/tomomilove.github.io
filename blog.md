@@ -4,6 +4,19 @@ title: Blog
 permalink: /blog/
 month: March
 ---
+# 21 March
+## Cookie days
+
+For the past 3 days, someone at work has been leaving out boxes of huge, delicious cookies and doughnuts.
+
+![Cookie](/images/blog_march/cookie.jpg)
+
+They're huge, soft, and delicious. Probably not the kind of cookies you would like, but I love them!
+
+I think there have been a group of people going through a series of important meetings at work. So they order cookies for themselves and then leave out the leftovers, when they're done.
+
+I feel bad about eating the cookies because they must be filled with sugar. And my doctor told me to eat less sugar! But they are so good...
+
 # 20 March
 ## Haiku
 
