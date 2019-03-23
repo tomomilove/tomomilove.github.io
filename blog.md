@@ -4,6 +4,21 @@ title: Blog
 permalink: /blog/
 month: March
 ---
+# 22 March
+## Kolkhida
+
+I tried this Georgian Street Food truck that came to Milk Pail.
+
+![Kolkhida truck](/images/blog_march/kolkhida_truck.jpg)
+
+The truck was completely operated by one person. He seemed to be the owner, and pretty passionate. He talked to the people in front of me in line for like 10 minutes because I guess they were from an area near Georgia? He talked about his struggles to get certain kinds of ingredients in the US, some kinds of Georgian cultural events he goes to, and his aspirations to open a restaurant one day.
+
+I tried the food! Got some lamb, fries, and a spinach thing that I can't remember the name of.
+
+![Kolkhida food](/images/blog_march/kolkhida_food.jpg)
+
+It was pretty good. I'll say the lamb and the fires were a bit too salty for my tastes, and the spinach was very much not salty at all. I may go back sometime, though I wonder what location he will go to after Milk Pail closes.
+
 # 21 March
 ## Cookie days
 
