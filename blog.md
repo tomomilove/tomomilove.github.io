@@ -4,6 +4,21 @@ title: Blog
 permalink: /blog/
 month: March
 ---
+# 23 March
+## Daijoubu the owl
+
+I made this owl for you with leftover wool from when I made your assistant.
+
+![Daijoubu the owl](/images/blog_march/daijoubu_the_owl.jpg)
+
+Daijoubu the owl is here to tell you everything is going to be all right! No matter what happens, your owl friend is here for you!
+
+![Daijoubu and Kibi](/images/blog_march/daijoubu_and_kibi.jpg)
+
+キビ：僕はお腹が空いたね~
+
+大丈夫：大丈夫だよ！
+
 # 22 March
 ## Kolkhida
 
