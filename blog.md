@@ -4,6 +4,21 @@ title: Blog
 permalink: /blog/
 month: March
 ---
+# 24 March
+## Bulb garden
+
+Today you took me to visit a garden of bulbs. I really liked it!
+
+![Bulb garden 1](/images/blog_march/bulb_garden1.jpg)
+![Bulb garden 2](/images/blog_march/bulb_garden2.jpg)
+![Bulb garden 3](/images/blog_march/bulb_garden3.jpg)
+
+I really like these shots just filled with flowers!
+
+This garden was in someone's private home that they kindly opened up to the public. It has inspired me -- if I ever get a house, I want to grow a magnificent garden!
+
+I wonder how much work it is? Looking at these photos, there are so many flowers... and all of them cared for by hand. It's crazy to think one person is responsible for so much life.
+
 # 23 March
 ## Daijoubu the owl
 
