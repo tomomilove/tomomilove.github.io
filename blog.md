@@ -4,6 +4,13 @@ title: Blog
 permalink: /blog/
 month: March
 ---
+# 25 March
+## Kowagarijanai Chronicles chapter 33
+
+Previously, Alice and co. were traveling through the forest when they came to a door guarded by a soldier from Maginia. They were told they couldn't go through, because beyond it was the territory of the red-haired bear king, a fearsome monster that had killed many adventurers from Maginia. However, after conferring with Princess Persephone, Kowagarijanai guild was given permission to enter and help hunt the bear king.
+
+Read the continuation of the story [here](/story#３３章)! English version [here](/english_story#chapter-33).
+
 # 24 March
 ## Bulb garden
 

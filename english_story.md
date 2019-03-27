@@ -977,3 +977,56 @@ Alice: We’re Kowagarijanai! Happy to be of service!
 Napier: Kowagarijanai, eh? If you’re a new guild, it helps to get your name out there, right? I’ll tell other people in Maginia about your help. Maybe you’ll receive more requests from people.
 
 Alice: Thank you very much!
+
+## Chapter 33
+## In the dominion of the bear king
+
+We return to the door in the Verdant Forest. We see the guard by the door. Also there are Oliver and Marco, the other adventurers we encountered earlier in the labyrinth.
+
+Alice: Hello, Oliver and Marco! What are you doing here?
+
+Oliver: We’re hunting the red-haired bear king, on a mission from the exploration headquarters.
+
+Alice: Same with us. Good luck out there.
+
+Oliver: Good luck to you too!
+
+Guard: Everyone, please be careful. Be aware, the red-haired bear king is quite intelligent, and a rather tricky beast...
+
+We enter the door. We go in a different direction from Oliver and Marco.
+
+We cautiously advance through the forest. Everyone is silent, it seems everyone’s nerves are on edge.
+
+Tanaka: How is everyone doing?
+
+No one responds.
+
+Tanaka: Not gonna lie, I’m a little scared, myself.
+
+Alice: I guess I am too.
+
+It feels good to admit it.
+
+Tanaka: Let’s devise an exit strategy, in case we have to run.
+
+Alice: Good idea, Rin-san. Hmm… what should we do?
+
+Lee: I have good defense, so I can distract it while you all run away.
+
+Alice: What will you do, then?
+
+Lee: I’ll climb the trees and escape that way. 
+
+Alice: Nice…
+
+The plan makes everyone feel a bit better, and we now advance through the forest with more confidence. Eventually, we come to a fork in the road. We stop to consider which way to go.
+
+Alice: Hmm, which way should we go?
+
+Before we can decide, however, Yamamoto suddenly cries out: 
+
+Yamamoto: Look out behind you!!
+
+I turn around. A moment later, a massive red bear comes leaping down upon us from a tree, and swipes a massive claw at us. But Lee is there, blocking the hit.
+
+Alice: Everyone, ready to fight!
