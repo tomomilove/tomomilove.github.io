@@ -4,6 +4,15 @@ title: Blog
 permalink: /blog/
 month: March
 ---
+# 26 March
+## Lab tests
+
+Back when I went to see my doctor, she told me to get lab tests done. I had been putting it off until now, but I finally got it done. The difficult part is that you need to have not eaten anything for the past 10 hours. So pretty much the only time you can get it done is in the morning, before breakfast.
+
+The test involves drawing blood and running analysis on it. I'm not really afraid of needle or drawing blood at all. However, the person doing the test on me kept asking me if I was afraid and okay, and that actually made me feel worried. In any case, I didn't look when the person poked me and drew blood.
+
+The person who drew my blood commented that I have thin veins. I'm not sure what that means -- hopefully it's not a bad thing!
+
 # 25 March
 ## Kowagarijanai Chronicles chapter 33
 
