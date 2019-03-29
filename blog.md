@@ -4,6 +4,17 @@ title: Blog
 permalink: /blog/
 month: March
 ---
+# 27 March
+## Vitamin D deficiency
+
+I received the results from my blood tests yesterday, and one result was that I have low levels of vitamin D. It feels bad to learn something like that. Once I read it, I suddenly felt worse.
+
+Recommendations from the doctor are to get more sunlight exposure (without sunscreen), eat more dairy products, and also take a vitamin D pill every day.
+
+I can try to get more sunlight and drink some milk every day, but my gut reaction is that I don't want to take a pill. Shouldn't I be able to get enough naturally? But maybe this is the consequence of working an indoors job.
+
+I suppose I should go look for a vitamin D pill. Who knows, maybe it will make me feel more healthy in my daily life?
+
 # 26 March
 ## Lab tests
 
