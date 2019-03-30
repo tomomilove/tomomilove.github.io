@@ -4,6 +4,17 @@ title: Blog
 permalink: /blog/
 month: March
 ---
+# 28 March
+## Momo Grill
+
+Yesterday I went to the new Momo Grill food truck to ask them if they had chai, and they still didn't have it. So I asked them when they would have it, and they said to come back tomorrow around 7pm.
+
+So I came back today. But they still didn't have the chai. Oh well. I decided to order food there anyway.
+
+They had momo (which are like dumplings), fried rice, and chow mein. I think the food is supposed to be from a region of India that is near China and influenced by it.
+
+I got the chicken momo. They tasted like pretty normal dumplings too me. Where it got crazy was the sauce. They had "momo sauce" and also a curry sauce. Both were pretty good, but extremely spicy. The momo sauce may have been the spiciest thing I've had in years. I was dieing!
+
 # 27 March
 ## Vitamin D deficiency
 
