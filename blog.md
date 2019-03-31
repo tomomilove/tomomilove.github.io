@@ -4,6 +4,20 @@ title: Blog
 permalink: /blog/
 month: March
 ---
+# 30 Rengstorff community center
+
+For a while they have been renovating the community center by Rengstorff Park. It has been looking pretty done recently, so I decided to walk over and visit!
+
+![Community center 1](/images/blog_march/community_center1.jpg)
+![Community center 3](/images/blog_march/community_center3.jpg)
+![Community center 2](/images/blog_march/community_center2.jpg)
+
+I really like the look of this building! Very inviting!
+
+I went inside and talked to the person there. Apparently it has been open for about a month. They hold classes and activites, and you can also rent it out for events.
+
+I took a look at the classes and activities they had. They had some language classes, but no Japanese unfortunately. They also had some interesting arts and craft classes, like creative writing, painting, and pottery. I thought about taking one, but all the classes started this week, so I guess I'm too late. Maybe next season!
+
 # 29 Mach
 ## Boba Drive
 
