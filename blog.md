@@ -4,6 +4,15 @@ title: Blog
 permalink: /blog/
 month: March
 ---
+# 29 Mach
+## Boba Drive
+
+Someone at work told me there is a milk tea place really close by, within walking distance! I had no idea about this. I decided to go check it out. It's across a large bridge, but it really is quite close!
+
+![Boba drive](/images/blog_march/boba_drive.jpg)
+
+I ordered the basic black milk tea. To be honest, it wasn't anything special! It was a little flavorless. Most milk tea places I have tried have a hard time bringing out the flavor of the tea while keeping the bitterness low. Still no one can match Asha!
+
 # 28 March
 ## Momo Grill
 
