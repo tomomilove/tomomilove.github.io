@@ -4,7 +4,23 @@ title: Blog
 permalink: /blog/
 month: March
 ---
-# 30 Rengstorff community center
+# 31 March
+## Penitencia Creek Park
+
+Today we took a trip to Penitencia Creek Park. Who knew such a nice spot of green was in the middle of San Jose!
+
+![Penitencia 1](/images/blog_march/penitencia1.jpg)
+
+There was a really nice creek as well.
+
+![Penitencia 2](/images/blog_march/penitencia2.jpg)
+
+We saw some funny squirrels there! They ran around the ground, hid in holes, and liked to stand up straight. One of them was talking for a while, and the others would just stand and listen. I wonder what they were communicating?
+
+I really liked this park and I want to go back!
+
+# 30 March
+## Rengstorff community center
 
 For a while they have been renovating the community center by Rengstorff Park. It has been looking pretty done recently, so I decided to walk over and visit!
 
