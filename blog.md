@@ -4,6 +4,27 @@ title: Blog
 permalink: /blog/
 month: April
 ---
+# 2 April
+## Getting outside
+
+I've been trying to think of way I can get outside more, to help with my vitamin D deficiency.
+
+There's not too much place to walk around my work, but we do have a rooftop patio area. I decided to go take a look.
+
+![Rooftop patio 1](/images/blog_april/rooftop_patio1.jpg)
+![Rooftop patio 2](/images/blog_april/rooftop_patio2.jpg)
+![Rooftop patio 3](/images/blog_april/rooftop_patio3.jpg)
+
+It's pretty nice! There's even a kitchen out here!
+
+![Rooftop kitchen](/images/blog_april/rooftop_kitchen.jpg)
+
+There's also these bocce ball courts that no one uses. You can tell because they're covered in weeds...
+
+![Rooftop bocce](/images/blog_april/rooftop_bocce.jpg)
+
+Actually, this whole area is typically pretty empty. Maybe more people will be here during the summer? For now though, it's a nice quiet place.
+
 # 1 April
 ## Pills
 
