@@ -4,6 +4,24 @@ title: Blog
 permalink: /blog/
 month: April
 ---
+# 3 April
+## WaniKani mods
+
+One nice things about WaniKani is that it's built in such a way that users can easily create and share modifications for it. I recently got some and tried them out.
+
+Here's what I tried:
+
+- __Dark theme modification__:
+![WaniKani mods](/images/blog_april/wanikani_mods.png)
+
+- __Ignore answer button__: If you get an answer wrong during reviews, this lets you mark it correct instead. Useful if you just made a typo!
+
+- __Hide English sentences__: When learning vocab, there are example sentences in Japanese with English translations. This mod hides the English sentences until you hover over them, giving you a chance to try to read the Japanese first.
+
+- __Delay on incorrect answer__: Sometimes if you get an answer wrong, you accidentally press the enter key quickly without thinking about it, and go on to the next question without getting a chance to read why you got the answer wrong. This mod prevents you from going to the next question for 2 seconds after inputting a wrong answer, fixing that issue.
+
+There were some other interesting mods I didn't try! One example was a font randomizer, that makes the kanji display using different fonts at random, giving you an opportunity to practice reading different styles.
+
 # 2 April
 ## Getting outside
 
