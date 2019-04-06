@@ -4,6 +4,30 @@ title: Blog
 permalink: /blog/
 month: April
 ---
+# 5 April
+## robots.txt
+
+It occurred to me I should add a _robots.txt_ file to this site. This is a special file you can add to your site that explains to search engines how to crawl your site.
+
+You can check out the one I added by visiting [tomomilove.com/robots.txt](/robots.txt). The one I added is pretty simple. It requests all search engines to not record anything in this site. This means, for instance, tomomilove.com will never appear in Google search results.
+
+It's possible to add more complicated instructions to a robots.txt file. You could specify that search engines are allowed to record certain pages, but not others. You could also include a _site map_, which would direct search engines to all the pages on your site. In our case though, I see no reason for the site to be publicly searchable.
+
+# 4 April
+## Origami wolf
+
+I found this origami wolf in a conference room at work! It's made from a post-it note.
+
+![Origami wolf 1](/images/blog_april/origami_wolf1.jpg)
+
+I wonder who made it, and how. Maybe they folded it while bored during a meeting, but does that mean they had the design memorized? I don't think they'd be able to follow diagrams while in a meeting. I'm impressed if they had it memorized!
+
+Anyway, I thought it was a cute design, so I looked up the instructions and made it myself!
+
+![Origami wolf 2](/images/blog_april/origami_wolf2.jpg)
+
+Mine didn't come out so well, though... But it was fun trying!
+
 # 3 April
 ## WaniKani mods
 
