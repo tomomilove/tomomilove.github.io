@@ -4,6 +4,19 @@ title: Blog
 permalink: /blog/
 month: April
 ---
+# 6 April
+## Down vs fake down
+
+I was searching online today to find a new down jacket, since my current one is pretty beaten up. I had to put another piece of tape on it, so I guess it's done...
+
+Anyway, while looking for jackets online I came across some made from synthetic down rather than real down. I decided to look up the differences.
+
+Apparently, one major benefit of synthetic down is that it holds heat well when wet. Another benefit is that it weighs less than real down, and breathes better.
+
+The one major con is that they haven't been able to make synthetic down that is as warm as real down yet. It seems like the best synthetic down would only be as warm as real down with around 550 down rating. However, my current down jacket has a rating of 750. I thought that was a good amount, so I don't think I can get a synthetic down jacket.
+
+Hopefully the technology improves in the future and synthetic down becomes as good as real down!
+
 # 5 April
 ## robots.txt
 
