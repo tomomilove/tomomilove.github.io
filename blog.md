@@ -4,6 +4,13 @@ title: Blog
 permalink: /blog/
 month: April
 ---
+# 7 April
+## Work on the weekend
+
+I took Friday off, but it was a bit wasted because I had to do a little bit of work today anyway. I signed up to do design reviews for the residency program I was in when I first started working. I am assigned a group that's going through that program, and I am supposed to look at the design document for their project, and provide them with suggestions and feedback. They sent me their draft document on Friday, and I have to go over it with them on Monday, so I had to look at it sometime this weekend.
+
+It wasn't too bad though. I walked to the library, sat there, and looked through it. The library is so nice it didn't even feel like work. Plus I got my vitamin D from walking!
+
 # 6 April
 ## Down vs fake down
 
