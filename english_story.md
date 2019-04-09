@@ -1030,3 +1030,46 @@ Yamamoto: Look out behind you!!
 I turn around. A moment later, a massive red bear comes leaping down upon us from a tree, and swipes a massive claw at us. But Lee is there, blocking the hit.
 
 Alice: Everyone, ready to fight!
+
+## Chapter 34
+## Vs. the red-haired bear king
+
+We do battle with the red-haired bear king. We stick to our roles, and the battle isn’t too hard. Tanaka and I are in the front lines, doing damage. Lee defends us. John heals. Yamamoto in the back row with her gun. Eventually, after a long battle, the bear king collapses, defeated.
+
+We are tired, but victorious.
+
+John: It’s done? That was easy!
+
+Tanaka: I guess our skills at fighting are improving. Good job everyone!
+
+Alice: Let’s head back to Maginia and inform Princess Persephone of our victory.
+
+We begin the journey back to Maginia. We pass by the door, but the guard isn’t there. That’s odd…
+
+Tanaka: Ahh!
+
+We spot two people laying on the ground, bleeding.  It’s the adventurers we met earlier, Oliver and Marco! I rush over to them.
+
+Marco tries to say something…
+
+Marco: Be careful... Bear... king...
+
+Alice: Huh? But…
+
+Suddenly there is a crashing noise behind us, and the bear king leaps out from behind a bushes, attacking with its claws. 
+
+Alice: What??
+
+We launch into battle again, but we are all tired.
+
+Yamamoto: Alice, we can’t win this fight! We should withdraw!
+
+Alice: But…!
+
+Lee: We can’t waste too much time here, with Oliver and Marco wounded. We should prioritize getting them back to Maginia.
+
+Tanaka: Agreed with Lee!
+
+Alice: Okay, let’s run!
+
+Lee does his best to distract the bear king. Yamamoto and I carry Oliver and Marco on our backs, and we make a run for it.

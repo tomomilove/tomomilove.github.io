@@ -4,6 +4,11 @@ title: Blog
 permalink: /blog/
 month: April
 ---
+# 8 April
+## Chapter 34
+
+Last time, Alice and co. ventured into the forest on a mission to hunt the red-haired bear king, a fearsome beast that had killed many adventurers from Maginia. As they were traveling through the forest, it jumped out at them in surprise, launching them into a fight. See what happens next in chapter 34, [available here](/story#３４章). English version [here](/english_story#chapter-34).
+
 # 7 April
 ## Work on the weekend
 
