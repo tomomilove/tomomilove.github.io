@@ -1073,3 +1073,24 @@ Tanaka: Agreed with Lee!
 Alice: Okay, let’s run!
 
 Lee does his best to distract the bear king. Yamamoto and I carry Oliver and Marco on our backs, and we make a run for it.
+
+## Chapter 35
+## Report on the bear king
+
+Everyone makes it back to Maginia safely. We tell Princess Persephone about our encounter with the bear king.
+
+Alice: We thought we had killed it, but it was only playing dead.
+
+Persephone: Concerning. It is quite intelligent…
+
+Suddenly, a guard rushes in.
+
+Guard: Princess Persephone! A report! We’ve tracked the bear king’s movements, and it has retreated even deeper into the forest.
+
+Persephone: Deeper…? Hmm…
+
+Alice: We did wound it severely. Perhaps it needs to retreat and recover, too. We should return and finish it off while we have the chance.
+
+Persephone: Perhaps… I have a bad feeling about this. However, we cannot allow it to grow more aggressive and attack more of Maginia's people. If you feel up to it, once you’ve rested, you have permission to keep hunting it.
+
+Alice: We’ll do it!
