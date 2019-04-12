@@ -4,6 +4,31 @@ title: Blog
 permalink: /blog/
 month: April
 ---
+# 11 April
+## First burn
+
+Each time you answer correctly on a WaniKani item during review, a greater time passes before you have to review it again. The item goes through stages: apprentice, guru, master, enlightened, burn. Once an item hits burn, it never appears again!
+
+The time between the review from enlightened to burned is 6 months. I just burned my first items today! (Check this blog, the first mention of WaniKani is in October, about 6 months ago!)
+
+![Burned](/images/blog_april/burned.png)
+
+I'm also coming up on the 1 year anniversary of me studying Japanese (it's in April). I didn't realize I had started learning kanji almost exactly 6 months in.
+
+# 10 April
+## Parents' present
+
+I received a birthday present from my parents today! It's a charging stand for my phone:
+
+![Phone stand 2](/images/blog_april/phone_stand2.jpg)
+![Phone stand 1](/images/blog_april/phone_stand1.jpg)
+
+(By the way, these photos were taken in the same lighting, but one with my old phone and one with my new phone. You can really tell the difference in image quality, huh...)
+
+I was wondering if such a thing would be all that helpful, but I guess it'll make it easier to pick up my phone from the ground in the morning! It also has a neat feature to prevent notifications when the phone is on it, so they don't annoy you while sleeping. Also, it's just neat!
+
+I think it could be cool if contact charging devices were built into various public places. Imagine if you were sitting at a table at the library or a cafe for example, and you just put your laptop or phone on the table and it automatically charges. You wouldn't have to mess with cords, or even carry your own charger!
+
 # 9 April
 ## Chapter 35
 
