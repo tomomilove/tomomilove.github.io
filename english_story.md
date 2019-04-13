@@ -1094,3 +1094,36 @@ Alice: We did wound it severely. Perhaps it needs to retreat and recover, too. W
 Persephone: Perhaps… I have a bad feeling about this. However, we cannot allow it to grow more aggressive and attack more of Maginia's people. If you feel up to it, once you’ve rested, you have permission to keep hunting it.
 
 Alice: We’ll do it!
+
+## Chapter 36
+## Rematch with the bear king
+
+We return to the Verdant Forest and travel deeper in. As we go further, the trees thicken, and it becomes darker. Lee takes out his lantern so we can all see.
+
+After traveling through several narrow passageways, we suddenly come to a large clearing. We can see the bear king standing at the far end of the clearing.
+
+Alice: There it is, just waiting there…
+
+Yamamoto: Wait, this is a trap. Do not go straight across the clearing. There are other bears waiting in ambush. 
+
+Alice: Huh, how do you know?
+
+Lee: It makes sense. Princess Persephone mentioned that the bear king is an intelligent and tricky one. Not to mention that it tricked us already. I don’t think it would just wait there for us so easily. Let’s sneak around behind it, and ambush it instead.
+
+Alice: Okay, makes sense.
+
+We sneak through the trees around the perimeter of the clearing. Sure enough, we see other bears lying in ambush, but we are able to evade them. Eventually, we come up behind the bear king.
+
+Alice: Everyone ready?
+
+We launch a surprise attack on the bear king. Everything goes according to plan, and after a long fight, we defeat it.
+
+It’s a long fight, but we manage to win. This time we make sure it is dead.
+
+Tanaka: Woohoo! We finally beat it!
+
+John: That was too hard! Can’t believe we had to fight it twice…
+
+Lee: What an adventure though! The victory is even sweeter after the struggle.
+
+Alice: Excellent work everyone! Let’s report our success to Persephone. The name of Kowagarijanai guild will be known as the heroes of Maginia!

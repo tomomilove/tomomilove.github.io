@@ -4,6 +4,11 @@ title: Blog
 permalink: /blog/
 month: April
 ---
+# 12 April
+## Chapter 36
+
+The adventures of Alice and co. continue! Chapter 36 is available [here](/story#３６章). English version [here](/english_story#chapter-36).
+
 # 11 April
 ## First burn
 
