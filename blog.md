@@ -4,6 +4,26 @@ title: Blog
 permalink: /blog/
 month: April
 ---
+# 13 April
+## Birthday celebration day!
+
+Finally I've caught up to you in age!
+
+You did a really nice job celebrating my birthday this year! You made me this cake!
+
+![Birthday cake](/images/blog_april/birthday_cake.jpg)
+
+It was so smooth, round, and delicious!
+
+Then you took me to sushi! We also saw flowers:
+
+![Kaitenzushi](/images/blog_april/kaitenzushi.gif)
+![Sakura](/images/blog_april/sakura.gif)
+
+I liked nanuuku sushi! But what is it? I looked it up on Google and didn't find anything.
+
+After that we went stargazing, and had more cake in the car! Unfortunately this was not a good time for photos...
+
 # 12 April
 ## Chapter 36
 
