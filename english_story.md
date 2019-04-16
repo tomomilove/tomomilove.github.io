@@ -1127,3 +1127,118 @@ John: That was too hard! Can’t believe we had to fight it twice…
 Lee: What an adventure though! The victory is even sweeter after the struggle.
 
 Alice: Excellent work everyone! Let’s report our success to Persephone. The name of Kowagarijanai guild will be known as the heroes of Maginia!
+
+## Chapter 37
+## Cernunnos
+
+Alice: Good job defeating the bear king everyone! Let’s return to Maginia.
+
+We are about to head back when Yamamoto suddenly cries out.
+
+Yamamoto: Everyone, look out behind you!
+
+Everyone turns around. A moment later, and humongous figure comes crashing down out of the sky, shaking the ground as it lands in fronts of us.
+
+Alice: Wh-what is that?!
+
+I take a look at the massive being standing before us. It is some kind of giant beast, about 10 meters tall, standing on two legs. It has the head of a stag, with massive horns. It is wearing armor, with golden rings around its hands and feet.
+
+Lee: That… is no ordinary animal, that’s for sure.
+
+I look over my teammates. Everyone is tired from our battle with the bear king. Yamamoto has a particularly pained expression on her face.
+
+Alice: Are we supposed to fight this thing?
+
+As it to answer my question, the beast charges at me with such speed and power that it rips up the ground below it as it runs. I stand, frozen, not sure what to do. I’ve never fought anything like this before…
+
+Yamamoto: Hey!
+
+A powerful blast from Yamamoto’s guns hits the creature’s feet, tripping it up briefly. A moment later, it recovers, and charges a ball of energy in its arms, which it throws at us, causing an explosion. All of us are hit and get scattered.
+
+Tanaka: Alice, what do we do? This thing is way too strong for us to fight! And it doesn’t look like we can escape, either…
+
+Alice: I… I don’t know. I’m sorry everyone…
+
+The beast puts its hands together and starts charging another energy blast.
+
+Yamamoto: Everyone, listen to me! I know it looks hard, but we can win this! First, concentrate on dodging its energy attack in the next 5 seconds!
+
+The monster its energy blast, and we all jump out of the way. I draw my sword to counterattack.
+
+Yamamoto: Alice, do not rush in an attack! Wait to recover your strength, wait for the creature to become vulnerable, then strike together with Tanaka with your full might! 
+
+Alice and Tanaka: Okay!
+
+The monster charges at us again. Lee leaps in to defend us, however…
+
+Yamamoto: Lee, put down your shield! There is no need to defend against this attack!
+
+Lee: Huh?
+
+Lee drops his shield, and the monster charges into us. We take the hit, but it isn’t too bad.
+
+Yamamoto: Lee, if you defend all the time, you will become tired. You need to save your strength, and only defend at the critical moments. Alice and Tanaka will be vulnerable when they are attacking, so defend them then!
+
+Lee: Understood!
+
+For a moment, the creature stands still, and looks vulnerable. Tanaka and I get ready to strike.
+
+Yamamoto: Wait! It is about to erect a barrier that will counter your attacks!
+
+Alice: Huh?
+
+We stop and watch the creature. It stands still, and a magic barrier appears in front of it.
+
+Yamamoto: It won’t attack us now, so John, please take the opportunity to heal everyone’s wounds!
+
+John: On it!
+
+John scurries around and heals everyone.
+
+A minute later, the barrier disappears.
+
+Alice: Now!
+
+Tanaka and I rush in and attack it, with Lee backing us up. We strike hard, but the creature seems barely hurt.
+
+Yamamoto: Good job! Retreat for a moment, and we’ll do that again in a minute!
+
+The battle continues like this pattern for a while. The monster attacks us, and we take the hit. The monster puts up its barrier, and John heals us. Then we rush in and attack.
+
+An hour later, the fight continues on. We are getting tired, but we can see the monster getting tired too.
+
+Alice: It’s almost done! One more good attack should finish it…
+
+Yamamoto: Wait, Alice, I need you to save your strength for something else. Please ready your most powerful attack, but don’t use it yet.
+
+Alice: Huh? Uh, okay!
+
+A moment later, the beast lets out a roar. Then, smaller monsters emerge from the trees and approach. Then the smaller monsters start healing the big monster’s wounds!
+
+Yamamoto: Alice, quickly take out the small monsters before they heal it!
+
+I use my special move: Mirage sword! I rush at the small monsters with blinding speed, striking so quickly and so ferociously it’s like I am in two places at once. I take them out immediately. Then I am so tired, I fall to the ground.
+
+Yamamoto: Okay, it’s almost done now! Tanaka, finish it off!
+
+Tanaka: On it!
+
+Suddenly, however, the great beast turns its attention to Yamamoto. It gazes directly at her, seemingly having figured out that she is calling the shots. Yamamoto gazes directly back at it. Then, completely ignoring the rest of us, the beast charges straight at Yamamoto. Lee tries to defend her, but the monster grabs him and throws him aside, knocking him out, Then it punches Yamamoto head on, sending her flying, and knocking her out, too.
+
+Tanaka: No, Yamamoto!
+
+Tanaka runs over to Yamamoto.
+
+Alice: Wait... Tanaka! Help Yamamoto later! For now, you have to finish this fight quickly, or none of us will survive…!
+
+Tanaka: Ah, right…!
+
+Tanaka turns to face the monster. With the last of her strength, she imbues her sword with fire magic, and attacks the beast. 
+
+Tanaka: Flame sword!!
+
+There is a great flash of light as Tanaka’s flame sword slices across the monster. With a loud cry, it crashes to the ground, defeated. Tanaka collapses in exhaustion.
+
+Then, finally, the forest is silent.
+
+John, the only one left standing, rushes around to all of us, administering first aid. With some crude medicine, he manages to revive Lee and me. We carry Tanaka and Yamamoto back to Maginia.

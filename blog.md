@@ -4,6 +4,13 @@ title: Blog
 permalink: /blog/
 month: April
 ---
+# 15 April
+## Chapter 37
+
+Last time, Alice and co. defeated the red-haired bear king! Find out what happens next in chapter 37 [here](/story#３７章). English version [here](/english_story#chapter-37).
+
+Sorry, this is a long chapter, but there wasn't a good way to break it up. This chapter marks the end of the first major arc of the story, so please enjoy!
+
 # 14 April
 ## 百人一首
 
