@@ -4,6 +4,43 @@ title: Blog
 permalink: /blog/
 month: April
 ---
+# 14 April
+## 百人一首
+
+I read through (in English) the book of poems your mother gave me! I wasn't expecting this, but nearly all of the poems were about lost love, or longing for love. I guess that's what the style of the poem is about? Anyway, a lot of them were super depressing, but I recorded some of my favorites for you (generally on the more positive side):
+
+Just as the Minano River<br>
+surges from the peak<br>
+of Mount Tsukuba,<br>
+so my love cascades<br>
+to make deep pools.
+
+筑波嶺の峯より落つるみなの川恋ぞつもりて淵となりける
+
+As the human heart's so fickle<br>
+your feelings may have changed,<br>
+but at least in my old home<br>
+the plum blossoms bloom as always<br>
+with a fragrance of the past.
+
+人はいさ心も知らずぶるさとは花ぞ昔の香ににほひける
+
+I thought I would give up my life<br>
+to hold you in my arms,<br>
+but after a night together,<br>
+I find myself wishing<br>
+that I could live forever.
+
+君がため惜しからざりし命さへ長くもがなと思ひけるかな
+
+Since I now recall fondly<br>
+the painful days of the past,<br>
+if I live long, I may look back<br>
+on these harsh days, too,<br>
+and find them sweet and good.
+
+ながらへばまたこのごろやしのばれむ憂しとみし世ぞ今は恋しき
+
 # 13 April
 ## Birthday celebration day!
 
