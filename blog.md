@@ -4,6 +4,31 @@ title: Blog
 permalink: /blog/
 month: April
 ---
+# 16 April
+## 風物詩
+
+Your mom gave me a book called 日本風物詩! I didn't know what the word 風物詩 mean, and you said it was something that reminds you of a certain time. I looked up the definition online, and that was spot on!
+
+So I thought about, what are the 風物詩 in my life? What are things that remind me of different seasons?
+
+#### Spring
+- Walking around the neighborhood and looking at flowers!
+
+#### Summer
+- Mango smoothies
+- My sun hat
+- Trips to the ocean
+- Crowded buses due to interns!
+
+#### Fall
+- Hot chocolate sold at Trader Joe's
+
+#### Winter
+- Lights wrapped around trees downtown
+- My space heater
+
+That's what I can think of for now! It was kind of difficult, maybe my habits don't vary much by season? What would your 風物詩 be, Tomomi?
+
 # 15 April
 ## Chapter 37
 
