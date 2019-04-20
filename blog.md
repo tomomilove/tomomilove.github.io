@@ -4,6 +4,23 @@ title: Blog
 permalink: /blog/
 month: April
 ---
+# 17 April
+## Georgian soda
+
+I went back to the Georgian food truck at Milk Pail, and decided to try one of their soft drinks.
+
+![Tarragon soda 1](/images/blog_april/tarragon_soda1.jpg)
+
+Can you read the flavor on the bottle? It's tarragon flavor, actually. I'm not sure if you're familar with tarragon, but it's an herb. Like, the kind of thing I've had in a chicken sandwich. Kind of an odd flavor for a soda, and it really did taste quite herby. But actually, I thought it was super good! A unique flavor I liked a lot! I think I'll get it again.
+
+By the way, it also had a bit of a weird cap:
+
+![Tarragon soda 2](/images/blog_april/tarragon_soda2.jpg)
+
+It's neither a twist cap nor a pop bottle cap like you'd find in America. Instead, it's got this tab you pull up on to get the cap off.
+
+It's so interesting seeing the norms of other countries like this! This cap is probably normal over there. And according to Wikipedia, Tarragon soda is pretty popular over there as well.
+
 # 16 April
 ## 風物詩
 
