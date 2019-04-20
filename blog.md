@@ -4,6 +4,21 @@ title: Blog
 permalink: /blog/
 month: April
 ---
+# 18 April
+## Cuphead
+
+I just got this new game called _Cuphead_.
+
+![Cuphead 1](/images/blog_april/cuphead1.jpg)
+
+This is a game where you play as a cup person and fight against a series of bosses. The game tries really hard to look like an old fashioned cartoon, like the original Mickey Mouse. It's a pretty cool look, though also a little unsettling at times.
+
+![Cuphead 4](/images/blog_april/cuphead4.jpg)
+![Cuphead 2](/images/blog_april/cuphead2.jpg)
+![Cuphead 3](/images/blog_april/cuphead3.jpg)
+
+The game is pretty much only about fighting bosses. It's famous for being really difficult, but that's part of why I find it fun. I have to fight these bosses like a dozen times in order to beat them, but it's satisfying figuring out the right strategies to use and then being able to execute them effectively.
+
 # 17 April
 ## Georgian soda
 
