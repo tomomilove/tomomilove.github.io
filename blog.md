@@ -4,6 +4,25 @@ title: Blog
 permalink: /blog/
 month: April
 ---
+# 19 April
+## 100 Million Books
+
+There's an extension for web browsers you can get called 100 Million Books that shows you a quote from a random book each time you open a new tab or open your web browser.
+
+Today I got an interesting quote I wanted to share with you. It's from the book _The Secret Life of Words_ by Henry Hitchings:
+
+"
+[In English] Often we have three terms for the same thing — one Anglo-Saxon, one French, and one clearly absorbed from Latin or Greek. The Anglo-Saxon word is typically a neutral one; the French word connotes sophistication; and the Latin or Greek word, learnt from a written text rather than from human contact, is comparatively abstract and conveys a more scientific notion. Consider, for example, the verbs rise, mount and ascend, or go, depart and exit. In each case, the first word has an Anglo-Saxon source and is informal, the second is French and comparatively formal, while the third is Latin and suggests something more specialized or technical. A more extreme example is fire, flame and conflagration; another, holy, sacred, consecrated. [...]
+
+"Think about the distinction between luck and fortune, fatherly and paternal, hearty and cordial, or almighty and omnipotent. In each case the first, Anglo-Saxon, word is more direct, suggestive of something more primal, more resonant, more tangible. What about the difference between altitude and Anglo-Saxon height [...] We may casually refer to these as synonyms, but we know they are not exactly interchangeable. Many Anglo-Saxon terms have deep emotional charge.
+"
+
+So this quote makes the claim that the older, Anglo-Saxon words of English still feel more straightforward and direct to English speakers, even today. I think it's right, at least with the examples mentioned. But I wonder if it really holds true across most of the language?
+
+It kind of made me think of Japanese, as well. Do kun'yomi based words tend to sound more direct to Japanese speakers than on'yomi based words? I wonder.
+
+In any case, I think it's interesting how these effects still persist like 1000 years later. These French words have been a part of English vocabulary for a long time... but will they never truly be accepted?
+
 # 18 April
 ## Cuphead
 
