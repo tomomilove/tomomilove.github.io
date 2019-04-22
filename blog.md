@@ -4,6 +4,19 @@ title: Blog
 permalink: /blog/
 month: April
 ---
+# 20 April
+## Zombie Runner
+
+Today I went to a store in Palo Alto my roommate told me about called Zombie Runner. It's both a running shoe store and a coffee shop. You'd think one or both of the sides would be underwhelming, but I heard they're actually both quite good.
+
+The store staff was pretty helpful finding a shoe for me. They watched me run on a treadmill to figure out my running style. Then they brought out three shoes for me to try, and see which one felt the best. This pair clearly felt the best to me, so I got them:
+
+![Running shoes](/images/blog_april/running_shoes.jpg)
+
+Overall it was a very easy process. Since they walked me through it, I didn't have to stand there paralyzed with indecision for a while, and I didn't feel bad about not knowing much about shoes.
+
+After I bought the shoes, they gave me a free drink at the coffee shop. I wanted to get tea, but I had had some earlier that day, so I went for the hot chocolate instead. It was pretty good, but maybe a little too rich!
+
 # 19 April
 ## 100 Million Books
 
