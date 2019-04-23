@@ -4,6 +4,15 @@ title: Blog
 permalink: /blog/
 month: April
 ---
+# 21 April
+## Trying my running shoes
+
+I went out and tried my running shoes today!
+
+It's been a long time since I wore shoes with this much cushion and support. Walking felt unreal to me, almost like I was wearing rocket shoes and being propelled forward.
+
+In the end, though, running is still running, and shoes alone won't improve your stamina. I tried running downtown but I couldn't make it all the way there. I was weaker than I thought and had to walk for a large portion. Oh well, at least I have a goal to work towards: to be able to run all the way.
+
 # 20 April
 ## Zombie Runner
 
