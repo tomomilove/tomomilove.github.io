@@ -4,6 +4,26 @@ title: Blog
 permalink: /blog/
 month: April
 ---
+# 22 April
+## New work laptop
+
+At my work you're allowed to get a new work laptop every few years. I was overdue on mine, so I decided to finally get one.
+
+![Laptop](/images/blog_april/laptop.jpg)
+
+It's a 13" Macbook Pro.
+
+There are a couple of differences compared to my old one:
+
+- Slightly bigger screen, but less bezel so it's overall smaller.
+- Heavier.
+- More powerful (so it's faster).
+- Has a "touch" bar. There's a row of keys at the top that aren't real keys. They're just virtual keys, and they can change depending on what you're doing on your computer. Also there is a fingerprint scanner.
+- The real keys make a distinct clacking sound. It feels nice actually, but I'd be worried about annoying other people nearby.
+- "Retina" screen. This is a screen with such high resolution that the human eye cannot discern pixels.
+
+The last point is the most important difference, in my opinion. It looks a lot nicer! Now my work laptop outclasses my home laptop... Making me think it might be time to get a new home laptop. But there's nothing really wrong with my home laptop, so I'm not sure it's worth the money to replace.
+
 # 21 April
 ## Trying my running shoes
 
