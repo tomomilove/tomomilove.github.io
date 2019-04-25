@@ -4,6 +4,39 @@ title: Blog
 permalink: /blog/
 month: April
 ---
+# 23 April
+## The backgrounds of Final Fantasy 9
+
+Today I finished that game I was playing, _Final Fantasy 9_. I have to say I really enjoyed it. The story in particular was so sweet and touching.
+
+I wanted to share with you more of the game's backgrounds, because so many were so beautiful and interesting. It's like every screen is a painting, I can't even imagine how long it took them to draw it all. I was taking screenshots constantly while playing the game, so I'd be able to share them with you!
+
+I hope you don't mind 23 screenshots!
+
+![FF9](/images/blog_april/ff9_1.jpg)
+![FF9](/images/blog_april/ff9_2.jpg)
+![FF9](/images/blog_april/ff9_21.jpg)
+![FF9](/images/blog_april/ff9_22.jpg)
+![FF9](/images/blog_april/ff9_23.jpg)
+![FF9](/images/blog_april/ff9_24.jpg)
+![FF9](/images/blog_april/ff9_3.jpg)
+![FF9](/images/blog_april/ff9_4.jpg)
+![FF9](/images/blog_april/ff9_5.jpg)
+![FF9](/images/blog_april/ff9_6.jpg)
+![FF9](/images/blog_april/ff9_7.jpg)
+![FF9](/images/blog_april/ff9_8.jpg)
+![FF9](/images/blog_april/ff9_10.jpg)
+![FF9](/images/blog_april/ff9_11.jpg)
+![FF9](/images/blog_april/ff9_12.jpg)
+![FF9](/images/blog_april/ff9_13.jpg)
+![FF9](/images/blog_april/ff9_14.jpg)
+![FF9](/images/blog_april/ff9_15.jpg)
+![FF9](/images/blog_april/ff9_16.jpg)
+![FF9](/images/blog_april/ff9_17.jpg)
+![FF9](/images/blog_april/ff9_18.jpg)
+![FF9](/images/blog_april/ff9_19.jpg)
+![FF9](/images/blog_april/ff9_20.jpg)
+
 # 22 April
 ## New work laptop
 
