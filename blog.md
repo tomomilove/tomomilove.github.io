@@ -4,6 +4,15 @@ title: Blog
 permalink: /blog/
 month: April
 ---
+# 24 April
+## Summer feeling
+
+The past two days have been the first seriously hot days this year, where the sun actually feels painful on your skin. Kind of uncomfortable, but I'm happy that it's warm at night, at least!
+
+Also the past two days, I've had to go to trainings to prepare for my intern's arrival. Yesterday I had a 3 hour long session about intern preparation, and today I had a 2 hour long session. I have to say, it was so long it wasn't a good experience! And I didn't find the information very helpful. It was a lot of stuff I felt like I already knew, like it's important to make your intern feel included on the team, and things like that.
+
+So the past two days have been a little painful. But, both hot weather and interns make me thing of summer, and that makes me happy! Even though I don't get a summer vacation, I still have fond memories of the season. Something about it makes it feel like a chill time, no matter what!
+
 # 23 April
 ## The backgrounds of Final Fantasy 9
 
