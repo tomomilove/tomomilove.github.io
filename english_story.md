@@ -1242,3 +1242,56 @@ There is a great flash of light as Tanaka’s flame sword slices across the mons
 Then, finally, the forest is silent.
 
 John, the only one left standing, rushes around to all of us, administering first aid. With some crude medicine, he manages to revive Lee and me. We carry Tanaka and Yamamoto back to Maginia.
+
+## Chapter 38
+## Homecoming
+
+After our battle with the giant monster, we arrive in Maginia and head directly to Vivian’s Inn. 
+
+Vivian: Zzz… oh, it’s the new adventurers, Kowagarijanai! My only customers! Welcome back!
+
+Alice: We have wounded with us! Please prepare beds and call a doctor!
+
+Vivian: Ohh!! Yes of course!!
+
+We put Tanaka and Yamamoto to bed in the inn to let them rest. Soon enough, Maginia’s town doctor arrives and sees to everyone’s wounds. Eventually, Tanaka and Yamamoto awake.
+
+Yamamoto: What… what happened? Is everyone alive?
+
+Tanaka: Alice, Lee, John, Yamamoto, and Tanaka! Everyone is here!
+
+Yamamoto: What a relief…
+
+John: You were awesome! Tanaka’s incredible flame sword finished the job!
+
+Tanaka: Hehe, thank you. I practiced that one~
+
+Lee: And Yamamoto knew how to deal with every one of that monster’s attacks! Remarkable! I can see why you are such a famous teacher of battle tactics.
+
+Alice: Indeed. We couldn’t have done it without you, Yamamoto. You’re a real hero...
+
+Yamamoto: I’m just happy everyone survived.
+
+Suddenly, Princess Persephone enters the room, accompanied by guards.
+
+Vivian: Princess!! Uh… welcome! What business do you have at our humble inn?
+
+Persephone: Long time no see, Vivian. I heard Kowagarijanai guild is here?
+
+Vivian: Yes, right this way!
+
+Persephone: Kowagarijanai guild, news reached me that you defeated the red bear king, and an even stronger monster after that. The Verdant forest is now safe for adventurers to pass through. Maginia thanks you for your service.
+
+Princess Persephone hands me 100000 yen as a reward.
+
+Persephone: I’m afraid such a small reward cannot adequately measure up to the sacrifices you have made. Please know that you have my personal gratitude.
+
+Alice: It is our honor to serve Maginia!
+
+Persephone: What will Kowagarijanai guild do next, if I may ask?
+
+Alice: We intend to continue our journey to the World Tree, in search of the magical treasure. As I understand it, after the Verdant forest, we next have to pass through a dense jungle...
+
+Persephone: That’s true. In that case, I have another request for you. After you have rested and prepared for your journey, please come see me.
+
+Alice: Okay!

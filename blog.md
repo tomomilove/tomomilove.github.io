@@ -4,6 +4,11 @@ title: Blog
 permalink: /blog/
 month: April
 ---
+# 25 April
+## Chapter 38
+
+After somehow miraculously defeating an extremely powerful monster, Kowagarijanai guild hurries back to Maginia carrying a wounded Tanaka Sensei and Yamamoto Sensei. Read chapter 38 [here](/story#３８章). English version [here](/english_story#chapter-38).
+
 # 24 April
 ## Summer feeling
 
