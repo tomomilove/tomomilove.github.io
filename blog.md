@@ -4,6 +4,11 @@ title: Blog
 permalink: /blog/
 month: April
 ---
+# 26 April
+## Chapter 39
+
+Two days in a row of story chapters! Read chapter 39 [here](/story#３９章). English version [here](/english_story#chapter-39).
+
 # 25 April
 ## Chapter 38
 

@@ -1295,3 +1295,72 @@ Alice: We intend to continue our journey to the World Tree, in search of the mag
 Persephone: That’s true. In that case, I have another request for you. After you have rested and prepared for your journey, please come see me.
 
 Alice: Okay!
+
+## Chapter 39
+## Kaori
+
+For a few weeks, we have been resting at the inn, and going around town preparing for our next adventure into the jungle. One day, while relaxing at the inn, a woman asking to see me appears.
+
+Woman: Hello, is this the headquarters of the famous Kowagarijanai guild?
+
+Alice: Uh, I don’t know about famous… but yes, this is Kowagarijanai guild. How may I help you?
+
+Kaori: My name is Kaori. I’d like to join your guild.
+
+Alice: Huh, really?? 
+
+I’m somewhat taken aback by this. For some reason I hadn’t considered the possibility of someone else wanting to join our guild.
+
+Alice: Uh, what are your skills?
+
+Kaori: I specialize in support magic. I can help increase the power of other members of the guild, and keep them safe from harm. I’ll work really hard to help everyone! So please let me join!
+
+Alice: (Huh, she’s pretty cute. I like her attitude. I should let her join…)
+
+Alice: Okay, well, just sign this paperwork, and…
+
+Then, Yamamoto walks in to the room.
+
+Yamamoto: Kaori!!
+
+Kaori: Hi, Yamamoto-san! I’m joining your guild!
+
+Yamamoto: Wait a minute! I told you not to come here!
+
+Alice: Uh, what’s going on here? Do you know each other?
+
+Before I can get an answer, John, Lee, and Tanaka walk in the room.
+
+John: Woah, who’s this girl? She’s super cute!!
+
+Kaori: Hello, everyone! You must be the other members of Kowagarijanai guild. I’ve heard all about your adventures!
+
+Alice: And who are you, exactly?
+
+Yamamoto: Everyone, this is my… apprentice. Kaori.
+
+Kaori: Hi everyone, I’m Yamamoto Kaori! Nice to meet you!
+
+Tanaka: Yamamoto? She is… Emika’s daughter?? I didn’t know you had a daughter Emika-san! 
+
+Lee: Based on her appearance, she’s clearly not from the same country as Yamamoto, though. Also she don’t look young enough to be her daughter.
+
+Yamamoto: She was orphaned at a young age. I’ve raised her since then. Anyway, she shouldn’t join this guild. Please go home, Kaori.
+
+Kaori: No way! I don’t want to sit around while you’re off having adventures! I want to go adventuring too, and test my skills!
+
+Alice: I’m getting a good vibe from her. I think she can be useful. Let’s have her join.
+
+Yamamoto: …
+
+Lee: You’re worried about her safety, right? Don’t worry, I can protect her, same as everyone.
+
+Yamamoto: True…
+
+Kaori: Put your trust in me! Everyone needs a chance to see the world and to grow, right?
+
+Yamamoto: *Sigh*, fine. You can come along. But you’re not allowed to fight! Just observe us, okay?
+
+Kaori: Sounds, good! Nice to meet you, everyone! Let’s get along well!
+
+Alice: Happy to have you!
