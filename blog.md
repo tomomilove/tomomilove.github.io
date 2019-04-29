@@ -4,6 +4,26 @@ title: Blog
 permalink: /blog/
 month: April
 ---
+# 28 April
+## Credit nightmare
+
+So there's an item on my todo list since November that I finally decided to tackle today...
+
+But first, some background: A long time ago a bunch of credit info was leaked and it was recommended for people to freeze their credit reports. After a long and terrible struggle, I managed to do it. Credit reports are managed by 3 different companies, so you have to do it with each of the 3.
+
+Lately, however, things changed. Apparently this stuff is now managed by an account system, so you need to create an online account with each of the 3 companies.
+
+So after putting it off for so long, I went to create my accounts... and I succeeded with the first two, but screwed up the last one. They ask some questions to verify your identity, and I didn't read it carefully enough and messed it up. Now in order to fix it I have to call them... Ahhh I hate this. This is why I put it off for so long. Because I knew no matter what it was going to end up a struggle, somehow.
+
+# 27 April
+## Allergy medicine
+
+After suffering last night and today morning of sneezing, I decided to go try some allergy medicine.
+
+Results were mixed. At first, it pretty quickly stopped my sneezing, though there was still some nose running. Then, I started feeling kind of weak. It said it was non-drowsy, but maybe not... Anyway, I felt bad for the rest of the day, but my nose did stop running completely. Actually, it felt unnaturally dry. But I guess it's better than constant sneezing.
+
+I'll consider this a mixed success! I'll take the medicine again if it gets bad, but sparingly.
+
 # 26 April
 ## Chapter 39
 
