@@ -4,6 +4,14 @@ title: Blog
 permalink: /blog/
 month: April
 ---
+# 29 April
+## Sister site
+
+Out of curiosity I decided to search "tomomilove" on Google to see what would come up. Surprisingly, I found someone else's personal blog [tomomilove.jimdo.com](https://tomomilove.jimdo.com/). I guess you could consider it a sister site of sorts!
+
+There's not too much on the site, but it has some photos of the person, who says they are an English-Japanese interpreter. It also links to some other blogs (seemingly run by the same person?) that have a little more written in them, mostly poetry it seems. 
+
+The site has a mix of English and Japanese, and the English is not very good. It's funny -- I guess my blog must look the same way: it has a mix of Japanese and English, but the Japanese isn't very good. The two sites are very much counterparts in that sense.
 
 # 28 April
 ## Credit nightmare
