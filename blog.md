@@ -4,6 +4,21 @@ title: Blog
 permalink: /blog/
 month: April
 ---
+# 30 April
+## Peer bonus
+
+One of my coworkers gave me a peer bonus today! This is an award you can give someone if they go out of their way to help you. This one was given to me by one of the new members on our team I helped to ramp up.
+
+A peer bonus is a pretty nice thing because the company actually attaches a monetary award to it. I don't remember the exact amount, but I think it's something pretty hefty, like $1000 or so.
+
+I feel like I want to buy something nice for myself with this award!! But I thought about it, and I'm not even sure what I would get. I think the things I really want can't be bought with money. For example:
+
+- I want to get good at Japanese! But this takes time, not money...
+- I want to eat a lot of good sweets! But even with a lot of money you can't do that too much because it's unhealthy...
+- I want to go traveling! But I'd want to go with you...
+
+So I don't know. If you had $1000 randomly dropped on you, what would you get?
+
 # 29 April
 ## Sister site
 
