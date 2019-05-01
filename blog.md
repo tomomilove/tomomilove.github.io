@@ -4,6 +4,7 @@ title: Blog
 permalink: /blog/
 month: April
 ---
+
 # 28 April
 ## Credit nightmare
 
