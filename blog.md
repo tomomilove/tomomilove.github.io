@@ -4,6 +4,17 @@ title: Blog
 permalink: /blog/
 month: May
 ---
+# 3 May
+## 世界樹の迷宮の終わりです
+
+So I finally finished 世界樹の迷宮X, the game that Kowagarijanai Chronicles is based on!
+
+Not sure if you've been keeping track, but I've been playing this game since August. It took me about 240 hours of playtime to beat. There's actually even more to do in the game after the ending, including an extra hard dungeon and some extra hard bosses, but I think I'm ready to move on from it now, even though I thoroughly enjoyed it.
+
+Also, rest assured, the story Kowajarijani Chronicles will continue! Although it is pretty far away from the ending. Also, I'm planning to deviate from the game's plot significantly.
+
+I'm thinking about what game I'd like to play in Japanese next. I have one in mind, but I think I'm going to wait until I've learned some more kanji and vocab first. In the meantime, I may return to the Pokemon game you gave me.
+
 # 2 May
 ## Humanoid crane
 
