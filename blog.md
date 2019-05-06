@@ -4,6 +4,22 @@ title: Blog
 permalink: /blog/
 month: May
 ---
+# 5 May
+## Returning to ポケットモンスターホワイト２
+
+I returned to my playthrough of the Pokemon game you gave me, with kanji turned on this time! I actually decided to start from the beginning again, to reread the intro. And I gotta say, it was like 100x easier to read this time! This made me feel really happy, because I can tell I've made a lot of progress since I last tried to play this game. I can recognize a lot more vocab, and the various speech patterns of the different characters make a lot more sense to me now.
+
+In a few minutes I already surpassed how far I had made it the last time. I'm really looking forward to continuing this!
+
+# 4 May
+## Downtown event
+
+I ran downtown today, and the streets were closed to cars because there happened to be an event going on! I think it was called "A la carte and art". That makes it sound fancier than it is though. They just had various people selling their art goods, some food, and some music as well.
+
+There were a lot of pretty things you could buy! I thought to myself, "I could spend my peer bonus on something here!", but I didn't. Nothing in particular stood out, and even with some free money to spend, I didn't want to make an impulse purchase.
+
+It's really nice to have the street closed anyway, you can walk anywhere without a care in the world! You know, I think they should just always keep it closed! Turn the downtown into a giant plaza. There's no good reason cars have to go through it, right? That, or at least close it on the weekends! It would be nice!
+
 # 3 May
 ## 世界樹の迷宮の終わりです
 
