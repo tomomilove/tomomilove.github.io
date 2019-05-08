@@ -4,6 +4,15 @@ title: Blog
 permalink: /blog/
 month: May
 ---
+# 6 May
+## Bus scare
+
+I was riding the bus home and there was a smell of fuel. The driver stopped the bus and examined it, and it turned out there was some leaking fuel. They couldn't determine the cause but guessed the tank was overfilled or something. So they continued on the bus route.
+
+I got scared though. Is leaking fuel safe? Could the bus, like, suddenly explode or something? I'm not sure how this works, but I imagined the worst. So I got off the bus early and walked the rest of the way home.
+
+It wasn't too bad of a decision! I got to enjoy the sunshine on the way back. Actually, my doctor had recommended getting off the bus early and walking home as a way to get exercise. Also, I stopped by a restaurant on the way home to get dinner, a Mexican restaurant called Rincon Sabroso. It's a good place I used to go to often, but I hadn't been to recently due to it being a bit far.
+
 # 5 May
 ## Returning to ポケットモンスターホワイト２
 
