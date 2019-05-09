@@ -1364,3 +1364,20 @@ Yamamoto: *Sigh*, fine. You can come along. But you’re not allowed to fight! J
 Kaori: Sounds, good! Nice to meet you, everyone! Let’s get along well!
 
 Alice: Happy to have you!
+
+## Chapter 40
+## Genesis Jungle
+
+Kowagarijanai guild, this time with Kaori coming along, continue our journey to the World Tree. The next area we have to pass through is known as the Genesis Jungle.
+
+Before setting out for Genesis Jungle, I had received a request from Princess Persephone. She told me that an adventurer from Maginia had set out for the jungle several weeks ago and never returned. She asked up to keep a lookout for this adventurer during our travels, and to rescue him if it seems like he is in trouble. Of course, I agreed to this request.
+
+As we first set foot in the Genesis Jungle, the atmosphere is clearly very different from the Verdant Forest. The air is heavy with humidity, and a dense fog hangs over the area. Giant palm trees grow thickly, up towards the sky, and the ground is covered in giant ferns of all colors, red, blue, yellow, green. Kinds of plants I’ve never seen before. I can’t explain why, but something about this area gives me the creeps, and I just have a bad feeling about it.
+
+As if to give voice to my thoughts, Lee speaks up up:
+
+Lee: It seems easy to get lost here. Tanaka, will you be making a map, as usual?
+
+Tanaka: Leave it to me! I’ll make the perfect map! We’ll always be able to return to Maginia easily!
+
+We trek through the jungle, and encounter many hostile monsters along the way, including giant insects and multicolored birds. I practice fighting using the ice sword technique Tanaka taught me, and it seems effective. Not to mention, the cold it produces gives relief to everyone, who seems to be suffering from the humidity! As we fight, Kaori patiently watches from the sidelines.

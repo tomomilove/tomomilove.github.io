@@ -4,6 +4,12 @@ title: Blog
 permalink: /blog/
 month: May
 ---
+# 8 May
+## Chapter 40
+
+The next chapter of Kowagarijanai Chronicles is available [here](/story#４０章). English version [here](/english_story#chapter-40).
+
+
 # 7 May
 ## I like cucumbers and I like tea, but this is going a bit far
 
@@ -15,7 +21,7 @@ I've made it no secret that I dislike teas with bizarre things added to it, such
 
 ![Cucumber tea back of the box](/images/blog_may/cucumber_tea2.jpg)
 
-...It's a bit dramatic. I'm not actually sure what it means by "speed-of-sound steam train". Are there steam trains that go that fast...? I'm pretty sure not...?
+...It's a bit dramatic. I'm not actually sure what it means by "speed-of-sound steam trains". Are there steam trains that go that fast...? I'm pretty sure not...?
 
 Anyway, I tried the tea, and... it basically tasted like nothing. It's hard to describe, but the tea felt like it had scent, but no flavor. And it was a very generic kind of scent. I didn't really notice cucumber.
 
