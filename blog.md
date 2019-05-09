@@ -4,6 +4,23 @@ title: Blog
 permalink: /blog/
 month: May
 ---
+# 7 May
+## I like cucumbers and I like tea, but this is going a bit far
+
+![Cucumber tea](/images/blog_may/cucumber_tea1.jpg)
+
+So they had this new tea at work...
+
+I've made it no secret that I dislike teas with bizarre things added to it, such as fruit. Then I saw this _cucumber_ tea. It sounded so awful I had to try it. But first, let's read the back of the box:
+
+![Cucumber tea back of the box](/images/blog_may/cucumber_tea2.jpg)
+
+...It's a bit dramatic. I'm not actually sure what it means by "speed-of-sound steam train". Are there steam trains that go that fast...? I'm pretty sure not...?
+
+Anyway, I tried the tea, and... it basically tasted like nothing. It's hard to describe, but the tea felt like it had scent, but no flavor. And it was a very generic kind of scent. I didn't really notice cucumber.
+
+Conclusion: The tea wasn't as bad as I was expecting, but it just felt kind of pointless to me.
+
 # 6 May
 ## Bus scare
 
