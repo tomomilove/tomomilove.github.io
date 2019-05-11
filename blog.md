@@ -4,6 +4,17 @@ title: Blog
 permalink: /blog/
 month: May
 ---
+# 10 May
+## Monoliths
+
+I found this artwork near my work:
+
+![Monoliths 1](/images/blog_may/monoliths1.jpg)
+![Monoliths 2](/images/blog_may/monoliths2.jpg)
+![Monoliths 3](/images/blog_may/monoliths3.jpg)
+
+As you can see, they are large rocks split down the middle and with binary code inside. I kind of like these actually! I like the contrast between the rough, natural surface of the rocks and the clean cut interior, and the trees complement the scene well! It's not overdone either; it's minimalist in a nice way. I think the whole thing just gives off a deeply mysterious impression, which I find sparks my imagination!
+
 # 9 May
 ## Thoughts after playing Pokemon for a few days
 
