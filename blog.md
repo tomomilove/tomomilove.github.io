@@ -4,6 +4,21 @@ title: Blog
 permalink: /blog/
 month: May
 ---
+# 9 May
+## Thoughts after playing Pokemon for a few days
+
+I have to say, this isn't exactly the best game for practicing kanji! There is katakana everywhere, and tons of borrowed English words. I wonder, is this how people normally speak and write? Or is it just because the game is aimed at kids? On the plus side, I have gotten much faster at reading katakana!
+
+One aspect of the game that has been difficult for me is autoscrolling text. Outside of battle the text is fine, but during battle the text automatically advances, and it's too fast for me to read a lot of the time! But maybe it will teach me to read more quickly.
+
+This game has an interesting sidequest where you can participate in "Pokewood", Pokemon's version of Hollywood, to make movies. It's pretty elaborate, actually. You do a fight with a green screen background, and during the fight, you have to fulfill certain conditions to follow the movie script. You also have to choose the correct line to speak at certain points. Afterwards, you can go watch the movie with all the special effects filled in! It's a pretty fun mode, but the problem is, because they give you the instructions during battle, it autoscrolls, and it is too difficult follow. So I end up giving bad answers and creating failure movies!
+
+By the way, I got this pokemon called ヨーテリー:
+
+![Yoterrie](https://cdn.bulbagarden.net/upload/thumb/7/7e/506Lillipup.png/600px-506Lillipup.png)
+
+I named mine ミニク. It looks just like her, right?
+
 # 8 May
 ## Chapter 40
 
