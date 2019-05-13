@@ -4,6 +4,23 @@ title: Blog
 permalink: /blog/
 month: May
 ---
+# 11 May
+## Late mothers' day present
+
+I went downtown today to get a present for my mom. Do you remember, last week I mentioned there was an event where they were selling art downtown? I should have gotten something then! They probably deliberately set it up for mothers' day, too, but I didn't notice at the time.
+
+Anyway, today I got this dog jigsaw puzzle.
+
+![Dog puzzle](/images/blog_may/dog_puzzle.jpg)
+
+I think my mom would like it!
+
+All the dogs on here are mixed breeds, and have funny names written next to them.
+
+My plan was to mail it from the downtown post office immediately. However, I didn't make it, because it closed much earlier than I expected! It closed at 2:00. The post office never fails to surprise me with how much it is closed!
+
+Anyway, now I'm not sure how I'm going to send it. I gues I have to go during work, because post office isn't open on Sunday.
+
 # 10 May
 ## Monoliths
 
