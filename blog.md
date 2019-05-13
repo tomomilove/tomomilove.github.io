@@ -4,6 +4,20 @@ title: Blog
 permalink: /blog/
 month: May
 ---
+# 12 May
+## Unfinished model
+
+I didn't have much to do today, so I thought I'd try to make the bicycle model our friends gave me a while back.
+
+![Bicycle model 1](/images/blog_may/bicycle_model1.jpg)
+![Bicycle model 2](/images/blog_may/bicycle_model2.jpg)
+
+Unfortunately it didn't go so well! I only got so far before pieces started breaking. The metal gets really thin at points! I was getting a little frustrated too, and maybe not in the best mood for this sort of thing. In the end, I got this far:
+
+![Bicycle model 3](/images/blog_may/bicycle_model3.jpg)
+
+I may continue on another day. Maybe it would be better to build a little at a time...?
+
 # 11 May
 ## Late mothers' day present
 
