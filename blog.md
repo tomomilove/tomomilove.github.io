@@ -4,6 +4,32 @@ title: Blog
 permalink: /blog/
 month: May
 ---
+# 14 May
+## You don't realize how much you'll miss something until it's gone...
+
+It's really starting to hit me that Milk Pail is closing. Recently, I have been going there often, with increasing frequency, to pick up different snacks. It's exactly the same thing I did when I was about to leave Berkeley, and I started to go to Asha with increasing frequency. Because, if I keep going there more and more, it will never go away, right? Unfortunately, that's not how it works, and time marches on ceaselessly...
+
+Well, enough of that! I got this interesting snack there today:
+
+![Gaufres 1](/images/blog_may/gaufres1.jpg)
+
+They're waffle cookies, earl grey flavor! It sounded interesting, so I figured I might as well try it!
+
+![Gaufres 2](/images/blog_may/gaufres2.jpg)
+
+Here's a look at the cookie. I was surprised to see actual tea leaves stuck in it.
+
+It was pretty good! It reminded me very much of eating earl grey ice cream at Ici together with its cone. I saved some for you, so you should try it and let me know what you think!
+
+# 13 May
+## Intern days
+
+My intern started recently. Actually his first day was last week, but he was in orientation mostly. Today was his first actual day!
+
+I was pretty impressed with how quickly he was able to get things working. He had some code ready to submit on the first day already!
+
+Talking to him a little bit, he seems to have plans to go to grad school. But he's not entirely sure, and maybe will end up working in the industry instead. In that way, he reminds me of myself at that age, unsure what to do. Hopefully the internship will provide some clarity to him! I think it would have for me, if I had done one...
+
 # 12 May
 ## Unfinished model
 
