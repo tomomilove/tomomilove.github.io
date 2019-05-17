@@ -4,6 +4,23 @@ title: Blog
 permalink: /blog/
 month: May
 ---
+# 15 May
+## Mark Twain learning a language
+
+Someone on the WaniKani forums linked [this piece of writing](https://www.cs.utah.edu/~gback/awfgrmlg.html) by Mark Twain called _The Awful German Language_, describing his struggles to learn German. I thought it was pretty funny and relatable with my experience learning Japanese!
+
+It's a pretty long piece, so I won't expect you to read it all, but I'll highlight this section I found funny, which describes difficulty from verbs coming at the ends of the sentences, and difficulties with lack of word breaks. It's something I've struggled with in Japanese as well!
+
+"An average sentence, in a German newspaper, is a sublime and impressive curiosity; it occupies a quarter of a column; it contains all the ten parts of speech -- not in regular order, but mixed; it is built mainly of compound words constructed by the writer on the spot, and not to be found in any dictionary -- six or seven words compacted into one, without joint or seam -- that is, without hyphens; it treats of fourteen or fifteen different subjects [...] -- **after which comes the VERB**, and you find out for the first time what the man has been talking about [...] German books are easy enough to read when you hold them before the looking-glass or stand on your head -- so as to reverse the construction [...]
+
+"Now here is a sentence from a popular and excellent German novel -- which a slight parenthesis in it. I will make a perfectly literal translation, and throw in the parenthesis-marks and some hyphens for the assistance of the reader -- though in the original there are no parenthesis-marks or hyphens, and the reader is left to flounder through to the remote verb the best way he can:
+
+"But when he, upon the street, the (in-satin-and-silk-covered-now-very-unconstrained-after-the-newest-fashioned-dressed) government counselor's wife **met**," etc., etc. [1]
+
+"1. Wenn er aber auf der Strasse der in Sammt und Seide gehüllten jetzt sehr ungenirt nach der neusten Mode gekleideten Regierungsräthin begegnet."
+
+"That is from _The Old Mamselle's Secret_, by Mrs. Marlitt. And that sentence is constructed upon the most approved German model. You observe how far that verb is from the reader's base of operations; well, in a German newspaper they put their verb away over on the next page; and I have heard that sometimes after stringing along the exciting preliminaries and parentheses for a column or two, they get in a hurry and have to go to press without getting to the verb at all. Of course, then, the reader is left in a very exhausted and ignorant state."
+
 # 14 May
 ## You don't realize how much you'll miss something until it's gone...
 
