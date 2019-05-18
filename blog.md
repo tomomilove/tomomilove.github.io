@@ -4,6 +4,23 @@ title: Blog
 permalink: /blog/
 month: May
 ---
+# 16 May
+## Mauve
+
+Do you know what the color mauve looks like?
+
+![Mauve 1](https://www.color-hex.com/palettes/45821.png)
+
+![Mauve 2](https://images.reference.com/reference-production-images/question/aq/color-mauve-look-like_dbcb2707b18a43ef.jpg?width=760&height=411&fit=crop)
+
+(Not my photos)
+
+At my work, sometimes teams can declare emergency situations called "code yellow" or "code red" depending on the severity. It means everyone needs to stop working on their current projects and instead work on the emergency situation.
+
+Anyway, my team recently declared a "code mauve", where only a few people had to work on it, and I was one of them.
+
+Mainly, I'm just wondering what the significance of the color choice was! When I first heard it, I thought maybe it meant more severe than yellow but less severe than red. However, mauve isn't really that color, I guess that would have been "code orange". So I'm not sure what the mauve is meant to signify...
+
 # 15 May
 ## Mark Twain learning a language
 
