@@ -4,6 +4,17 @@ title: Blog
 permalink: /blog/
 month: May
 ---
+# 17 May
+## Mail shocker!
+
+So after failing to send the mother's day present to my mom last weekend, I tried again today. I made the trip to main campus of my work to use the mail machine...
+
+...and when I got there, I discovered they had discontinued the machine! Nooo! 
+
+They recommended buying postage online and printing it out as a replacement for the machine. I could do that, but the problem was, I didn't have any way of figuring out how heavy my package was without the machine. I'm not aware of any other scales at work to use...
+
+So anyway, I guess I'll send it at the downtown post office tomorrow! I'll have to get there before 2:00 this time.
+
 # 16 May
 ## Mauve
 
