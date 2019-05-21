@@ -4,6 +4,19 @@ title: Blog
 permalink: /blog/
 month: May
 ---
+# 18 May
+## 私はイチゴ王子です。
+
+Today we made this sand art kit my sister gave me!
+
+![Sunae](/images/blog_may/sunae.jpg)
+
+I thought it was fun! And not too hard. It's the kind of craft you can just zone out while doing. Those are the best crafts, I think! The result is nice too!
+
+I wonder what I should do with them...? They are too nice to throw away, but I don't have a great place to put them. Would you like to keep yours, or both of them?
+
+Also, I want to be a Strawberry Prince! That sounds like a good life!
+
 # 17 May
 ## Mail shocker!
 
