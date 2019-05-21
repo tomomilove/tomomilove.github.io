@@ -4,6 +4,13 @@ title: Blog
 permalink: /blog/
 month: May
 ---
+# 19 May
+## Rain walk
+
+Today we had a fun day! We walked to the park nearby, and then you told me a story in Japanese. It was about a person who saved a turtle, then as a reward was invited to an underwater kingdom, had fun in different season rooms, and then suddenly discovered a lot of time had passed. I liked the story but I don't remember the name of the main character unfortunately! Maybe one day I'll tell the story to someone else, but mess up the character's name and get some details wrong... I guess that's why folk tales are always changing over time!
+
+After the park walked home and it started raining pretty hard, but we only had a small umbrella! That's okay though, I think being out in the rain is enjoyable, and it was fun to walk with you!
+
 # 18 May
 ## 私はイチゴ王子です。
 
