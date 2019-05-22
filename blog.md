@@ -19,6 +19,8 @@ Actually, you have to order them in a pack, so I got a whole bunch...
 
 ![Wanikani sticker 2](/images/blog_may/wanikani_sticker2.jpg)
 
+What should I do with the others, though?
+
 # 20 May
 ## Work celebrations
 
