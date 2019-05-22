@@ -4,6 +4,31 @@ title: Blog
 permalink: /blog/
 month: May
 ---
+# 21 May
+## Stickers!
+
+I heard a story from one of my coworkers that she accidentally took someone else's laptop on accident... lots of people have the same model so it's easy to get them confused.
+
+So I decided to get a sticker for my laptop to help distinguish it! On my previous laptop I had a sticker about my work company, but actually, that's not recommended, because if you work out in public then people will you know are working for the company. So I decided to get a WaniKani sticker!
+
+![Wanikani sticker 1](/images/blog_may/wanikani_sticker1.jpg)
+
+Cool, right?
+
+Actually, you have to order them in a pack, so I got a whole bunch...
+
+![Wanikani sticker 2](/images/blog_may/wanikani_sticker2.jpg)
+
+# 20 May
+## Work celebrations
+
+Someone at my team at work decided to have monthly celebrations to celebrate the birthdays of all people on the team in that month. Well, they are very small celebrations, because they happen every month, but at least there is cake!
+
+![Work cake](/images/blog_may/work_cake.jpg)
+(Sorry for the upside down photo, it says "It's celebration time!")
+
+It's not much, but I feel like my team is becoming a little more friendly with each other recently!
+
 # 19 May
 ## Rain walk
 
