@@ -4,6 +4,15 @@ title: Blog
 permalink: /blog/
 month: May
 ---
+# 23 May
+## Hurt finger
+
+This may sound like a simple thing, but I have a serious problem!
+
+There's a loose thread in a pocket of one of my pants. I seriously can't help but fidget with it. And I do it so much that two things happen: 1) The tip of my finger actually becomes hurt from rubbing the string too much, and 2) my finger muscles actually become sore and tired from fidgeting too much.
+
+This was a problem a while ago, so naturally I trimmed the loose string. But it came back! And I hurt my finger again over the past couple of days. So today I trimmed the string once more. If it returns again though, I guess I have no choice except to be really strong with my self-discipline? I think it's crazy that my body would naturally want to do this even to the point of hurting itself...
+
 # 22 May
 ## Trophy
 
