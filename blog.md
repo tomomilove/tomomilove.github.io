@@ -4,6 +4,17 @@ title: Blog
 permalink: /blog/
 month: May
 ---
+# 22 May
+## Trophy
+
+My product area at work held an awards thing. You could nominate people in the product area for exceptional work in various categories. I actually don't even know what the categories were, I didn't pay much attention because I don't care so much about awards, but someone nominated my subteam and we won an award!
+
+![Trophy](/images/blog_may/trophy.jpg)
+
+In the award explanation they called out one of the projects I worked on!
+
+To be honest though, a trophy doesn't mean much to me. I don't feel much pride to be acknowledged by the higher-ups in my organization. However, I think I would like it if I got more recognition from my immediate teammates. If I felt that my coworkers cared about my work, I think I would feel more motivated.
+
 # 21 May
 ## Stickers!
 
