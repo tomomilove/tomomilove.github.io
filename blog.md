@@ -4,6 +4,22 @@ title: Blog
 permalink: /blog/
 month: May
 ---
+# 24 May
+## User CSS
+
+At some point earlier I mentioned that the code for a website is generally broken into 3 components:
+- _HTML_, which describes the structure and layout of the site (what content is located where)
+- _CSS_, which describes the colors of the page (colors and fonts)
+- _Javascript_, which handles logic from actions (e.g. causing something to occur when clicking a button)
+
+Since the code for a website is running on your computer, you can replace them with whatever you want! It's common for people to replace the CSS of a site with their own CSS, thereby creating a custom theme for the site!
+
+For a while I've been using a dark theme for WaniKani that someone else made a while ago. But recently WaniKani has been making some changes to the structure of the site, causing parts of theme to break. Unfortunately, the original creator of the dark theme is no longer interested in maintaining it. So I've spent the past couple of days making the fixes myself! It's not too difficult -- you just have to inspect the site to figure out what the names of the components are, then you specify what their colors should be. It's actually kind of fun!
+
+Here's what it looks like now, basically I had to make some fixes in the top bar area, since that's what changed mostly:
+
+![WaniKani dark theme](/images/blog_may/wanikani_dark_theme.png)
+
 # 23 May
 ## Hurt finger
 
