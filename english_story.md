@@ -1381,3 +1381,42 @@ Lee: It seems easy to get lost here. Tanaka, will you be making a map, as usual?
 Tanaka: Leave it to me! I’ll make the perfect map! We’ll always be able to return to Maginia easily!
 
 We trek through the jungle, and encounter many hostile monsters along the way, including giant insects and multicolored birds. I practice fighting using the ice sword technique Tanaka taught me, and it seems effective. Not to mention, the cold it produces gives relief to everyone, who seems to be suffering from the humidity! As we fight, Kaori patiently watches from the sidelines.
+
+## Chapter 41
+## Campfire chat with Tanaka
+
+After a long day of adventuring, night falls and we set up camp in the jungle. We all sit around the campfire, and get to talking, once again...
+
+Lee: I’m curious to hear about your history, Rin-san. You used to be a hero before Alice, right?
+
+Tanaka: That’s right! And I taught her everything she knows! In fact, the sword she wields now used to be mine!
+
+John: So where did you get the sword you use now? It’s kind of a weird, black color.
+
+Tanaka: It’s a secret!
+
+John: Eh??
+
+Lee: So, what did you do as a hero, Tanaka?
+
+Tanaka: I stopped troublemakers in my town! Fought against evil! Stood up for justice! Protected the weak!
+
+John: Cooool! I bet you were a way cooler hero than Alice!
+
+Alice: Hey, hey!
+
+Lee: So what kind of evil did you fight, Rin-san? Fearsome dragons? Crazed wizards? Pirates? Ninjas?
+
+Tanaka: Ohohoho! My arch-nemesis was the famously evil Kouichi! He wielded the powers of dark, and I wielded the powers of light. We clashed many times. But he was no match for me!
+
+Alice: Ahaha, the fearsome Kouichi! You sure showed him.
+
+Yamamoto: …
+
+Lee: Wait, Kouichi? And Rin…? That sounds vaguely familiar. Did I read a comic about this? It can’t quite remember...
+
+Tanaka: You probably did! The local news published a weekly comic about my adventures. It was kind of popular back in the day! Light Sword Rin vs. Dark Sword Kouichi! “Super cool!”, right?
+
+Lee: I remember now! But it was discontinued abruptly, without a proper ending. What happened?
+
+Tanaka: Uh!! Let’s talk about something else, shall we?

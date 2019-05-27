@@ -4,6 +4,18 @@ title: Blog
 permalink: /blog/
 month: May
 ---
+# 26 May
+## Chapter 41
+
+Last time, Kowagarijanai guild began a journey into a dense jungle. Read the latest chapter [here](/story#４１章)! English version [here](/english_story#chapter-41).
+
+# 25 May
+## Double downtown
+
+I rode the train downtown to have lunch and look for a birthday present for my Dad! I didn't fine a good present, so I walked home. Only to discover, once I got back, that I had left my credit card at the lunch restaurant! Luckily a train was coming soon, so I got on it and headed back. Then I stayed for dinner, and walked home again. I thought about taking ride share, but didn't want to waste too much money over such a silly mistake. At least I got extra exercise!
+
+The saddest part was, I had been considering getting dessert downtown, but had decided against it. If I had gotten dessert though, I would have noticed my card was missing before heading home. So I've learned my lesson: always be sure to get dessert when downtown!
+
 # 24 May
 ## User CSS
 
