@@ -4,6 +4,19 @@ title: Blog
 permalink: /blog/
 month: May
 ---
+# 27 May
+## Dad's present
+
+I never know what kinds of presents to get my Dad. I spent yesterday and the day before looking and couldn't find anything. So finally I decided to ask my mom for ideas.
+
+She said he maybe wanted to update his Chromecast to the "4 g" model. So I thought I would get that...
+
+...but when I went to look, I disovered there isn't such a thing as a "4 g" model, as far as I can tell. Instead, there is an "Ultra" model, which has the distinguishing feature of supporting 4K resolutions. Is that what my mom meant, I wonder? I wasn't sure, but it seemed like the best option, so I went ahead and bought it:
+
+![Chromecast](/images/blog_may/chromecast.jpg)
+
+I feel like the kind of parent who isn't 100% sure what their kid asked for as a present and ended up buying a slightly wrong thing. Hopefully I didn't mess up!
+
 # 26 May
 ## Chapter 41
 
