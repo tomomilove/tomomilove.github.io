@@ -4,6 +4,17 @@ title: Blog
 permalink: /blog/
 month: May
 ---
+# 28 May
+## Expensive laptop with the silliest problem
+
+Earlier I mentioned I got a new work laptop. Well, it's now become clear that it has the most disappointing problem. Whenever I type a space, it turns out, about 50% of the time it actually outputs two spaces instead!
+
+It's really quite upsetting. It's impossible to type at a normal rate if you keep having to back up and delete extra spaces. So instead I just go on an ignore the extra spaces. But it looks _so_ wrong...
+
+The laptop has a great screen and a fair amount of power, but none of that matters when it has such a basic usability issue.
+
+I'm wondering what I should do next. I guess I can try to get it repaired? I hope I don't have to replace it though. It took a long time to set up, and I used my WaniKani sticker on it.
+
 # 27 May
 ## Dad's present
 
