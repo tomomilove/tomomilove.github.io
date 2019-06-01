@@ -4,6 +4,36 @@ title: Blog
 permalink: /blog/
 month: May
 ---
+# 31 May
+## The next level of knowledge
+
+I reached level 21 in WaniKani! This means on the scale of knowledge I have moved past the pain (苦) levels into the death (死) levels. Is it going to get much harder, now...?
+
+I would say the pain levels started off a lot harder than the pleasant levels (the first group). However, I eventually got used to it, and in the end the pain levels weren't so bad.
+
+Now for the awards ceremony! My favorite kanji from the pain levels was... drumroll please...
+
+変!
+
+I like how this kanji can mean "change" or "strange"... It doesn't seems to make make sense, and yet, it kind of feels right? Plus, the meanings rhyme in English! Also, change is a good thing, and so is being strange! Plus it's used in cool words like 大変!
+
+And, my favorite vocab from the pain levels was... drumroll please...
+
+無茶!
+
+Apparently this word means absurd, but the kanji for it are like "no tea" for some reason... That's kind of aburd in itself, isn't it? Though I'll agree that having no tea is an absurd situation!
+
+# 30 May
+## Otter bananas!
+
+You brought me this otter banana!
+
+![Otter banana](/images/blog_may/otter_banana.jpg)
+
+It's really cute!! And tasty!
+
+It's such a curious dessert. It looks like a banana, it tastes like a banana, but it is not actually a banana. It is a cake.
+
 # 29 May
 ## Fancy exclusive building
 
