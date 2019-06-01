@@ -4,6 +4,15 @@ title: Blog
 permalink: /blog/
 month: May
 ---
+# 29 May
+## Fancy exclusive building
+
+There's a building at work that you're not allowed to go into normally. It's used for hosting conferences and things like that, and you're only allowed to go in if invited.
+
+This week my company's "all-hands" meeting was held in this building. That's a meeting where they talk about company news to the employees. Usually I don't go to these, but my intern wanted to go. I decided to go, if only to get to see the inside of this building!! We showed up early to the meeting, and there was a massive line of employees waiting! Did they really come for the meeting, or did they just want to see the inside of the building, too...?
+
+Anyway, I got inside and it was pretty nice! I wish I could have taken a photo, but it would be confidential. Anyway, it had a really interesting circular archicture and floorplan, unlike the other building nearby. And it was surprisingly comfortable, too! There was a lot of open space with relaxed seating.
+
 # 28 May
 ## Expensive laptop with the silliest problem
 
