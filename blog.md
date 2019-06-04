@@ -4,6 +4,17 @@ title: Blog
 permalink: /blog/
 month: June
 ---
+# 2 June
+## Valley of the Sun
+
+We took a chill day downtown today! But I was so wrapped up in it I forgot to take photos!
+
+We started it off with ramen at Shalala. I got the shoyu tonkotsu and it was really intense! It was extremely garlicky, and that's even considering you took a bunch from me. And a very high amount of bean sprouts. It was pretty good but a bit too much for me! Maybe a half-sized order with a side would have been better...?
+
+After that we discovered that the gelato place downtown had reopened! I'm not sure what the exact situation is, but it looks refreshed and ready to be carried over by the next generation. I thought it was inspiring!
+
+Finally, we worked on a puzzle at the library! The title of the puzzle was "Valley of the Sun", and I wasn't sure where it was supposed to be exactly. But looking up that term on Google, it seems to be Phoenix, Arizona. We made a ton of progress on the puzzle but didn't quite finish. It got me thinking though: Are there people out there who do puzzles quickly as a competition, I wonder? I've never heard of such a thing, but I bet there are some people who would get really into it...
+
 # 1 June
 ## Suddenly San Francisco
 
