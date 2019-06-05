@@ -4,6 +4,15 @@ title: Blog
 permalink: /blog/
 month: June
 ---
+# 4 June
+## Old teammate
+
+One of our old teammates who left the company came to visit for lunch today! They were here for a conference but had some free time at lunch.
+
+They seemed exactly the same as before! It's funny how it's like that with people. You don't see them for a while and then when you see them again, they are exactly the same.
+
+Unfortunately, I didn't get to talk very much with this old teammate. The lunch table was pretty long, and they were on the other end of it compared to me. Too bad!
+
 # 3 June
 ## Gin gins
 
