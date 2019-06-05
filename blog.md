@@ -4,6 +4,17 @@ title: Blog
 permalink: /blog/
 month: June
 ---
+# 3 June
+## Gin gins
+
+They had this new candy at work I decided to try!
+
+![Gin gins](/images/blog_june/gin_gins.jpg)
+
+Part of the reason I decided to try it is that the name was cute!
+
+Anyway, it was really gingery, as you might expect! And really chewy as well. My first thought when I put it in my mouth was "Is this even food??", because it was so chewy. Overall it was pretty good, but I probably won't eat it again! Candy isn't the best use of sugar, so I have a pretty high bar for any candy I would eat.
+
 # 2 June
 ## Valley of the Sun
 
