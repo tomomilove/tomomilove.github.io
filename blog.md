@@ -4,6 +4,26 @@ title: Blog
 permalink: /blog/
 month: June
 ---
+# 6 June
+## Chocolate soup...
+
+Continuing my quest to find the best hot chocolate, I was informed by a coworker of a new candidate. Apparently, my building sometimes has hot chocolate at breakfast! I didn't know this at all... and the reason was, they serve it from the containers usually used for soup for some reason?? And the only way to get it out is awkwardly with the soup ladle. And there aren't any cups nearby, only the soup bowls...
+
+![Chocolate soup](/images/blog_june/chocolate_soup.jpg)
+
+Yup, there it is in the soup bowl.
+
+Anyway, I tried it, and it wasn't that good! It was kind of watery, not thick like you like it, nor fluffy like I like it. My search for the best hot chocolate continues!
+
+# 5 June
+## Crazy sprinklers!
+
+As I came home from dinner today, I discovered the sprinklers outside going crazy! They were spraying in every direction at high power, flooding the sidewalk. One wasn't even spraying, just gushing out water. And one was spraying super high! I tried to take a picture:
+
+![Sprinkler](/images/blog_june/sprinkler.jpg)
+
+It's hard to see the water in the picture, so I circled the height that it reached. It was even hitting the top of the tree! I've never see anything like it before.
+
 # 4 June
 ## Old teammate
 
