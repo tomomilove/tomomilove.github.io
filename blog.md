@@ -4,6 +4,29 @@ title: Blog
 permalink: /blog/
 month: June
 ---
+# 8 June
+## Hike and party day
+
+We got up early to go hiking today!
+
+![Black mountain](/images/blog_june/black_mountain.jpg)
+
+The hike was pretty nice! I liked the wide, gentle meadows of grass we saw. It looks really fun to run around in. The hike didn't seem too tough for me, but later that day I had a pretty bad headache, so I wonder if I overdid it? Do you know, is heat something you can get used to? If you train and become healthier, will it not affect you as much?
+
+Afterwards we went to Milk Pail's going away party. I already mentioned this, but I'm really going to miss them! Anyway, there were some nice things at the party: we did cheese tasting, got ice cream, listened to a singing group, saw the owner and his daughters, and signed a note for the store! I didn't know what to expect going into the party, although I was half-hoping they would just be offering up large amounts of unsold food from the store, like free ice cream for example...?! Though I guess that was a bit of an unrealistic expectation!
+
+# 7 June
+## Beautiful packagings
+
+You gave me these snacks with nice packagings from Japan. I've been holding on to them because it seemed a shame to throw them out. But I guess it's not good to hold on to this stuff, otherwise it will just start piling up after a while...
+
+It's good to preserve in photos though! Let's do this!
+
+![Packaging 1](/images/blog_june/packaging1.jpg)
+![Packaging 2](/images/blog_june/packaging2.jpg)
+![Packaging 3](/images/blog_june/packaging3.jpg)
+![Packaging 4](/images/blog_june/packaging4.jpg)
+
 # 6 June
 ## Chocolate soup...
 
