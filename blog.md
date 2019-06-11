@@ -4,6 +4,26 @@ title: Blog
 permalink: /blog/
 month: June
 ---
+# 10 June
+## Hat pocket
+
+Did you know my sun hat has a pocket in it? It's on the underside of the roof of the hat:
+
+![Hat pocket](/images/blog_june/hat_pocket.jpg)
+
+See the horizontal line across? It's a velcro pocket!
+
+I wonder what it's intended for? Having no better ideas, I decided to put a note in there, saying my name and email address, and to contact me if you found the hat. That could help if I lose it, right? But the problem is, if someone finds the hat, I doubt anyone would notice the pocket and find the note...
+
+What else could I put in there? I could put some money, to pull out in an emergency. I could put a picture of a rabbit, to pull out as a magic trick. I could put a secret note to you, telling you that I love you!
+
+# 9 June
+## T-shirt weather
+
+It's been hot! I'm not sure if I'm getting weaker as I get older, but I feel less tolerant of it than I used to be! During my Davis days, heat wouldn't bother me at all, in fact, I associate it with fond memories of summer!
+
+Today though, I did the unthinkable and actually couldn't even wear my collared shirt. I had to wear a t-shirt. It's not really my style, but I guess I've come to the point where I value comfort. I guess I'll probably end up doing this on the weekends now...
+
 # 8 June
 ## Hike and party day
 
