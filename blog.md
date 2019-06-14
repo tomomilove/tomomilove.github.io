@@ -4,6 +4,34 @@ title: Blog
 permalink: /blog/
 month: June
 ---
+# 12 June
+## Goodbye Kolkhida
+
+Kolkhida food truck didn't show up yesterday or today. That's the Georgian one that used to be by Milk Pail. Since Milk Pail is closing, they moved to another location nearby a couple of weeks ago.
+
+I checked their Facebook page which usually has news, and it was deleted...
+
+So I called them. The owner answered and told me they were "making some changes". He said they're no longer open to the public, and only do catering now.
+
+I'm so disappointed! I used to look forward to getting food there every week. And the tarragon soda was so good and unique! I really wanted you to try it at some point, just to get your reaction.
+
+I wonder what happened. Maybe the new location after Milk Pail wasn't working out for them. Even I could tell it wasn't a good location. But they could have looked for another place, right...?
+
+But maybe they found a job serving lunch for tech companies or something? Maybe that's more lucrative for them? I wonder.
+
+I remember the owner told me his dream of opening a restaurant some day. I wonder if he's now closer or further away from that goal. I'm wishing him the best! It must be difficult!
+
+# 11 June
+## New laptop... again
+
+The other day I mentioned that my laptop had an issue with the space bar entering multiple spaces. So I went to the tech support at my work to ask for help. They didn't even ask me any questions, and just immediately ordered me another one! I guess they've seen it a bunch, and it's a common problem...
+
+My new laptop just arrived and I spent about an hour or so setting it up again.
+
+The keyboard seems to work, but the other one did too, at first. I'm not sure how to tell early on whether or not it is faulty! I guess I have to put my keyboard through some stress testing, and type a whole heck of a lot! Hopefully that's not what breaks it!
+
+Earlier I mentioned I was thinking of getting a new laptop for home, but now, that thought is completely out of my mind. My current laptop works perfectly fine, and for that reason, I don't want to risk replacing it and ending up with more issues. Do you remember, the first Pixel phone I bought had issues too? I'm not sure if I have really bad luck, or if getting new technology is just a struggle in general!
+
 # 10 June
 ## Hat pocket
 
