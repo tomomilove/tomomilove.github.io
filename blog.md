@@ -4,6 +4,34 @@ title: Blog
 permalink: /blog/
 month: June
 ---
+# 13 June
+## Industrial garden
+
+A new building for my work opened up nearby and it has a kind of industrial theme. I decided to take a look around.
+
+First, outside the building, you can see this broken wall:
+
+![Broken wall 1](/images/blog_june/broken_wall1.jpg)
+![Broken wall 2](/images/blog_june/broken_wall2.jpg)
+
+It's deliberately done that way to be artistic. See, once you go through the broken wall, you come to this area:
+
+![Industrial garden 1](/images/blog_june/industrial_garden1.jpg)
+![Industrial garden 2](/images/blog_june/industrial_garden2.jpg)
+![Industrial garden 3](/images/blog_june/industrial_garden3.jpg)
+
+I'm not sure if you can tell from the photos, but this is actually a lunch area! I think the imagined scenario is that you snuck into an old abandoned factory through a broken wall. It's kind of a cute concept for a design theme I think!
+
+Inside the building is also designed with an old industrial theme. Here's a library area:
+
+![Industrial library 1](/images/blog_june/industrial_library1.jpg)
+
+It has some cool old stuff around, like this phone, typewriter, and camera!
+
+![Industrial library 2](/images/blog_june/industrial_library2.jpg)
+![Industrial library 3](/images/blog_june/industrial_library3.jpg)
+![Industrial library 4](/images/blog_june/industrial_library4.jpg)
+
 # 12 June
 ## Goodbye Kolkhida
 
