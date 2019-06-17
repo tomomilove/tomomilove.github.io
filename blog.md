@@ -4,6 +4,13 @@ title: Blog
 permalink: /blog/
 month: June
 ---
+# 14 June
+## Chapter 42
+
+The next chapter of Kowagarijanai Chronicles is here! Alice is friends are traveling through a jungle on their journey to reach the World Tree. At the same time, they're keeping in mind a request from Princess Persephone to look for a missing adventurer who seems to have gotten lost somewhere in the jungle.
+
+Anyway, read the next chapter [here](/story#４２章)! English version [here](/english_story#chapter-42).
+
 # 13 June
 ## Industrial garden
 

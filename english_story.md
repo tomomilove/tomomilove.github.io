@@ -1420,3 +1420,86 @@ Tanaka: You probably did! The local news published a weekly comic about my adven
 Lee: I remember now! But it was discontinued abruptly, without a proper ending. What happened?
 
 Tanaka: Uh!! Let’s talk about something else, shall we?
+
+## Chapter 42
+## Yamamoto’s revelation
+
+Traveling through a narrow corridor between the trees in the jungle, we stop just before the entrance to a large clearing.
+
+Yamamoto: Wait, do not enter the clearing.
+
+Alice: Why not? This seems like the only way forward.
+
+Yamamoto: ...It’s dangerous.
+
+Alice: So what? We’ve dealt with danger before. We’re no longer new adventurers, we can handle it.
+
+Yamamoto: No. Let’s not go in.
+
+Alice: Can you give me a reason why not?
+
+Yamamoto: …Just trust me on this one. You don’t understand.
+
+Alice: If you can’t give me a reason, I think we should go. I base my decisions on logic, not trust.
+
+Yamamoto:  …
+
+Lee: …
+
+John: …
+
+Kaori: …
+
+Tanaka: ...Can we compromise? Maybe we can send one person in to check if it’s safe. I volunteer!
+
+Yamamoto: No, absolutely not!
+
+Alice: Why not? Give us a proper explanation, please.
+
+Yamamoto: Fine. The master of the jungle, a fearsome flying dragon, awaits in the clearing. If we enter it, it will kill us.
+
+Alice: And how would you know something like that? Why should we believe you?
+
+Yamamoto: I can’t tell you.
+
+Alice: This is ridiculous. I’m going in.
+
+I take a step forward. Then Yamamoto speaks up:
+
+Yamamoto: The truth is -- I saw the future.
+
+I stop.
+
+Alice: Uh, what? Say again?
+
+Yamamoto: I saw the future. Occasionally, I see visions of the future that predict Kowagarijanai guild’s death. I have used the knowledge from these visions to save our guild from death a few times in the past, already. This time, I saw a vision showing us entering the clearing, and the dragon killing us.
+
+Alice: Uh, that’s a little unbelievable, you know…?
+
+Lee: Actually, it’s believable. Do you remember our fight against that huge monster at the end of the Verdant Forest? It seemed like Yamamoto could predict all of it’s moves in advance. At the time, I thought it was weird. It would make sense if Yamamoto could actually see visions of the future...
+
+Yamamoto: Yes, during that fight, I saw many visions of the future that showed Kowagarijanai getting killed in various ways.
+
+Alice: Woah…
+
+Tanaka: Whaaaaaa I had no idea about this, Emika-san!
+
+Kaori: Me too. I’m lost for words. You’ve kept this from me all this time, Yamamoto-san...?
+
+Yamamoto: Sorry, everyone. These visions are painful, so I didn’t want to worry anyone…
+
+Alice: It’s incredible, I have to admit. Sorry for doubting you, Yamamoto Sensei.
+
+Yamamoto: No worries.
+
+Alice: But now, what should we do next…? Maybe this dragon has something to do with the missing adventurer that Princess Persephone asked us to search for. I don’t want to turn back without finding that adventurer.
+
+Yamamoto: You’re right, of course…
+
+John: Oh come on, this should be easy! We have the power to see the future on our side, after all. Yamamoto, can’t you use your vision to figure out a way to approach that’s safe?
+
+Yamamoto: Let me think. There are a lot of us. Maybe, if we spread out, surrounded the dragon from all sides, and then did a surprise attack, we would be successful.
+
+Alice: Sounds good. Let’s try it.
+
+Kaori stays behind, and everyone splits up and surrounds the clearing. From my position, I peer through the trees into the clearing, and can see a massive dragon hovering in the air there. I give a signal, and we all rush in to attack. We do some damage to the dragon, but it’s not enough to take it down. Then, the dragon retaliates. It flaps its wings strongly, whipping the wind up into a tornado. We find ourselves unable to move forward due to the wind. Then, with a sudden powerful gust of wind, it blows us all into the air, then sends us all flying far off in different directions!
