@@ -4,6 +4,19 @@ title: Blog
 permalink: /blog/
 month: June
 ---
+# 15 June
+## QBB
+
+I didn't have much to do today, so I decided to walk downtown and try a new restaurant for dinner. I went to QBB, "Quality Bourbons and Barbeque". I got this pulled pork plate:
+
+![QBB](/images/blog_june/qbb.jpg)
+
+It was pretty good! There was a fair amount of vegetables and not too much meat, so that was nice.
+
+If I have one complaint it's that there was a bit too much sour flavor. The barbeque sauce and the pickled vegetables both had a bit of a sour flavor. However, the cornbread was a good way to break that up. Also, the cornbread came with maple syrup butter, which is as good as it sounds, so that was nice!
+
+Overall, I think I'd be willing to return here! I was pretty happy with the proportions and the flavors!
+
 # 14 June
 ## Chapter 42
 
