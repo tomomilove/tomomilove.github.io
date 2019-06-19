@@ -4,6 +4,28 @@ title: Blog
 permalink: /blog/
 month: June
 ---
+# 16 June
+## Understanding 和
+
+I decided to read a little bit into that book your mother gave me, 日本人の心. I read the first chapter, 和.
+
+To summarize this chapter, it says that the following concepts are needed to maintain 和:
+
+- _Consideration_, you should act in a way to avoid confrontation with others.
+- _Modesty_, you should downplay your own strengths.
+- _Hesitation_, refrain from taking action if it might worsen the situation.
+- _Place_, consider atmosphere of the situation when deciding actions to take.
+- _Space_, maintain space from people in tense situations.
+- _Moderation_, seek out middle road solutions rather than extreme ones.
+- _Apologize first_, then explain yourself after.
+- _Lobbying_, before proposing an idea in front of a group, propose it to individuals of the group in private.
+
+It's an interesting list. The book notes that Westerners may react negatively to some of these. For example, avoiding confrontation could be seen as being distrustful, and downplaying your own strengths could be seen as being dishonest.
+
+I can see both sides. In some sense, _Moderation_ may be key here. If you apply any of these concepts to the extreme, like _Modesty_ for example, it can become annoying.
+
+_Lobbying_ is an interesting one. I actually do this at work, and I don't know anyone else who really does. For me, I think it comes from a place of shyness. But still, I think it is a sensible thing to do.
+
 # 15 June
 ## QBB
 
