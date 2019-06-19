@@ -4,6 +4,19 @@ title: Blog
 permalink: /blog/
 month: June
 ---
+# 17 June
+## Breaking things
+
+Ah... today I accidentally broke the main server at my work, and it lasted for about a half hour.
+
+Well, it wasn't entirely my fault. There was definitely a string of bad decisions that led to this. But I was the one who did the final trigger. Luckily, there is a pretty strong culture of not assigning blame.
+
+Still, I kind of feel bad. After my mess up, a lot of other people have to get involved to analyze the impact of the problem, and exactly how much damage was caused. So I definitely wasted some of their time. Though to be honest, I'm not sure I see the point in analyzing exact impact numbers. It's already over and done with, so what are you going to do about it? You don't use the numbers to inform any future decision, as far as I'm aware.
+
+After an incident like this, you're supposed to write a "post-mortem" doc, that basically describes what happened, and what actions you'll take in the future to prevent it. That makes sense. What I don't get about these, though, is they have _a lot_ of detail in them, like those precise impact numbers I mentioned, and also a timeline down to the minute about every little thing that happened. Again, I'm not really sure what or who this document is for. If it were a higher level summary of lessons learned, I think it'd be great to share with the team. But I'm not sure who cares to read minute-level detail.
+
+Anyway, I suppose my lesson learned is to be more careful in the future! Even a few years into this job, I still don't understand everything.
+
 # 16 June
 ## Understanding 和
 
