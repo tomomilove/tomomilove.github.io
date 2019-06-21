@@ -4,6 +4,25 @@ title: Blog
 permalink: /blog/
 month: June
 ---
+# 19 June
+## Rendaku
+
+Are you familiar with "rendaku"?
+
+It's a term for the process by which latter parts of some Japanese words become voiced. For example, the reason why 人々 is pronounced ひとびと, rather than ひとひと. I bet you can intuitively do rendaku very well, but did you ever study the rules explicitly?
+
+It's always been a somewhat mysterious process to me, so today I listened to a Tofugu podcast covering the subject. Over an hour long, and they only covered the basics. I'll share some of the key findings with you. I'm curious if you ever knew these explicitly!
+
+First, we need to distinguish between 和語 and 漢語 words, words that either originated from the original Japanese, or from Chinese (basically, kunyomi vs onyomi). _In general_, rendaku is likely to occur between compounds involving wago words, and unlikely to occur between compounds involving kango words. Why is it like that, though? It turns out, researchers have a theory:
+
+Did you notice that essentially all wago words start with unvoiced consonants? There are some exceptions, but mostly, you won't see wago words starting with sounds like が or ぜ. Because of this, when you hear a voiced constant in a wago word, you know it isn't the start of a new word -- it has to be in the middle somewhere. Therefore, researchers theorize that in the original Japanese, rendaku was actually a way to distinguish compound words from two separate words simply being next to each other. Interesting, right?
+
+In contrast, kango words can start with voiced consonants. Therefore, if you were to rendaku a kango word, you might change it into another valid word, which could be confusing. On the podcast, they gave the example of rendaku'ing 入学試験（にゅうがくしけん）to にゅうがくじけん. If you did that, it might get confused for another word, something like 入学事件. Therefore, kango words often don't get rendaku'd.
+
+However, there are some kango words that do get rendaku'd. Apparently there are bunch of rules governing this, but the main one is, if the word is old enough or common enough, it's kinda treated more like a native Japanese word, and therefore gets rendaku'd. But there are cases where you wouldn't do it, and so on...
+
+Well this blog post is getting pretty long, so I'll stop now!
+
 # 18 June
 ## Insulation
 
