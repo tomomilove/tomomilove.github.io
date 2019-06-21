@@ -4,6 +4,20 @@ title: Blog
 permalink: /blog/
 month: June
 ---
+# 18 June
+## Insulation
+
+The Blue Apron box I just received was a lot different than usual. The box was lined with ~3/4 inch thick insulation:
+
+![Paper insulation 1](/images/blog_june/paper_insulation1.jpg)
+![Paper insulation 2](/images/blog_june/paper_insulation2.jpg)
+
+Can you tell? It's made from scraps of recycled paper! Here's a close-up, you can see brands and words and things:
+
+![Paper insulation 3](/images/blog_june/paper_insulation3.jpg)
+
+I've never seen anything like it before, and it's pretty cool! Yay for recycling! Next, I can recycle this insulation, too... I wonder if it will be able to be reused yet again...?
+
 # 17 June
 ## Breaking things
 
