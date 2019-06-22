@@ -4,6 +4,17 @@ title: Blog
 permalink: /blog/
 month: June
 ---
+# 20 June
+## Awkward mango lassi
+
+I ate at Mamacitas taco truck, then decided to get a mango lassi at Momo Grill food truck right next to it. I haven't been to Momo Grill since the last time I posted about it, since I wasn't too impressed.
+
+Anyway, I just went to get the mango lassi. After I ordered it, they asked me, "Have you had our food before?" And I was like, "Yes...". Then they were like, "What did you have?" And I was like, "The chicken momos...". Then they were like, "Did you not like it?" And I was like, "Uh, it's not that, I just already ate something today...". And they were like, "Of course, no worries!"
+
+If I had to guess, they are not doing so well, and are seeking feedback. You can really tell just by looking they are not nearly as popular as Mamacitas. Unfortunately I was too taken aback at their questions in the moment to provide a good answer. But thinking about it now, I do have some feedback: I would say the momos are too plain on their own, but the sauce for them is too spicy. And overall, they don't quite feel like a complete meal.
+
+Anyway, the mango lassi was pretty good!
+
 # 19 June
 ## Rendaku
 
