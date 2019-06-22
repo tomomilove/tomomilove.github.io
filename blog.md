@@ -4,6 +4,13 @@ title: Blog
 permalink: /blog/
 month: June
 ---
+# 21 June
+## Ominous example sentence
+
+I'm not sure if you've noticed, but I've been having a bit of a health issue over the past several weeks. I didn't think too much of it, just thought maybe it's an effect of aging or something. But last week I happened to read an example Japanese sentence that said it could be an indicator of larger problems!
+
+I hoped it would get better, so I gave myself another week before scheduling a doctor's appointment. Anyway, it didn't get better, so I made the appointment today, for Monday. I worry about the potential cost, because I'm not even sure how to figure out the cost of appointments, and I did try my best to look. But at least it's a load off my mind for now -- it was really troubling me all week!
+
 # 20 June
 ## Awkward mango lassi
 
