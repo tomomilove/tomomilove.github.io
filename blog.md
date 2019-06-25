@@ -4,6 +4,51 @@ title: Blog
 permalink: /blog/
 month: June
 ---
+# 22 June
+## Flower walk
+
+I decided to take a picture of every kind of flower I encountered on my way to lunch, just for you! There were so many! You realize don't realize just how many there are until you have to stop to photograph each one!
+
+![Flowers](/images/blog_june/flowers1.jpg)
+![Flowers](/images/blog_june/flowers2.jpg)
+![Flowers](/images/blog_june/flowers3.jpg)
+![Flowers](/images/blog_june/flowers4.jpg)
+![Flowers](/images/blog_june/flowers5.jpg)
+![Flowers](/images/blog_june/flowers6.jpg)
+![Flowers](/images/blog_june/flowers7.jpg)
+![Flowers](/images/blog_june/flowers8.jpg)
+![Flowers](/images/blog_june/flowers9.jpg)
+![Flowers](/images/blog_june/flowers10.jpg)
+![Flowers](/images/blog_june/flowers11.jpg)
+![Flowers](/images/blog_june/flowers12.jpg)
+![Flowers](/images/blog_june/flowers13.jpg)
+![Flowers](/images/blog_june/flowers14.jpg)
+![Flowers](/images/blog_june/flowers15.jpg)
+
+Then I found this place...
+
+![Flower walkway](/images/blog_june/flower_walkway.jpg)
+
+A whole walkway of flowers!
+
+![Flowers](/images/blog_june/flowers16.jpg)
+![Flowers](/images/blog_june/flowers17.jpg)
+![Flowers](/images/blog_june/flowers18.jpg)
+![Flowers](/images/blog_june/flowers19.jpg)
+![Flowers](/images/blog_june/flowers20.jpg)
+![Flowers](/images/blog_june/flowers21.jpg)
+![Flowers](/images/blog_june/flowers22.jpg)
+![Flowers](/images/blog_june/flowers23.jpg)
+![Flowers](/images/blog_june/flowers24.jpg)
+![Flowers](/images/blog_june/flowers25.jpg)
+![Flowers](/images/blog_june/flowers26.jpg)
+![Flowers](/images/blog_june/flowers27.jpg)
+![Flowers](/images/blog_june/flowers28.jpg)
+![Flowers](/images/blog_june/flowers29.jpg)
+![Flowers](/images/blog_june/flowers30.jpg)
+
+I have a new appreciation for flowers!
+
 # 21 June
 ## Ominous example sentence
 
