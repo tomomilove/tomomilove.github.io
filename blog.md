@@ -4,6 +4,22 @@ title: Blog
 permalink: /blog/
 month: June
 ---
+# 24 June
+## Doctor's visit again
+
+Didn't think I'd be back to the doctor again so soon, but here I am. I'm happy I went on that visit earlier in the year, so I had an introductory meeting already.
+
+I was thinking my health issue may have been improving over the last couple of days, possibly...? So I was in the awkward position of hoping that it wasn't completely fixed, so that the doctor's visit wouldn't be a waste. But that's not a good thing to hope for, you know? Anyway, I think it is not completely fixed.
+
+Overall, I think it was a good visit. My doctor had me take a test which I'll get some results back in a few days. And she gave me some good advice about diet. So that made me feel better. Let's hope I don't have any serious problem, though!
+
+# 23 June
+## Work at home...
+
+I had trouble getting work done on Friday, and couldn't really focus. I thought about retroactively marking it as vacation time, but instead, I decided to do some stuff today. It wasn't much, just writing up the midpoint evaluation for my intern. I think part of the reason was, I didn't want to write it on Friday when I was in a bad mood from being frustrated with work!
+
+It's hard for me to think of good feedback for my intern. He is doing quite well, I don't really perceive any weaknesses in him. My primary recommendation for improvement was for him to take more initiative in interacting with some of the other members of the team. It's not something I would have expected in the first place, but if he were to develop further, I guess that would be a good area.
+
 # 22 June
 ## Flower walk
 
