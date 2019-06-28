@@ -4,6 +4,25 @@ title: Blog
 permalink: /blog/
 month: June
 ---
+# 25 June
+## Dangerous snack
+
+There's this snack at work I've been ignoring for the longest time:
+
+![Fudge snack 1](/images/blog_june/fudge_snack1.jpg)
+
+It just looks boring, right? Who cares about this snack.
+
+But today I decided to take a closer look at it. I opened it up, and...
+
+![Fudge snack 2](/images/blog_june/fudge_snack2.jpg)
+
+BAM! It's literally just a piece of fudge. I tried it, and yep, it's just pure fudge. I was really surprised!
+
+If I had to guess, I'd say you probably don't like fudge. But me? I think it's an extra special treat! Traditionally, I would only get fudge at Christmas time.
+
+Isn't this snack kind of dangerous? You can't just have free supplies of fudge at work. It's too indulgent! You are going to harm the employees' health! What are you doing?!
+
 # 24 June
 ## Doctor's visit again
 
