@@ -4,6 +4,50 @@ title: Blog
 permalink: /blog/
 month: June
 ---
+# 27 June
+## The hill at the end of the road
+
+Near my work there is a long and straight road, and as you look down it you can it ends at a tall and suddenly steep hill. From afar, it gives the impression of being a wall. It's hard to explain, but it feels like the boundary of the world, because I've never been over there and there's no way to know what's on the other side.
+
+Anyway, I decided to bike over there today (it's pretty far!) to get a closer look.
+
+![Hill 1](/images/blog_june/hill1.jpg)
+
+Feels like the middle of nowhere all of a sudden.
+
+What could be beyond the hill? I can't see anything. I want to go look, but it's all fenced off. Checking Google Maps, I can see there is water on the other side, I guess the bay. I want to go see it!
+
+Also on the map, I can see there is a green area marked off to the side. Maybe I can go there, if I can't cross the hill?
+
+There's a sidewalk parallel to hill that leads to the green area... kind of.
+
+![Hill 2](/images/blog_june/hill2.jpg)
+
+As you can see, it abrutly ends partway.
+
+Eventually, I made it to the green area.
+
+![Green area 1](/images/blog_june/green_area1.jpg)
+![Green area 2](/images/blog_june/green_area2.jpg)
+
+However, I couldn't go in. There was a gate that said no tresspassing. It was weird because I also saw a sign about dog walking and mentioning this is a nature area, so I feel like you should be able to go in. But it looked closed off to me.
+
+After that I decided to leave. I'm not sure what they're doing in this area, but anyway, it doesn't seem too friendly to visitors at the moment! Maybe it will be opened in the future?
+
+# 26 June
+## Mysterious Japanese object
+
+I found this mysterious Japanese object dropped outside my apartment building:
+
+![Mysterious object 1](/images/blog_june/mysterious_object1.jpg)
+![Mysterious object 2](/images/blog_june/mysterious_object2.jpg)
+
+What could it be? Some kind of thing for a baby I guess, but I'm not sure what its use is.
+
+The noteworthy part, though? I can read all the Japanese text on this! Heck yeah!
+
+Though I do have to wonder about one thing... the picture with the whale and the cat says ありがとう. Why? I'm not exactly sure what is going on in this picture, did the whale save the cat from drowning, maybe...?
+
 # 25 June
 ## Dangerous snack
 
