@@ -4,6 +4,25 @@ title: Blog
 permalink: /blog/
 month: June
 ---
+# 28 June
+## Egrets
+
+When I went to my doctor's appointment the other day, I was reminded of just how beautiful main campus of my work is. So I decided to head back there today just to hang out.
+
+It turns out it's baby egret season again! They're all hanging out in the same few trees, making their famous *wa wa* sounds.
+
+It was hard to take a picture because they're mostly up in the trees. There was one on the ground though, this is about as close as I dared get:
+
+![Egret](/images/blog_june/egret.jpg)
+
+Sorry it's a bit of a small picture! Here's a close-up of an egret feather to make up for it!
+
+![Egret feather](/images/blog_june/egret_feather.jpg)
+
+By the way, the there was a sign there that mentioned there are actually two types of egrets! The Great Egret and the Snow Egret! The sign also linked to a [site](http://scvas.org/egrets.html) with more info. It says you can tell the difference because Great Egrets have black feet and Snowy Egrets have yellow feet.
+
+Life as a baby egret sounds tough. The website says that baby egret siblings are hostile to each other and may push each other out of the nest. And the babies that fall are not cared for by the parent.
+
 # 27 June
 ## The hill at the end of the road
 
