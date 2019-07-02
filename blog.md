@@ -4,6 +4,28 @@ title: Blog
 permalink: /blog/
 month: June
 ---
+# 29 June
+## Coyote Hills
+
+Today we went to a nice place called Coyote Hills with my parents. To begin with, the visitors' center had a really nice garden: 
+
+![Coyote hills garden 1](/images/blog_june/coyote_hills_garden1.jpg)
+![Coyote hills garden 2](/images/blog_june/coyote_hills_garden2.jpg)
+
+It was well maintained, and I liked how the trees formed a lush canopy covering the garden. I hope one day I can have a really nice garden like this!
+
+After that, we walked through the marsh. They had a wooden walkway going right through, which was really cool! Unfortunately I didn't get a great picture of it, though. Here is a picture of the marsh, though!
+
+![Coyote hills 1](/images/blog_june/coyote_hills1.jpg)
+
+I liked how tall the cattails were, as you walked through them. You could barely see over them. I think you could make a very interesting labyrinth with the walkway through the cattails! Unfortunately the walkway they had was pretty straight.
+
+We were also able to get up in the hills and look down at the marsh! And over the bay as well.
+
+![Coyote hills 2](/images/blog_june/coyote_hills2.jpg)
+
+Thank you for suggesting this place!
+
 # 28 June
 ## Egrets
 
