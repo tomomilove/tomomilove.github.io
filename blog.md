@@ -4,6 +4,19 @@ title: Blog
 permalink: /blog/
 month: June
 ---
+# 30 June
+## Milk Pail's final day
+
+I know I've already written about Milk Pail a couple of times, but today was the official last day and it was a pretty interesting experience! We got to see the store pretty emptied!
+
+![Empty milk pail 1](/images/blog_june/empty_milk_pail1.jpg)
+
+The final croissants!
+
+![Empty milk pail 2](/images/blog_june/empty_milk_pail2.jpg)
+
+I don't think I've ever been to a store closing like this before. It's sad, but it's also happy, I think. We can say Milk Pail had a successful run, and brought joy to a lot of people, including you and me! I really wonder what the owners and employees are thinking of it. I hope they are proud and satisfied with what they accomplished, they really should be!
+
 # 29 June
 ## Coyote Hills
 
