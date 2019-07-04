@@ -4,6 +4,23 @@ title: Blog
 permalink: /blog/
 month: July 2
 ---
+# 2 July
+## More fuubutsushi
+
+I read about halfway through 日本風物詩! Here are three interesting things I learned from it. I wonder if you already know most of the things in this book, though...?
+
+![Daruma](/images/blog_july2/daruma.jpg)
+
+Daruma are apparently meant to be the Indian Buddhist priest Boddhidharma. The reason they have no legs is that, purportedly, he meditated so long that he could no longer use his legs. And their eyes are wide because he cut off his eyelids in order to prevent himself from falling asleep. Some daruma are weighted in the bottom, so if you tip them, they will right themselves -- this symbolizes how he never gave up!
+
+![Mizuhiki](/images/blog_july2/mizuhiki.jpg)
+
+The cords used for wrapping gifts in this style are known as mizuhiki (水引). I liked this one because the book says gifts are wrapped carefully due to the custom that gifts are not supposed to be opened in front of the gift giver. I like that custom! Everyone should adopt it!
+
+![Uta-garuta](/images/blog_july2/uta_garuta.jpg)
+
+It says there is a card game based on 百人一首, that book of poems your mother gave me! The game is called 歌がるた. The way it works is there are a bunch of cards laid out on the ground containing the second half of each of the poems. Someone reads one of the poems allowed, and then people have to grab the correct card. It sounds kind of fun!
+
 # 1 July
 ## You told me to eat more fruit
 
