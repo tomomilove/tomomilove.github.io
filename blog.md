@@ -4,6 +4,17 @@ title: Blog
 permalink: /blog/
 month: July 2
 ---
+# 4 July
+## Gyu-kaku
+
+Today we went to Gyu-kaku! I had been wanting to go for a while!
+
+![Gyu-kaku](/images/blog_july2/gyu_kaku.jpg)
+
+It was pretty nice! It was kind of similar to a Korean BBQ place, but I liked how it wasn't all-you-can-eat, so I didn't feel pressured to eat too much! I also thought ordering the rice dish turned out to be a good idea, because it gave us something to eat inbetween the meats being cooked.
+
+Overall it was really tasty! I want to go back someday!
+
 # 3 July
 ## Trying some old games
 
