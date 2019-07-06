@@ -4,6 +4,31 @@ title: Blog
 permalink: /blog/
 month: July 2
 ---
+# 3 July
+## Trying some old games
+
+I signed up for Nintendo's online service, and as a part of it, they give you a collection of old NES games to play for free. If you don't know NES, it was Nintendo's first console! Anyway, I decided to try a few I hadn't played before!
+
+_Kirby's Adventure_
+![Kirby's Adventure 1](/images/blog_july2/kirbys_adventure1.jpg)
+First I tried out _Kirby's Adventure_. This game is really unique for an NES game! A lot of games of this era were very difficult, but Kirby bucks the trend by being quite easy. It's also one of the nicest looking games of the time!
+
+![Kirby's Adventure 2](/images/blog_july2/kirbys_adventure2.jpg)
+There was this cute claw machine minigame!
+
+_Ninja Gaiden_
+![Ninja Gaiden 1](/images/blog_july2/ninja_gaiden1.jpg)
+_Ninja Gaiden_, on the other hand, is known for being very difficult. I tried it and it wasn't so bad though. I was surprised that this game actually takes place in the modern world -- you travel through areas like back alleys of an American city, you fight soldiers with rocket launchers, and things like that... the whole thing feels extremely 80s action film, which I find really funny!
+
+![Ninja Gaiden 2](/images/blog_july2/ninja_gaiden2.jpg)
+I was surprised it has pretty stylish cut scenes and an involved story, as well!
+
+_Punch-Out!!_
+![Punch-Out!!](/images/blog_july2/punch_out.jpg)
+In _Punch-Out!!_ you play as the boxer Little Mac, and fight boxing matching against imposing, cartoonish opponents. Do you remember Little Mac from Super Smash Bros? I used him when we played together that one time!
+
+This game is all about recognizing what moves your opponent is going to do, so you can dodge in the correct way, and choose the right counter-attack. It's actually pretty fun and unique!
+
 # 2 July
 ## More fuubutsushi
 
