@@ -4,6 +4,17 @@ title: Blog
 permalink: /blog/
 month: July 2
 ---
+# 5 July
+## Reading ダーリンは外国人
+
+I was reading more into this book! I think it's a pretty good level for me -- not too easy, not too hard.
+
+The characters remind me of you and me a lot! There was this scene where Tony gets really depressed, because when someone asks Saori if he is a good husband, and she responds with 「んーうん」(meaning yes, I guess), but he mishears it as 「ううん」(meaning no). Then he wants to be a better husband, so he decides to do some of the chores, so he volunteers to wash dishes. However, he doesn't do a very good job, like leaving the dishes for too long, or missing certain spots on the dishes like the underside of the bowls. So then Saori has to teach him about that. This scene reminds me of stuff that has happened between us!
+
+Also, here's a funny picture from the book!
+
+![My darling is](/images/blog_july2/my_darling_is.jpg)
+
 # 4 July
 ## Gyu-kaku
 
