@@ -4,6 +4,18 @@ title: Blog
 permalink: /blog/
 month: July 2
 ---
+# 6 July
+## Mountain View's best milk tea award
+
+A few years of living here, I've finally decided what is the best milk tea you can get around here! It is... drumroll please...
+
+Mantra India's chai!
+![Mantra India chai](/images/blog_july2/mantra_india_chai.jpg)
+
+It's really good! It's very mild. Not nearly as spiced as other Indian chai I've had. It's also not very sweet. I think you are meant to put sugar in it, but I never do. I normally don't like unsweetened milk tea, but this one is great for some reason. I like its mildness -- it feels comfortable and homely in a way, like something you can drink a lot of and be happy, the way tea should be.
+
+It comes free with the lunch buffet, but I wonder if I could just walk in and order it by itself? I would totally do that, if I could...
+
 # 5 July
 ## Reading ダーリンは外国人
 
