@@ -4,6 +4,31 @@ title: Blog
 permalink: /blog/
 month: July 2
 ---
+# 7 July
+## Library days
+
+I went to the library today, as usual!  I spend a lot of time sitting in the library, but I never really look at the books. So today I decided to just wander the rows and look at the books!
+
+![Fashions in hair](/images/blog_july2/fashions_in_hair.jpg)
+Would you like to read a >500 page book written in 1969 about fashions in hair throughout the ages?
+
+![Shells book](/images/blog_july2/shells_book.jpg)
+Or how about one showing over 600 kinds of shells?
+
+![Car manuals](/images/blog_july2/car_manuals.jpg)
+There are multiple shelves filled with nothing but car manuals. Each volume is for a single model of car in a single year.
+
+![Say no book](/images/blog_july2/say_no_book.jpg)
+This book is all about advising women on how to say no to things. It reminds me I need to take it better when you say no to me!
+
+![Music book](/images/blog_july2/music_book.jpg)
+In this book, the author admits to being a music pirate and then spends hundreds of pages justifying it. ...Just kidding, I'm not that sarcastic! I don't actually judge the author. I think it's a really interesting topic how people's perception of the value of music has changed!
+
+![Stained glass book](/images/blog_july2/stained_glass_book.jpg)
+This is a terrible photo! But anyway, this is an oversized book about stained glass. I think oversized books are fun!
+
+It's hard to put into words how much variety of books there is on display. I hardly knew which ones to photograph, but I hope I gave a good sample!
+
 # 6 July
 ## Mountain View's best milk tea award
 
