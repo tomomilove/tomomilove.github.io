@@ -4,6 +4,22 @@ title: Blog
 permalink: /blog/
 month: July 2
 ---
+# 8 July
+## All about 込む
+
+I listened to an hour-long Tofugu podcast all about the word 込む and what it does when it's attached to other verbs. You may not realize it, but it's an infamously confusing topic for for native English speakers! I even saw a scene in ダーリンは外国人 about this!
+
+Anyway, to summrize the podcast, when attached to others verbs, there are about 4 different categories of meanings it can add:
+
+- __Going into something__. For example, 飛び込む could mean to jump into.
+- __Going even deeper into something__. For example, 入り込む could mean entering deeply, maybe to a point that you're not supposed to go.
+- __Doing something a lot, or intensely__. For example, 話し込む could mean talking for a long time, or intesely talking.
+- __Repeatedly doing something, up until a certain point__. I forget the exact verb, but they gave an example of repeatedly practicing playing a song until you master it.
+
+Does that sound right to you? Does it match your intuition?
+
+Hopefully I'll understand this pretty well, now!
+
 # 7 July
 ## Library sample
 
