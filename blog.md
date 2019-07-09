@@ -5,7 +5,7 @@ permalink: /blog/
 month: July 2
 ---
 # 7 July
-## Library days
+## Library sample
 
 I went to the library today, as usual!  I spend a lot of time sitting in the library, but I never really look at the books. So today I decided to just wander the rows and look at the books!
 
