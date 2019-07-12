@@ -4,6 +4,13 @@ title: Blog
 permalink: /blog/
 month: July 2
 ---
+# 9 July
+## My Family and Other Animals
+
+It's been a while since I read a novel, but I decided to start on this one my mother gave me a long time back called _My Family and Other Animals_. Recently most of my free time was taken up learning Japanese or gaming, but I finished all the games I want to play, so now I have some time for reading a book.
+
+Anyway, the book is decent so far! It's about an English family that one day decides to move to the Greek island of Corfu. The title of the book makes sense: So far, it spends a lot of time describing all the family members and their quirks, and a lot of time describing animals on the island. The book has a very matter-of-fact kind of humor, and the world it describes seems so lush and friendly. It really makes me want to visit the area!
+
 # 8 July
 ## All about 込む
 
