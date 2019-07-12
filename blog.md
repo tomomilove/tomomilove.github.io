@@ -4,6 +4,21 @@ title: Blog
 permalink: /blog/
 month: July 2
 ---
+# 10 July
+## Music of Tchaikovsky
+
+Today we and your mother went to a concert by the San Francisco Symphony at Stanford's Frost Amphitheater!
+
+It was a really nice experience! I was simultaneously struck by the beauty of the cool summer evening weather, the amphitheatre itself, and the music as well!
+
+Here's some pictures of the theater! I love how it was nestled among the trees, and such beautiful trees they were!
+
+![Frost theater 1](/images/blog_july2/frost_theater1.jpg)
+![Frost theater 2](/images/blog_july2/frost_theater2.jpg)
+![Frost theater 3](/images/blog_july2/frost_theater3.jpg)
+
+I don't know much about music, but I still really enjoy it. It sounds so fantastical to me, so I like to think up fantasy stories while I'm listening to it. I can think up sad parts, or happy parts, or epic parts, depending on what is happening in the music!
+
 # 9 July
 ## My Family and Other Animals
 
