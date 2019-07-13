@@ -4,6 +4,25 @@ title: Blog
 permalink: /blog/
 month: July 2
 ---
+# 11 July
+## Onomatopoeia
+
+Onomatopoeia is definitely a large gap in my Japanese knowledge. They're not taught in WaniKani because they aren't made up of kanji. 
+
+I read Tofugu's article on onomatopoeia but it didn't really help me learn them. Although I did learn a couple of interesting rules around them. Did you know:
+
+- Ones that start with voiced consonants tend to represent stronger, louder sounds
+- The vowel can indicate how high or low pitched the sound is meant to be: a for medium, i for high, and o for low.
+- Repeated parts tend to indicate something happening over and over, or continuously
+- Ending with っ (glottal stop) can indicate abruptness, while ending with り can indicate softness or gentleness.
+- A long vowel can indicate longness of the action
+
+I guess these rules make sense! The article says some of these apply cross-language.
+
+By the way, I think my favorite onomatopoeia so far is ペラペラ, meaning speaking a foreign languge fluently. Seems pretty tough to get there!
+
+Also, Tofugu linked to a site called [Onomatopedia](https://onomatopedia.jp/) which has a bunch of them listed and categorized, with little comics and pictures! It's fun to check out if you are bored!
+
 # 10 July
 ## Music of Tchaikovsky
 
