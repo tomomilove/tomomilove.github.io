@@ -4,6 +4,21 @@ title: Blog
 permalink: /blog/
 month: July 2
 ---
+# 13 July
+## Another library
+
+I was happy about our recent trip to Palo Alto for the concert, so I decided to go back to there today. I didn't have much to do so I looked for a place to sit and read my book, and I found a library right downtown. I had no idea it was there!
+
+![Palo Alto library 1](/images/blog_july2/palo_alto_library1.jpg)
+
+It's super tiny! Not very crowded either, there were a number of seats available to sit. One negative aspect though is they have a toddler section, and toddlers can't be quiet. Not a great fit for a library this small, I think.
+
+They also have a pretty cute courtyard area! It seems like it would be very pleasant to sit outside!
+
+![Palo Alto library 2](/images/blog_july2/palo_alto_library2.jpg)
+
+I have to say though, I'm getting kind of bored on the weekends, just going to libraries and sitting around. I thought about it and I really want to do some kind of social activity. I think I will look up some options.
+
 # 12 July
 ## Le Ton beau de Marot
 
