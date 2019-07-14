@@ -14,7 +14,7 @@ As I mentioned in my last post, I feel a desire to do some kind of social activi
 - I could take up some sport, like tennis or sailing. Although, I did sports as a kid and they never really interested me. I wonder if things would be different now...?
 - I could take up something like yoga or another fitness class. Is it social though, or do people just mostly keep to themselves?
 
-Overall, I'm not yet sure what I would want to do. To be honest, this is tough for me; I felt a rush of anxiety while looking up things. But I do feel like I want to do something.
+Overall, I'm not yet sure what I would want to do. To be honest, this is tough for me... I felt a rush of anxiety while looking up things. But I do feel like I want to do something.
 
 # 13 July
 ## Another library
