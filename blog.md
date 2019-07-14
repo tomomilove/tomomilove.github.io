@@ -4,6 +4,19 @@ title: Blog
 permalink: /blog/
 month: July 2
 ---
+# 12 July
+## Le Ton beau de Marot
+
+I decided to give this book as a present for my intern when he leaves (in less than a month!). He likes reading, and he's interested in language understanding like me.
+
+![Le Ton beau](/images/blog_july2/le_ton_beau.jpg)
+
+Have I told you about this book before? It's all about translation. It was quite an influence on me and my thought process.
+
+If I had to sum up the book's main point, it would be: Language cannot be truly translated by a computer, because the process of translation is as much of a creative art as the original writing, and in fact, can even be more difficult in certain ways.
+
+The most interesting part of the book for me is when the author discusses tradeoffs around doing what he calls "transculturation". Meaning, if there are cultural references in a book, should you translate them literally, or should you change them into analogous cultural references? An example of this would be if you were translating a Japanese book where characters were eating ramen, and instead have them eat hamburgers in the English version. Ther are pretty interesting arguments around when you should or shouldn't do transculturation, and to what extent.
+
 # 11 July
 ## Onomatopoeia
 
