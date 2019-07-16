@@ -5,16 +5,27 @@ permalink: /blog/
 month: July 2
 ---
 # 14 July
-## Looking up things to do
+## Middlefield
 
-As I mentioned in my last post, I feel a desire to do some kind of social activity in my free time. I spent some time looking online and thinking about different things I could do:
+I went running down Middlefield to that Philz you told me about! It was pretty far but I had never been that way, so it was interesting!
 
-- I saw a Japanese conversation group I could try going to. However, I feel like I am not ready to really converse yet. I think I'm in need of some formal instruction around speaking and listening. For that, I could get a Japanese tutor. I found what looks like a decent option. However, I'm not sure of the price without contacting them.
-- I could take a class at the community center like drawing or ceramics. However, the summer season is already over, so I would have to wait for the next season. Also, the classes don't look like they go beyond the introductory level, which is a shame.
-- I could take up some sport, like tennis or sailing. Although, I did sports as a kid and they never really interested me. I wonder if things would be different now...?
-- I could take up something like yoga or another fitness class. Is it social though, or do people just mostly keep to themselves?
+I got to the Philz, though I didn't order anything there. It's a cute looking place!
 
-Overall, I'm not yet sure what I would want to do. To be honest, this is tough for me... I felt a rush of anxiety while looking up things. But I do feel like I want to do something.
+![Middlefield Philz](/images/blog_july2/middlefield_philz.jpg)
+
+On the way back I happened to discover... another library!
+
+![Mitchell Park library 1](/images/blog_july2/mitchell_park_library1.jpg)
+
+Unlike yesterday's library, this one is really big, and looks really new and super fancy inside! I don't think I've been in a richer looking library before! It's called Mitchell Park library, by the way. Here's the interior!
+
+![Mitchell Park library 2](/images/blog_july2/mitchell_park_library2.jpg)
+
+On the way back from that, I decided to stop by Rick's ice cream!
+
+![Rick's ice cream](/images/blog_july2/ricks_ice_cream.jpg)
+
+I got the white chocolate ginger flavor. It was good! The ice cream was quite dense and smooth, and I quite liked it! I wonder if you would? Let's go there together next!
 
 # 13 July
 ## Another library
