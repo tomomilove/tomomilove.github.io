@@ -4,6 +4,31 @@ title: Blog
 permalink: /blog/
 month: July 2
 ---
+# 15 July
+## Shower cleaning
+
+I decided that I really needed to do something about my shower!
+
+First I got out the bleach, which quickly wiped out all the mildew. However, it doesn't get rid of what I assume is just dirt that has accumulated. That stuff is really hard to get off, so I bought some of those magic erasers and got to scrubbing. Even with that it was quite tough, but I got a lot of it off!
+
+![Shower 1](/images/blog_july2/shower1.jpg)
+
+Not all of it though, as you can see. It really is painstaking work, and my arm and thumb were starting to hurt, so I decided to spread it out over a couple of days.
+
+I cleaned the windows as well!
+
+![Shower 2](/images/blog_july2/shower2.jpg)
+
+It's important to dry off the shower after use to prevent it from becoming dirty again soon. So I got this squeegee!
+
+![Shower 3](/images/blog_july2/shower3.jpg)
+
+I also got out this drying rack my mom gave me a long time ago for separate towel drying!
+
+![Shower 4](/images/blog_july2/shower4.jpg)
+
+I'm feeling better about the shower situation now!
+
 # 14 July
 ## Middlefield
 
