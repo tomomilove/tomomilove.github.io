@@ -4,6 +4,22 @@ title: Blog
 permalink: /blog/
 month: July 2
 ---
+# 16 July
+## Stanford Electric Works
+
+I finally went to Stanford Electric Works! It's been there the whole time, but for some reason I never managed to go, even though it seemed interesting (over 100 years old!), and even though I have been lacking a lamp.
+
+![Stanford Electric Works 1](/images/blog_july2/stanford_electric_works1.jpg)
+
+It turns out though, this is not the place for me. It's not for buying personal lamps. It seems like they mostly sell installation type lighting. So this is the kind of place you would go if you were bulding or remodeling a house.
+
+It was also way different than I was expecting inside! From afar I imagined it would be a kind of old and dingy place, filled with stuff that would be pratically antiques. But actually, it was clean and modern inside!
+
+![Stanford Electric Works 2](/images/blog_july2/stanford_electric_works2.jpg)
+![Stanford Electric Works 3](/images/blog_july2/stanford_electric_works3.jpg)
+
+I'm actually a little disappointed! I would have liked to browse some antique lighting!
+
 # 15 July
 ## Shower cleaning
 
