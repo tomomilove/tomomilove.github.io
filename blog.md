@@ -4,6 +4,21 @@ title: Blog
 permalink: /blog/
 month: July 2
 ---
+# 18 July
+## Plushie perseverance
+
+A long time ago, there was a certain plushie sold at my company's store. I didn't buy one at the time, but later, I decided I'd like to have one. However, they were no longer available.
+
+So I made a post on an internal forum of my company asking if there was any way to get one now. This was over two years ago. It turned out to be a very popular post! Lots of other people chimed in, wanting it too.
+
+Eventually there was a response. They said there was a certain process to follow, and they'd give you one. But they never followed through. Then they said they would set up an online store for this.
+
+The years passed without update. Random employees would occasionally bump the thread -- I guess it became the definitive thread for people searching for these plushies.
+
+Then today, out of the blue the thread was bumped announcing they had set up the web store, and you could now order the plushies among other things!
+
+I went ahead and bought one, I'll show it to you when it arrives!
+
 # 17 July
 ## Looking up things to do
 
