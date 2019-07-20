@@ -4,6 +4,23 @@ title: Blog
 permalink: /blog/
 month: July 2
 ---
+# 19 July
+## (Almost) end of blog
+
+Tomorrow's the last scheduled day of the blog! I successfully published a post for every day, even though they weren't always on time! Woohoo!
+
+So what did you think? Did you enjoy this blog?
+
+I had fun with it! At times it was difficult, as I struggled to come up with something interesting to talk about for some days. But it also convinced me to try some new things I wouldn't have otherwise, in order to get a blog post out of it, so I think that's a good thing!
+
+What did you think of the story, 怖がりじゃないクロニクルス? I didn't get anywhere close to finishing it. I have a lot more of it planned out that I never got to. For example, Kaori is meant to become one of the five main characters, even though you only just met her near the end of what I wrote. And I had some pretty rich backstory planned out for Tanaka and Yamamoto Sensei that I never got around to revealing.
+
+I'm currently undecided on whether I'll continue the story. It was primarily meant as a way to practice Japanese, but I feel like it's a ton of work and I don't get a lot out of it. I think I don't actually learn that much without receiving feedback on all the mistakes I'm making, unfortunately. Still, it might be worth continuing, since I do enjoy writing. I might be able to do a weekly chapter going forward, since I'm not writing daily blog posts. Another option is for me to continue the story only in English. That way, it's purely fun for me, and not so difficult.
+
+I'm also wondering if I should still post pictures on the blog for when we go to interesting places, or whether it'd be better to share those photos with you directly. Let me know if you have a preference!
+
+Anyway, with the blog ending, don't expect me to tell you any less about my life! I hope to still tell you about the random foods I'm trying and games I'm playing and whatnot, just over text or in person or whatever!
+
 # 18 July
 ## Plushie perseverance
 
