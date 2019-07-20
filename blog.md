@@ -4,6 +4,21 @@ title: Blog
 permalink: /blog/
 month: July 2
 ---
+# 20 July
+## My year with Tomomi
+
+Hi sweet Tomomi,
+
+お誕生日おめでとうございます！
+
+It's the final scheduled day of the blog, and today, I just want to tell you how much I love you. For me, this love isn't just an abstract concept, not just something I say. It's an active thing, something we've lived. I hope the blog shows that. We've done a lot together this year, ranging from fun to mundane -- we've listened and danced to music, hiked in Coyote Hills, had hot chocolate in SF, celebrated the closing of Milk Pail, played with Minik, gone to a wedding, made fairy doors and sand art, spoke Japanese together, walked downtown in the night, made puzzles, hung out with family, just relaxed, and more. It has been a whole and beautiful year with you.
+
+It has also been a year with hardships, for each of us individually and also between us. But I think that is natural, and that is love too. People are complicated, and I think it's hard to really understand another person in their entirety, rather than as just see them on the surface for the happy face they put on. I think that deep and difficult understanding is a part of love too.
+
+Tomomi, I wish for nothing more than to continue our story together next year. I don't know what the next year holds, but I do know that I want to be a source of love and joy for you. Sharing my life with you is the best thing that ever happened to me, and I hope we can continue to try new things together, in the spirit of the blog. Here's to another year filled with music and nature and sweets and language and fun!
+
+P.S. I hope you enjoy kayaking and cake and your present!
+
 # 19 July
 ## (Almost) end of blog
 
