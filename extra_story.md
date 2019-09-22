@@ -72,7 +72,7 @@ Emika: Something isn’t adding up here. Does everyone get to do this, when they
 
 Cloaked figure: Oh, definitely not. Only certain distinguished individuals who have... erm… _significantly altered_ the balance of life and death in the world get this chance. 
 
-Thinking back on all the people I have killed, both personally in battle and indirectly through my actions as emperor, I feel my heart sink. The cloaked figure doesn’t acknowledge me, and continues:
+Thinking back on all the people I have killed, both personally in battle and indirectly through my actions as emperor, I feel my heart sink. The cloaked figure doesn’t acknowledge my obvious distress, and continues:
 
 Cloaked figure: It wouldn’t be interesting otherwise, right? You have to realize, Death is quite bored, and is only doing this for amusement. No sense in sending someone back if hardly anything will change, don’t you agree?
 
