@@ -2,9 +2,20 @@
 layout: blog
 title: Blog
 permalink: /blog/
-month: July 2
+month: New
 ---
 # 22 September
+## Extra story
+
+Hey, check yesterday's post! I finally added a new chapter of Kowagarijanai Chronicles!
+
+Today, I wanted to post an extra story I wrote, detailing Yamamoto's backstory. It explains why Yamamoto can see visions of the future. This has actually been written for a long time, I just never had the opportunity to post it.
+
+This story is quite long and written with more detail than a typical chapter, so it's only in English, there is no Japanese version. Anyway, it has its own webpage, [here](/extra_story).
+
+Sorry if it's kind of long, only read it if you have some free time!
+
+# 21 September
 ## Chapter 43
 
 The next chapter of Kowagarijanai Chronicles is [here](/story#４３章)! English version [here](/english_story#chapter-43).
