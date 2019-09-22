@@ -4,6 +4,15 @@ title: Blog
 permalink: /blog/
 month: July 2
 ---
+# 22 September
+## Chapter 43
+
+The next chapter of Kowagarijanai Chronicles is [here](/story#４３章)! English version [here](/english_story#chapter-43).
+
+Here's a recap in case you forgot what has happened so far:
+
+Alice, Tanaka, John, Lee, Yamamoto, and Yamamoto's apprentice Kaori set off to explore a jungle. After traveling for some time, Alice got into a disagreement with Yamamoto about whether or not they should continue further in. At which point, Yamamoto revealed that she sometimes receives visions of the future, and she had one in which the party encountered a powerful dragon that killed all of them. Using this knowledge, the party planned a surprise attack on that dragon. However, it ended in failure, when the dragon stirred the wind up into a tornado that sent each member of the party flying in different directions.
+
 # 20 July
 ## My year with Tomomi
 

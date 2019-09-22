@@ -1503,3 +1503,46 @@ Yamamoto: Let me think. There are a lot of us. Maybe, if we spread out, surround
 Alice: Sounds good. Let’s try it.
 
 Kaori stays behind, and everyone splits up and surrounds the clearing. From my position, I peer through the trees into the clearing, and can see a massive dragon hovering in the air there. I give a signal, and we all rush in to attack. We do some damage to the dragon, but it’s not enough to take it down. Then, the dragon retaliates. It flaps its wings strongly, whipping the wind up into a tornado. We find ourselves unable to move forward due to the wind. Then, with a sudden powerful gust of wind, it blows us all into the air, then sends us all flying far off in different directions!
+
+## Chapter 43
+## Lost
+
+I wake up, and find myself lying on the ground, in a place I have never seen before. No one else is around. Apparently, the dragon’s wind blew me far away, and I lost consciousness when I hit the ground. Now that I’ve woken up, I have no idea how much time has past, where I am, or where anyone else is. I no longer have the map either, so I have no idea how to get back to Maginia. Due to the forest’s fog, I can’t see the sun to figure out my direction, either. I look around the jungle around me, and every direction looks the same.
+
+Alice: Is anyone here?!
+
+My voice echoes through the silent jungle. It doesn’t seem like anyone else is nearby.
+
+I figure I should go look for the others. I don’t want to just wait around, because what if they’re severely injured and need me to save them? As I travel through the labyrinthian jungle, I create a new map. Since I have no idea where I am to begin with, the new map won’t show me the way back to Maginia, but at least I can use it to avoid repeating my steps.
+
+Traveling through the jungle alone is a bit unnerving. I hate to admit it, but if I encounter a powerful monster I’m not sure I could fight it by myself. I do my best to keep calm, reminding myself I’m not the kind of person that gets afraid.
+
+Before long, I notice a conspicuous patch of pink flowers on the ground. Taking a closer look, I see they seem to lead in a trail. Having nothing better to do, I decide to follow them. I come to a secluded small pond, almost hidden entirely by a barrier of trees. The shore of the pond is covered in a lush field of flowers, and I see Kaori sitting among them.
+
+Alice: Kaori-san!! Thank goodness!!
+
+I rush over to her.
+
+Kaori: Alice-san! Ah, did you see the trail of flowers? I was hoping that would lead someone here.
+
+Alice: You made the trail of flowers? Very resourceful!
+
+Kaori: Yup, that was my magic!
+
+Alice: You’re not injured, are you?
+
+Kaori: I’m fine! I took some damage from the dragon’s attack, but I healed myself right up with magic! --Ah, Alice, are you injured?
+
+Alice: Yeah, a little...
+
+Kaori: My apologizes for not noticing sooner! Let me take care of that right now!
+
+Kaori uses her healing magic on me.
+
+Alice: Thank you! I feel great! You know, you’re a much better healer than John.
+
+Kaori: Oh, it’s nothing really! Anyway, shall we go look for our friends?
+
+Alice: It’s getting a bit late I think. This is a pretty nice place, so let’s rest here for tonight. We’ll start searching again in the morning.
+
+Kaori: Sounds good!
