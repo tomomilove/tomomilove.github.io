@@ -10,7 +10,7 @@ I hear the sound of gently lapping waves. I open my eyes, but see only darkness.
 
 I look around. I am standing on a sandy beach, and a calm ocean stretches before me. I don’t recognize this place. Was I just washed ashore from somewhere further away? More strange, however, is the sky: it is pitch black. There is no sun, no moon, no stars, no clouds. There is nothing on the horizon either, no mountains or detail. And there is nothing between me and the horizon either, other than the dark waters.
 
-Thinking about the pitch black sky, it strikes me as odd that I can see anything at all. If there really is no light source, then how can I see the sand, or the water, or myself?  The lighting on these objects is somewhat flat, almost as if they are emitting their own light.
+Thinking about the pitch black sky, it strikes me as odd that I can see anything at all. If there really is no light source, then how can I see the sand, or the water, or myself?  The lighting on these objects is somewhat flat, almost as if they were emitting their own light.
 
 Taking a closer look at myself, I notice that I am barefoot. I am wearing a simple green dress and khaki trousers, and my hair is long and down. I remember this outfit; I haven’t dressed like this since I was a young woman back in my home village, when I spent my days running around the forest and trying to teach myself magic. I look at the sand and barely begin to think of it, when a plant shoots out of the ground, and starts growing into the sky. It’s the plant-growing magic spell I struggled so hard to learn back then, but never could! Somehow, it comes naturally to me now.
 
