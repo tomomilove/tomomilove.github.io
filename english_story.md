@@ -1546,3 +1546,94 @@ Kaori: Oh, it’s nothing really! Anyway, shall we go look for our friends?
 Alice: It’s getting a bit late I think. This is a pretty nice place, so let’s rest here for tonight. We’ll start searching again in the morning.
 
 Kaori: Sounds good!
+
+## Chapter 44
+## Spark of inspiration
+
+While traveling through the jungle, Kaori and I suddenly come across a person. It’s someone we’ve never seen before. A somewhat short young man, carrying a large sword as a weapon.
+
+Alice: Uh, hello there!
+
+The man warily turns towards me.
+
+Man: ...Hey.
+
+Alice: My name’s Alice, and this is Kaori. We’re adventurers from Kowagarijani guild, from Maginia. You’re an adventurer from Maginia, too?
+
+Man: ...Yeah.
+
+Alice: Actually, Princess Persephone asked us to look for a lost adventurer. Could that be you? Will you travel with us back to Maginia?
+
+Man: Forget it!
+
+The man runs off into the jungle alone.
+
+Alice: Hey wait!!
+
+But he is already gone.
+
+Kaori: Interesting fellow. He seems troubled, don’t you think?
+
+Alice: Yes. I guess he doesn’t want us to bother him, though? Nothing we can do. Let’s just go look for our friends.
+
+Kaori: I guess so…
+
+Suddenly, we hear a crashing sound from the jungle before us. It sounds like someone’s fighting!
+
+Kaori: Let’s go take a look!
+
+We rush towards the source of the sound. We see the man fighting against a strange blob monster. He seems to be losing and has taken a lot of damage!
+
+Alice: I’ll help!
+
+I draw my sword and rush into battle alongside the man.
+
+Man: Go away! This isn’t your fight!
+
+Then the man takes a particularly strong hit from the blob monster, and gets knocked to the ground.
+
+Alice: Of course I’m going to help!
+
+I strike at the blob monster with my sword, but it’s ineffective. It just absorbs my sword hit!
+
+Alice: Dang it!
+
+The monster retaliates and strikes back and me, causing damage.
+
+Alice: Ugh… what to do?
+
+Kaori: I’m helping!
+
+Kaori draws her own sword and rushes into battle alongside me.
+
+Alice: Hey, didn’t Yamamoto Sensei tell you not to fight?
+
+Kaori: Yamamoto-san isn’t here, now is she?
+
+Kaori raises her sword, and a magic power emits from it, healing my wounds and filling my body with a surge of power. I feel like I can move twice as fast and strike twice as hard.
+
+Alice: Woah…  what is this?
+
+Kaori: This is my power! Now go, Alice! You can do it!
+
+I feel a sudden surge of emotion and inspiration, and electric sparks crackle from my sword. Is this the electric power Tanaka Sensei told me about…?
+
+Alice: Spark sword!!
+
+I strike at the monster. It absorbs the hit from my sword, but then there is a powerful burst of electricity, defeating it instantly.
+
+Alice: We did it!
+
+I feel tired from my powerful attack, but Kaori uses another magic spell, and I feel my energy returning.
+
+Alice: You’re incredible, Kaori!
+
+Kaori: It was nothing!
+
+Next, Kaori goes over to the man, heals his wounds as well, and helps him up. He looks at us sheepishly, and says:
+
+Man: Thanks. You really saved me.
+
+Alice: Now, are you willing to talk with us for a little bit?
+
+Man: Yeah, sure!

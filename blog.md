@@ -4,6 +4,20 @@ title: Blog
 permalink: /blog/
 month: New
 ---
+# 20 October
+## Inspiring quote
+
+I came across this quote and really liked it, so I wanted to share it with you:
+
+"I beg you, to have patience with everything unresolved in your heart and to try to love the questions themselves as if they were locked rooms or books written in a very foreign language." -- Rainer Maria Rilke, _Letters to a Young Poet_
+
+Recently I have been worrying over things like finding a good job, but reading quotes like this gives me peace. To have patience with the unresolved things... it's a state-of-mind that I had once believed in, but have perhaps forgotten recently. To embrace the challenge, like reading a foreign language, is something I know I can enjoy. I hope to maintain that mindset.
+
+# 12 October
+## Chapter 44
+
+The next chapter of Kowagarijani Chronicles is here! Last time, the party all got separated and lost in the jungle, though Alice managed to meet up with Kaori. See what adventures await them in [chapter 44](/story#４４章)! English version [here](/english_story#chapter-44).
+
 # 22 September
 ## Extra story
 
