@@ -4,7 +4,7 @@ title: 智美Love
 ---
 
 ## What's new
-- 2019 10 November: There have been a few posts on the blog since it officially closed in July. Check them out!
+- 2019 November 10: There have been a few posts on the blog since it officially closed in July. Check them out!
 
 - 2018 July 20: Hello dearest Tomomi! There's a new [Blog](/blog) page open! Expect an update mostly every day for the next year!
 
