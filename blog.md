@@ -4,6 +4,11 @@ title: Blog
 permalink: /blog/
 month: New
 ---
+# 24 November
+## Fredericka the Great chapter 2
+
+I posted chapter 2 of Fredericka the Great [here](/fredericka_the_great#talents-of-the-fox)!
+
 # 10 November
 ## Fredericka the Great
 
