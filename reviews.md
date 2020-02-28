@@ -7,6 +7,29 @@ permalink: /reviews/
 
 Here I write reviews on movies, etc. that we've seen together!
 
+## Parasite
+
+![Parasite](https://static.rogerebert.com/uploads/review/primary_image/reviews/parasite-movie-review-2019/hero_parasite-movie-review-2019.jpeg)
+_Photo from https://www.rogerebert.com/reviews/parasite-movie-review-2019_
+
+_Parasite_ is a really entertaining movie to watch, putting any deep symbolism and meaning aside. The scenes are suspenseful and you want to see how they turn out. The movie feels like it has a lot of unique ideas in it, and tells a story that I haven’t seen before. Just the whole concept of this family slowly parasitizing another family is pretty unique and creative. I don’t even know if I could pick a genre for this movie, it’s just kind of its own thing.
+
+One of the big questions I have after watching the movie is whether the family members are good or bad. They deceive the rich family in order to get money, but it doesn’t seem so bad because the rich family has so much more than them. The movie is called “parasite”, which has a negative connotation, but I guess if you think of a parasite like a bug then it’s kind of small and pathetic as well. So they don’t seem so bad for deceiving the rich family. Instead, I think the moments they seem the worst is when they backstab the other workers at the house, and when they are initially unsympathetic to the people in the basement. But then again, the people in the basement are equally willing to backstab them. And the rich family is the same as well, as they are also lie in order to fire the workers in their house.
+
+So it seems like everyone in the film is willing to hurt others in order to protect themselves. Except however, the bonds of family seem strong. The family of four sticks together no matter what, and the basement couple also stick together no matter what. The rich family seems a little different though, as the rich man scoffs at the idea that he loves his wife. What is his story, I wonder? Has he become so obsessed with money that he has forgotten love? I am not sure, I don’t feel like the film gives a lot of insight into him.
+
+It does, however, make me think of the ending of the film. The brother says something along the lines of he no longer cares about starting a family or any kind of success, the only thing he wants is to earn lots of money, so he can buy the house and free his father. While he still cares for his family, it seems like he has become obsessed with earning money. If he one day becomes rich, will he be like the rich man, and eventually forget love? 
+
+In any case, the ending feels quite sad and tragic to me in a way. The brother has been reduced to caring only about money, like his spirit is broken otherwise. I feel that captures a lot of what the film is about. This idea that people want to care about their families, people want to be good and friendly, and yet they are forced to struggle over money.
+
+I think the film is trying to say this is a kind of harsh reality of the world. I get this sense because moments of tragic irony and unfairness are common throughout the film. It’s like reverse karma, or the saying that no good deed goes unpunished. There is the friend who gives the brother a tutoring opportunity, then gets his girl taken. Or there is the sister, who is about to bring food down to the people in the basement but gets stopped, then the brother goes in with the intent to kill and sets off the violent outbreak, yet it’s the sister who ends up getting killed in the end.
+
+Capping off the absurd tragedy of this film is near the end when the father decides to stab the rich father. This is a moment I still don’t really understand. There wasn’t anything specifically bad between them as far as I’m aware. It’s a moment that feels absurd, I think, if you think of it like a parasite turning against its host, which just ends up destroying both of them. So why? I interpret it as him just being so frustrated and wanting to lash out against a rich person in general, perhaps he is blaming the situation of the poor on the rich at large. The movie seems to refrain from doing that mostly, but I felt it in that moment.
+
+I kind of felt for the father, in general. I’m not sure if I’m remembering this correctly, but I think there is a scene in the film after everything starts to fall apart where he slumps to the ground and puts his face in his hands and just seems so sad. He seems to be thinking how did it get to this point, why did his life turn out this way. You get the feeling that he always had good intentions, yet he has been screwing up his whole life. That kind of hit me.
+
+Overall it’s quite a tragic and thought provoking film, yet it’s somehow fun to watch and even funny at points. I’m really glad we watched it, it definitely earns a 5/5 score from me.
+
 ## Isle of Dogs
 
 ![Isle of Dogs](https://m.media-amazon.com/images/M/MV5BMTYyOTUwNjAxM15BMl5BanBnXkFtZTgwODcyMzE0NDM@._V1_.jpg)
