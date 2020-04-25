@@ -4,10 +4,12 @@ title: Blog
 permalink: /blog/
 month: New
 ---
-# 24 November
-## Fredericka the Great chapter 2
+# 24 April 2020
+## Inspiring quote 2
 
-I posted chapter 2 of Fredericka the Great [here](/fredericka_the_great#talents-of-the-fox)!
+You know I have an extension for my web browser that shows me a random quote every day. Anyway, I saw this one and I thought it really captured how I feel about you! So I wanted to share it:
+
+“I’m in love with you, and I'm not in the business of denying myself the simple pleasure of saying true things. I'm in love with you, and I know that love is just a shout into the void, and that oblivion is inevitable, and that we're all doomed and that there will come a day when all our labor has been returned to dust, and I know the sun will swallow the only earth we'll ever have, and I am in love with you.” -- John Green, _The Fault in Our Stars_
 
 # 10 November
 ## Fredericka the Great
