@@ -4,9 +4,9 @@ title: 智美Love
 ---
 
 ## What's new
-- 2020 February 28: Added _Parasite_ review to the [Reviews](/reviews) page!
+- 2021 April 30: Added the first chapter of a new story [_In the Time of Ixora Rubiaceae_](/ixora)
 
-- 2019 November 10: There have been a few posts on the blog since it officially closed in July. Check them out!
+- 2020 February 28: Added _Parasite_ review to the [Reviews](/reviews) page!
 
 - 2018 July 20: Hello dearest Tomomi! There's a new [Blog](/blog) page open! Expect an update mostly every day for the next year!
 
