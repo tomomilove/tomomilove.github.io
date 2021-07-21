@@ -541,7 +541,7 @@ Ixora shrugged and went back to eating her food.
 
 ## Chapter 5: Marooned in the Land of the Fallen
 
-Captain’s log: March 1st
+### Captain’s log: March 1st
 
 Today started off seeming like just another ordinary day flying aboard The Bougainvillea. As usual, we didn’t have a particular destination in mind. A gentle wind was carrying our ship southwest, and the great central plains of Interlunium stretched below us, so I mustered some optimism that today would be happy. This peace was not to last, however, when around midday I heard the sound of an explosion and smelled smoke coming from the engine room.
 
@@ -578,7 +578,9 @@ It must have been clear to all the residents that we didn’t belong. I was of c
 Izobel and I had absolutely no luck discovering anything of note. We gave up once the sun began to set, and headed back to The Bougainvillea. We prepared a campfire outside the wreckage of our ship and swapped stories with the others over dinner. Iyo reported that she could not find any way to climb out of the crater. Ian reported that he would try his best to repair the ship within a few days.
 
 The ship is completely uninhabitable, so it looks like we’re sleeping out in the open tonight. As I write this, I can’t help but turn my eyes upward to the shimmering sea of stars above, so close and yet so far. How I long to fly once more, the only thing that brings me peace.
-Captain’s log: March 2nd
+
+### Captain’s log: March 2nd
+
 Today Iyo, Izobel, and I spent our time scavenging for food, while Ian stayed behind to work on the ship. It seems like we might be stranded here for a while. Sadly, just prior to the crash we had binged our food stores, so it seems we only have enough left for a few more days.
 
 Unfortunately, we had little luck searching for food. Outside the town, along the edge of the crater, we found some sickly plants growing, with a few questionably colored fruits and vegetables. I’m really not convinced they’re edible, but Iyo was optimistic, so we picked what we could just in case. We searched around town as well, and found some discarded bits of food, but nothing substantial.
@@ -586,7 +588,9 @@ Unfortunately, we had little luck searching for food. Outside the town, along th
 We had a curious dilemma though. Izobel suggested that we steal food from the townsfolk, since we are pirates after all, and we live by stealing to survive. For some reason, though, I couldn’t bring myself to do it. The townsfolk here are just so pathetic, it just feels like it would be too easy. I think we should hold off on that unless we get really desperate.
 
 The mood over dinner tonight was sullen. No one bothered to engage in conversation. Everything about this place is just depressing, and I find myself withdrawing in.
-Captain’s log: March 4th
+
+### Captain’s log: March 4th
+
 We met a man named Fava while scavenging through town today. A curious fellow. He introduced himself by firing a gun at us from behind (which luckily missed). I drew my own pistol in response but this didn’t seem to faze him at all. He made a motion like removing an imaginary hat from his head and bowing to us, then approached us, smiling and open, as if nothing at all was wrong. He didn’t stop until he was uncomfortably close to me, until my raised pistol was pressing into his chest. I got a look at his eyes and they didn’t seem to be focusing on me, or anywhere really, just staring blankly. Then in an unnaturally slow voice, he just said, “Welcome... welcome to Old Darjeelinum.”
 
 I had a really hard time reading him. His voice had just a hint of sarcasm to it, like he was trying to make a joke or something. Or maybe he was serious, and had lost his sense of how to deal with other people. I wonder if living in a place like this does that to you.
@@ -608,9 +612,13 @@ Then I did something I’m not sure if I’ll regret. We asked him for food and 
 To be honest, I have a bit of an emotional attachment to my coat. In my early days as a pirate, the people I robbed would always remember me by the color red, a symbol of my audacity as a pirate. That’s how the concept of the “Blood Blossoms” was formed: red was our brand, and we would strike blood red fear into the hearts of all.
 
 I agreed to give it up though. It’s just a coat anyway, it can be replaced. If it means food for my crew, it seems a fair trade.
-Captain’s log: March 8th
+
+### Captain’s log: March 8th
+
 I think it’s been about a week since we first crashed in Old Darjeelinum. Food remains tight but we are getting by. Ian assures me repairs on the ship are going fine but I can tell he is struggling. It’s already long past the few days he initially said it would take to repair the ship. It seems most of it is done, except the engine. Normally Ian has such a quiet demeanor but increasingly I’ve seen him practically banging on the engine, clearly frustrated. In fact just today I saw him tightening a pipe so hard he snapped it right off. I’m no mechanic, but the engine looks beyond saving, if you ask me. Recently I’ve caught him dozing off in the middle of the day, I think it’s because he stays up all night working, then eventually his body catches up with him. I want to tell him it’s okay, everything is okay, if he’s working so hard because he thinks this is all his fault, he really doesn’t need to worry about it.
-Captain’s log: March 15th
+
+### Captain’s log: March 15th
+
 Early this morning, we were surprised by a great shadow being cast over us, and looked up to see a fleet of airships high above Old Darjeelinum. They were heavy warships, about two dozen of them, arranged in a precise grid formation, unmoving. There was a particularly huge white ship at the center front, trimmed with silver, with a magnificent white flower insignia emblazoned on its side.
 
 A thousand thoughts rushed through my head upon seeing this. On the one hand, any sight of civilization was comforting at this point. And airships, too! Perhaps they also provided an opportunity to escape from here, if we could commandeer one of the ships, or maybe stowaway. But on the other hand, it was clearly a legion of the army, and when the army shows up somewhere you don’t expect, it’s never a good sign. What could they possibly want from Old Darjeelinum?
@@ -626,7 +634,9 @@ With some heckling of her own, Iyo was able to break Fava’s fixated attention 
 Imagine that. My childhood friend Amaryllis, now a general in the army, and perhaps soon to become an emperor. I always knew she was heading for big things. I’m happy for her, really.
 
 That said, it hurts me to watch the residents of Old Darjeelinum let themselves get walked over like this. It looks like the raids will continue for time. If only the residents would put up some organized resistance, I’m sure they could reduce the damage.
-Captain’s log: March 15th (again)
+
+### Captain’s log: March 15th (again)
+
 I couldn’t sleep tonight. I was thinking about how Amaryllis might be nearby, and it’s been so long since I last saw her. I thought I would go poking around town on the off chance that I might happen to run into her. Of course it was incredibly unlikely, she was sure to be up in her airship while the foot soldiers continued their raiding work. But I was feeling restless and figured why not.
 
 It was a pitch black night. The moon and stars were covered by clouds, and Old Darjeelinum has no lighting infrastructure, not to mention the fact that it’s situated in a giant hole miles away from the nearest real town. It was that kind of deep primordial darkness that makes you feel like you are in a world untamed by humans. It is no stranger to me though. When I was a child, I would often play in the forest at night by myself, taking comfort in the quiet and in the solitude. I developed a skill at sneaking about confidently and quietly in the dark, a skill that has served me well in piracy.
@@ -646,7 +656,9 @@ Ian told me the townsfolk would recognize him, and they would at least listen to
 So that is his story. I always wondered how an educated person such as him fell into piracy. But I never asked before, since after all, we have that rule about throwing out your history when you become a pirate. Still, I feel that he learned the wrong lesson from that rule. If he had told us about his familiarity with Old Darjeelinum earlier, instead of hiding it, it could have helped us a lot. Instead we suffered for weeks for his silence. I feel that he actually let his shame get the better of him, and in that sense, he had not truly disowned it.
 
 Anyway, with Ian’s promise of support, here is the plan I am thinking of for tomorrow. We’ll convince the residents to form a mob to obstruct the soldiers from their raid. In the confusion, us pirates will sneak into one of the landed army ships, steal its engine, install it in The Bougainvillea, and fly off. This plan bets on the fact that the soldiers won’t violently retaliate, because I don’t want the townsfolk to spill blood on our behalf. I’m counting on you, Amaryllis. I’m counting on your good nature, and how you always said you wanted to help everyone… don’t let me down.
-Captain’s log: March 16th
+
+### Captain’s log: March 16th
+
 I wasn’t sure how Ian planned to get the attention of the townsfolk, but this turned out not to be a problem. As soon as we walked into town, people started approaching him, one-by-one at first, then gradually more, and soon a crowd formed around us.
 
 They were all jeering at him, throwing insults at him, calling him worse names than I’ve even heard pirates speak. It was hard to follow the details, but I caught on that they seemed upset at how he had escaped Old Darjeelinum while they had not, as if he thought he was better than them, as if he thought he deserved to live free. I also gathered that he hadn’t been well-liked back when he lived in Old Darjeelinum either, having been seen as aloof, haughty, and cold.
