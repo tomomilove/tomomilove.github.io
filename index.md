@@ -4,6 +4,8 @@ title: 智美Love
 ---
 
 ## What's new
+- 2021 July 20: Full version of the story [_In the Time of Ixora Rubiaceae_](/ixora) has been posted.
+
 - 2021 April 30: Added the first chapter of a new story [_In the Time of Ixora Rubiaceae_](/ixora)
 
 - 2020 February 28: Added _Parasite_ review to the [Reviews](/reviews) page!
